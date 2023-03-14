@@ -48,9 +48,9 @@ for item in loadedMods["wct"].items {
     item.addTooltip(format.red("Deprecated, place in crafting grid to receive resources."));
 }
 
-recipes.addHiddenShapeless("mmingotrefund",<appliedenergistics2:wireless_crafting_terminal>,[<wct:wct>]);
-recipes.addHiddenShapeless("mmingotrefund",<appliedenergistics2:wireless_crafting_terminal>,[<wct:wct_creative>]);
-recipes.addHiddenShapeless("mmingotrefund",<appliedenergistics2:material:60>,[<wct:magnet_card>]);
+recipes.addHiddenShapeless("wctrefund1",<appliedenergistics2:wireless_crafting_terminal>,[<wct:wct>]);
+recipes.addHiddenShapeless("wctrefund2",<appliedenergistics2:wireless_crafting_terminal>,[<wct:wct_creative>]);
+recipes.addHiddenShapeless("wctcardrefund",<appliedenergistics2:material:60>,[<wct:magnet_card>]);
 
 // Creative tank
 <mekanism:machineblock2:11>.withTag({tier: 4}).addTooltip(format.red("Deprecated, place in crafting grid to receive resources."));
