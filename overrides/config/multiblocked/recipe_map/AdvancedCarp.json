@@ -1023,7 +1023,7 @@
         "fluid": [
           {
             "chance": 1.0,
-            "content": "{FluidName:\"seed_oil\",Amount:125}"
+            "content": "{FluidName:\"seed.oil\",Amount:125}"
           }
         ],
         "forge_energy": [
