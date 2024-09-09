@@ -1,0 +1,3163 @@
+# line 0
+e2eu.quest.line.0.title=Getting Started
+e2eu.quest.line.0.desc=This chapter explains how to get started with the pack.
+
+# line 1
+e2eu.quest.line.1.title=Advanced Rocketry
+e2eu.quest.line.1.desc=Quests for Advanced Rocketry, a Tier 4 Tech mod. 
+
+# line 2
+e2eu.quest.line.2.title=Forestry
+e2eu.quest.line.2.desc=Quests for Forestry, a Tier 1 Tech mod.
+
+# line 3
+e2eu.quest.line.3.title=Immersive Engineering
+e2eu.quest.line.3.desc=Quests for Immersive Engineering, a Tier 1 Tech mod.
+
+# line 4
+e2eu.quest.line.4.title=Ender IO
+e2eu.quest.line.4.desc=Quests for Ender IO, a Tier 4 Tech mod.
+
+# line 5
+e2eu.quest.line.5.title=Astral Sorcery
+e2eu.quest.line.5.desc=Quests for Astral Sorcery.
+
+# line 6
+e2eu.quest.line.6.title=Botania
+e2eu.quest.line.6.desc=Quests for Botania.
+
+# line 7
+e2eu.quest.line.7.title=Mekanism
+e2eu.quest.line.7.desc=Quests for Mekanism, a Tier 2 Tech mod.
+
+# line 8
+e2eu.quest.line.8.title=Blood Magic
+e2eu.quest.line.8.desc=Quests for Blood Magic.
+
+# line 9
+e2eu.quest.line.9.title=Thaumcraft
+e2eu.quest.line.9.desc=Quests for Thaumcraft.
+
+# line 10
+e2eu.quest.line.10.title=IndustrialCraft
+e2eu.quest.line.10.desc=Quests for IndustrialCraft2, a Tier 1 Tech mod.
+
+# line 11
+e2eu.quest.line.11.title=Actually Additions
+e2eu.quest.line.11.desc=Quests for Actually Additions, a Tier 2 Tech mod.
+
+# line 12
+e2eu.quest.line.12.title=Industrial Foregoing
+e2eu.quest.line.12.desc=Quests for Industrial Foregoing, a Tier 2 Tech mod.
+
+# line 13
+e2eu.quest.line.13.title=Thermal Expansion
+e2eu.quest.line.13.desc=Quests for Thermal Expansion, a Tier 3 Tech mod.
+
+# line 14
+e2eu.quest.line.14.title=Extra Utilities
+e2eu.quest.line.14.desc=Quests for Extra Utilities 2, a Tier 1.5 Tech mod.
+
+# line 15
+e2eu.quest.line.15.title=RFTools
+e2eu.quest.line.15.desc=Quests for RFTools, a Tier 2 Tech mod.
+
+# line 16
+e2eu.quest.line.16.title=Applied Energistics
+e2eu.quest.line.16.desc=Quests for Applied Energistics 2, the storage and automation mod.%n%nAlso has quests for AE2 Fluid Crafting Reworked, Packaged Auto, pex, pastrial, and Thaumic Energistics Extended Life.
+
+# line 17
+e2eu.quest.line.17.title=NuclearCraft
+e2eu.quest.line.17.desc=Quests for NuclearCraft, a Tier 2 Tech mod.
+
+# line 18
+e2eu.quest.line.18.title=Environmental Tech
+e2eu.quest.line.18.desc=Quests for Environmental Tech, a Tier 4 Tech mod.
+
+# line 19
+e2eu.quest.line.19.title=Draconic Evolution
+e2eu.quest.line.19.desc=Quests for Draconic Evolution, a Tier 4 Tech mod.
+
+# line 20
+e2eu.quest.line.20.title=Bragging Rights
+e2eu.quest.line.20.desc=Completing this chapter means winning the modpack!
+
+# line 21
+e2eu.quest.line.21.title=Gates
+e2eu.quest.line.21.desc=This chapter contains the quests that gate the other chapters.
+
+# line 22
+e2eu.quest.line.22.title=Multiblocked
+e2eu.quest.line.22.desc=No Description
+
+# db 0
+e2eu.quest.db.0.title=Creative RF
+e2eu.quest.db.0.desc=Infinite RF
+
+# db 1
+e2eu.quest.db.1.title=Creative Items
+e2eu.quest.db.1.desc=Infinite Items!%n%nThe first thing you should do with this upgrade, is make an infinite amount of them.%nThis is done by first upgrading a Drawer with the upgrade, and then piping your other upgrade into it.
+
+# db 2
+e2eu.quest.db.2.title=Creative Fluids
+e2eu.quest.db.2.desc=Infinite Fluids!%n %nYou can clear the tank by placing it in a crafting grid.
+
+# db 3
+e2eu.quest.db.3.title=Creative Mana Tablet
+e2eu.quest.db.3.desc=Infinite Handheld Mana.
+
+# db 4
+e2eu.quest.db.4.title=Gate: IndustrialCraft
+e2eu.quest.db.4.desc=Completing this quest opens the IndustrialCraft chapter.
+
+# db 5
+e2eu.quest.db.5.title=Gate: Forestry
+e2eu.quest.db.5.desc=Completing this quest opens the Forestry chapter.
+
+# db 6
+e2eu.quest.db.6.title=Gate: Immersive Engineering
+e2eu.quest.db.6.desc=Completing this quest opens the Immersive Engineering chapter.%n
+
+# db 7
+e2eu.quest.db.7.title=Gate: Pipes
+e2eu.quest.db.7.desc=There is no Pipe chapter, but completing this quest grants access to §3XNet§0, which in turn grants access to §4§6§8§9§a§b§e§d§f§d§a§9§8§9Thermal Dynamics.
+
+# db 8
+e2eu.quest.db.8.title=Gate: Astral Sorcery
+e2eu.quest.db.8.desc=Completing this quest opens the Astral Sorcery chapter.%n%nAquamarine needs clear view of the sky to generate, and can be found near sand.
+
+# db 9
+e2eu.quest.db.9.title=Gate: Actually Additions
+e2eu.quest.db.9.desc=Completing this quest opens the Actually Additions chapter.
+
+# db 10
+e2eu.quest.db.10.title=Gate: Ex Nihilo
+e2eu.quest.db.10.desc=There is no Ex Nihilo chapter, but completing this quest grants access to the mod.%n%n§4Mana Infused Ingots§0 are craftable.
+
+# db 11
+e2eu.quest.db.11.title=Gate: Mekanism
+e2eu.quest.db.11.desc=Completing this quest opens the Mekanism chapter.%n%nE2EU uses Mekanism: Community Edition, which comes with some bug fixes.
+
+# db 12
+e2eu.quest.db.12.title=Gate: Mystical Agriculture
+e2eu.quest.db.12.desc=There is no chapter for Mystical Agriculture.%n%nYou only have to make one of the Crystals to complete the quest, you choose which.%n%nThe Master Infusion Crystal requires items from Astral Sorcery and Botania, and has unlimited uses.%n%nThe normal Infusion Crystal requires items from The End or Botania, aswell as Thermal Expansion. It only has 25 uses.
+
+# db 13
+e2eu.quest.db.13.title=Gate: Botania
+e2eu.quest.db.13.desc=Completing this quest opens the Botania chapter.
+
+# db 14
+e2eu.quest.db.14.title=Creative Mana Pool
+e2eu.quest.db.14.desc=Infinite Mana.
+
+# db 15
+e2eu.quest.db.15.title=Gate: Industrial Foregoing
+e2eu.quest.db.15.desc=Completing this quest opens the Industrial Foregoing chapter.
+
+# db 16
+e2eu.quest.db.16.title=Gate: Endergy
+e2eu.quest.db.16.desc=There is no endergy chapter, but alongside adding new blocks, endergy adds very powerful conduits and armor.
+
+# db 17
+e2eu.quest.db.17.title=Clay Bucket
+e2eu.quest.db.17.desc=Since you don't have access to Iron yet, you'll have to make a §3§4Clay Bucket§0 to get lava.
+
+# db 18
+e2eu.quest.db.18.title=Smeltery
+e2eu.quest.db.18.desc=To reach the next level, you will need to make a §csmeltery§0§§.§  Making the Tinkers' Complement early game smeltery will also complete the quest.%n§eFor the melter, you will either need a seared tank or a heater, depending on if you wish to use solid or liquid fuels.%n§r%nThe items required to complete this quest match the blocks in the smallest possible smeltery, with Casting Table and Faucet.%n%n§rThe §cSeared Ladder§r is a new addition, allowing you to be able to easily enter or exit a smeltery.%n%nRemember temporary casts can be made from §8liquid clay.
+
+# db 19
+e2eu.quest.db.19.title=Creative Gases
+e2eu.quest.db.19.desc=Infinite Gases!%n %nIn order to change gas, you will need to use a Gauge Dropper with the appropriate gas in it.%n%nTo clear the tank, shift-right click the internal buffer with an empty Gauge Dropper.
+
+# db 20
+e2eu.quest.db.20.title=Creative Mill
+e2eu.quest.db.20.desc=10000 Passive Grid Power.
+
+# db 21
+e2eu.quest.db.21.title=Creative CAD Assembly
+e2eu.quest.db.21.desc=Creative Psi Power! 
+
+# db 22
+e2eu.quest.db.22.title=Creative Flux Capacitor
+e2eu.quest.db.22.desc=Infinite Handheld-RF!
+
+# db 23
+e2eu.quest.db.23.title=Creative Block Exchanger (WIP)
+e2eu.quest.db.23.desc=The power to exchange blocks, creatively!
+
+# db 24
+e2eu.quest.db.24.title=Infinity Helmet
+e2eu.quest.db.24.desc=Infinite Protection!
+
+# db 25
+e2eu.quest.db.25.title=Infinity Breastplate
+e2eu.quest.db.25.desc=Infinite Protection!
+
+# db 26
+e2eu.quest.db.26.title=Infinity Leggings
+e2eu.quest.db.26.desc=Infinite Protection!
+
+# db 27
+e2eu.quest.db.27.title=Infinity Boots
+e2eu.quest.db.27.desc=Infinite Protection!
+
+# db 28
+e2eu.quest.db.28.title=Sword of the Cosmos
+e2eu.quest.db.28.desc=The most powerful melee weapon in the game.
+
+# db 29
+e2eu.quest.db.29.title=World Breaker
+e2eu.quest.db.29.desc=The most powerful pickaxe in the game. It can destroy anything.
+
+# db 30
+e2eu.quest.db.30.title=Planet Eater
+e2eu.quest.db.30.desc=The most powerful shovel in the game.
+
+# db 31
+e2eu.quest.db.31.title=Longbow of the Heavens
+e2eu.quest.db.31.desc=The most powerful bow in the game.
+
+# db 32
+e2eu.quest.db.32.title=Nature's Ruins
+e2eu.quest.db.32.desc=The most powerful axe in the game.
+
+# db 33
+e2eu.quest.db.33.title=Hoe of the Green Earth
+e2eu.quest.db.33.desc=The most powerful hoe in the game.
+
+# db 34
+e2eu.quest.db.34.title=RFTools
+e2eu.quest.db.34.desc=Welcome to RFTools! This mod is filled with gadgets that can make your Minecrafting experience a whole lot better, such as teleporters, storage, the Builder, and highly advanced redstone.%n%nRFTools Controls is also in the pack, which offers even more intricate control over redstone and logic.%n%nRFTools is a tier 2.5 tech mod, which leads to Thermal Expansion.
+
+# db 35
+e2eu.quest.db.35.title=Gate: Thermal Expansion
+e2eu.quest.db.35.desc=Completing this quest opens the Thermal Expansion chapter.
+
+# db 36
+e2eu.quest.db.36.title=Gate: Extra Utilities
+e2eu.quest.db.36.desc=Completing this quest opens the Extra Utilities chapter.
+
+# db 37
+e2eu.quest.db.37.title=Welcome
+e2eu.quest.db.37.desc=Welcome to §9Enigmatica 2: Expert Unoffical§r! This modpack is designed to challenge the player through various means, especially harder recipes. I advice that you automate crafting of as much as possible, as early as possible. Things are going to get complicated. %n%nAs a heads up, if you enable view mode (click the eyeball), you can view quests that are not unlocked. Also, make sure to form a party if you are playing with friends, so your questing progress is synchronized.%n%nCheck the checkbox to get your starter kit.§d§d§0 §r%n%nGood luck!§0
+
+# db 38
+e2eu.quest.db.38.title=Gate: Applied Energistics
+e2eu.quest.db.38.desc=Completing this quest opens the Applied Energistics chapter, which also covers AE2 Fluid Crafting Reworked and Packaged Auto.%n%nE2Eu uses AE2 Unofficial Extended Life (aka AE2UEL), and along with it some new features have been brought with it. %n%nIf you have never used AE2, or simply want a refresher on what new features AE2UEL adds, check out the guide that will be whispered to you.%n%nIn this pack, channels are disabled by default, if you wish to renable them, delete channels.zs from your scripts folder and update the ae2 config accordingly.
+
+# db 39
+e2eu.quest.db.39.title=Gate: RFTools
+e2eu.quest.db.39.desc=Completing this quest opens the RFTools chapter.
+
+# db 40
+e2eu.quest.db.40.title=Gate: Environmental Tech
+e2eu.quest.db.40.desc=Completing this quest opens the Environmental Tech chapter.
+
+# db 41
+e2eu.quest.db.41.title=Gate: Draconic Evolution
+e2eu.quest.db.41.desc=Completing this quest opens the Draconic Evolution chapter.
+
+# db 42
+e2eu.quest.db.42.title=Gate: NuclearCraft
+e2eu.quest.db.42.desc=Completing this quest opens the NuclearCraft chapter.
+
+# db 43
+e2eu.quest.db.43.title=Creative EU
+e2eu.quest.db.43.desc=Infinite EU.
+
+# db 44
+e2eu.quest.db.44.title=Creative Screen
+e2eu.quest.db.44.desc=Creative Screen, requires no power.
+
+# db 45
+e2eu.quest.db.45.title=Creative Builder's Wand
+e2eu.quest.db.45.desc=A little better than the normal Builder's Wand.
+
+# db 46
+e2eu.quest.db.46.title=Harvest level 0
+e2eu.quest.db.46.desc=Vanilla Pickaxes don't work, your first Pickaxe needs to be a Tinkers' Construct Pickaxe. You can make it in the part builder, out of flint, paper, cactus, wood or stone.%n%nThe harvest levels of ores are custom made. These quests will show you the materials needed to reach the next level.
+
+# db 47
+e2eu.quest.db.47.title=Harvest level 1
+e2eu.quest.db.47.desc=Copper Tool Parts are casted in the Smeltery.
+
+# db 48
+e2eu.quest.db.48.title=Harvest level 2
+e2eu.quest.db.48.desc=§3Certus Quartz§0 tool parts are made in the Part Builder.
+
+# db 49
+e2eu.quest.db.49.title=Harvest level 3
+e2eu.quest.db.49.desc=Iron Ore generates on most Y levels.
+
+# db 50
+e2eu.quest.db.50.title=Did you know we have veinminer?
+e2eu.quest.db.50.desc=You may have discovered that planks are a little harder to come by than usual. To make up for it, you can harvest multiple logs with§3§9 OreExcavation§0§r, by holding down the grave key, by default. This works for all blocks.
+
+# db 51
+e2eu.quest.db.51.title=Harvest level 4
+e2eu.quest.db.51.desc=Lead spawns between Y 10 and 45. Silver has the same harvest level as Lead - Finding Silver will also complete this quest.
+
+# db 52
+e2eu.quest.db.52.title=Harvest level 5
+e2eu.quest.db.52.desc=Osmium Ore generates between Y 20 and 40. Obtaining a Pigiron Pickaxe Head will also complete this quest.
+
+# db 53
+e2eu.quest.db.53.title=Harvest level 6
+e2eu.quest.db.53.desc=Obsidian can be found where pools of lava and flowing water meets, typically deep underground.
+
+# db 54
+e2eu.quest.db.54.title=Harvest level 7
+e2eu.quest.db.54.desc=Cobalt Ore can be found rarely in The Nether. Ardite Ore will also complete this quest, as they both have Harvest Level Cobalt.
+
+# db 55
+e2eu.quest.db.55.title=Harvest level 8
+e2eu.quest.db.55.desc=Manyullyn is an alloy made of equal parts Cobalt and Ardite.
+
+# db 56
+e2eu.quest.db.56.title=Harvest level 9
+e2eu.quest.db.56.desc=Osgloglas is an alloy made from the 3 main Mekanism metals.
+
+# db 57
+e2eu.quest.db.57.title=Harvest level 10
+e2eu.quest.db.57.desc=Enderium is an alloy made from Lead, Platinum and Ender Pearls.
+
+# db 58
+e2eu.quest.db.58.title=Harvest level 11
+e2eu.quest.db.58.desc=Terrasteel is a strong alloy, made from Mana Pearls, Mana Diamonds and Manasteel.
+
+# db 59
+e2eu.quest.db.59.title=Harvest level 12
+e2eu.quest.db.59.desc=Supremium is the strongest metal Mystical Agriculture has to offer.
+
+# db 60
+e2eu.quest.db.60.title=Harvest level 13
+e2eu.quest.db.60.desc=Awakened Sharpening Kits are made from Awakened Cores.
+
+# db 61
+e2eu.quest.db.61.title=Harvest level 14
+e2eu.quest.db.61.desc=Chaotic Sharpening Kits are made from Chaotic Cores.%n%nCongratulations, you've reached the maximum harvest level!
+
+# db 62
+e2eu.quest.db.62.title=Scanning
+e2eu.quest.db.62.desc=There's a slight chance per chunk, that a super orevein generates. %nThere are 6 different kinds of superveins, which can be found at varying Y levels.§3§4 %n%nNuclearcraft§0 ores only spawn in superveins.%n%nThe pack has a few different items that can help you find ores - The §1§4§l§l§4§4§0scanner being one of them.
+
+# db 63
+e2eu.quest.db.63.title=Rare Ores
+e2eu.quest.db.63.desc=Some ores are so rare, that they don't even generate on Earth, The Nether or The End.%n%nExplore the galaxy to find them.%n%nAmong those are §bIridium, §cRutile, §a§2All Clathrates§0§2, §1Starmetal, §5Draconium §0and §6§7§D§e§f§7Dilithium.
+
+# db 64
+e2eu.quest.db.64.title=Your First Pickaxe
+e2eu.quest.db.64.desc=Now use the Part builder to build parts for your pickaxe out of wood.%nThese can then be made into a working Pickaxe using the Tool Station%n
+
+# db 65
+e2eu.quest.db.65.title=Gate: Bragging Rights
+e2eu.quest.db.65.desc=Completing this quest opens the Bragging Rights chapter.
+
+# db 66
+e2eu.quest.db.66.title=Gate: Psi
+e2eu.quest.db.66.desc=There is no Psi chapter, but Botania and Thermal Expansion gives access to the mod.
+
+# db 67
+e2eu.quest.db.67.title=IC2
+e2eu.quest.db.67.desc=Welcome to IC2! %n%nThis is a tier 1 Tech mod. It offers a lot, such as ore doubling, power generation, item duplication, tools and armor. You need to craft an Advanced Machine Case in order to progress into Industrial Foregoing.%n%nHint: If you cannot be bothered with making IC2 generators, you can convert RF into EU with Mekanism.
+
+# db 68
+e2eu.quest.db.68.title=Generator
+e2eu.quest.db.68.desc=The most basic generator. It produces EU out of burnables such as coal and wood.
+
+# db 69
+e2eu.quest.db.69.title=Macerator
+e2eu.quest.db.69.desc=The Macerator can grind up various things, and double ores.
+
+# db 70
+e2eu.quest.db.70.title=Advanced Machine Casing
+e2eu.quest.db.70.desc=This is a crafting ingredient needed to craft higher tier Industrialcraft machines, aswell as being the main ingredient in the§4 Industrial Foregoing§0 Machine Case.
+
+# db 71
+e2eu.quest.db.71.title=Replicator
+e2eu.quest.db.71.desc=Supplied with EU and UU Matter, this machine replicates items. Set the desired item with a Pattern Storage, or a Crystal Pattern.
+
+# db 72
+e2eu.quest.db.72.title=Blast Furnace
+e2eu.quest.db.72.desc=The Blast Furnace, when supplied with heat and compressed air, turns Iron into Steel.%n%nTo supply it with compressed air, you'll need to craft atleast one Universal Fluid Cell. %n%nUniversal Fluid Cells are crafted with 4 Tin Casings around a Glass Pane in a + shape. The Cells are hidden in JEI, as they take up a lot of pages, and fluid containers in JEI tend to cause some lag.%n%nYou fill the Cell with Compressed Air by putting it in a Compressor.
+
+# db 73
+e2eu.quest.db.73.title=BatBox & Tin Cables
+e2eu.quest.db.73.desc=The lowest possible voltage. All machines can run on this without exploding.
+
+# db 74
+e2eu.quest.db.74.title=LV
+e2eu.quest.db.74.desc=Tier 2 voltage, 128EU/t.
+
+# db 75
+e2eu.quest.db.75.title=MV
+e2eu.quest.db.75.desc=Tier 3 voltage, 512EU/t.
+
+# db 76
+e2eu.quest.db.76.title=HV
+e2eu.quest.db.76.desc=Tier 4 voltage, 2048EU/t.
+
+# db 77
+e2eu.quest.db.77.title=EV
+e2eu.quest.db.77.desc=Glass Fibre Cable can transfer Extreme Voltage, EV, which is 8096EU/t. It also has the lowest loss of energy per block.
+
+# db 78
+e2eu.quest.db.78.title=Extractor
+e2eu.quest.db.78.desc=The Extractor's main use is to triple the output of Resin.
+
+# db 79
+e2eu.quest.db.79.title=Compressor
+e2eu.quest.db.79.desc=The Compressor lets you craft various compressed items, most notably Dense plates.
+
+# db 80
+e2eu.quest.db.80.title=Electric Furnace
+e2eu.quest.db.80.desc=The Electric Furnace is faster than a vanilla furnace, and runs on EU.
+
+# db 81
+e2eu.quest.db.81.title=Metal Former
+e2eu.quest.db.81.desc=The Metal former can turn various metals into the cable and plate counterparts.
+
+# db 82
+e2eu.quest.db.82.title=Geothermal Generator
+e2eu.quest.db.82.desc=This generator produces EU from lava.
+
+# db 83
+e2eu.quest.db.83.title=Solar Panel
+e2eu.quest.db.83.desc=Produces 1EU/t while exposed to the sun. Can be upgraded.
+
+# db 84
+e2eu.quest.db.84.title=Semifluid Generator
+e2eu.quest.db.84.desc=Produces EU from fluids such as IC2 Biogas, Forestry Biomass, Oil, Forestry Ethanol and Fuel.
+
+# db 85
+e2eu.quest.db.85.title=Kinetic Generator
+e2eu.quest.db.85.desc=Produces EU from kinetic energy - You need to pair it with a Steam Turbine, for example.
+
+# db 86
+e2eu.quest.db.86.title=Nuclear Reactor
+e2eu.quest.db.86.desc=The Nuclear Reactor is capable of producing huge amounts of EU.%nSee https://wiki.industrial-craft.net/index.php/Nuclear_Reactor for additional details.%n%nIf you've never used the Nuclear Reactor, I highly suggest that you find a guide or tutorial.%n%nThe amount of EU it produces has been increased.
+
+# db 87
+e2eu.quest.db.87.title=Fluid/Solid Canning Machine
+e2eu.quest.db.87.desc=The Fluid/Solid Canning Machine is mainly used to make Nuclear Fuel Rods and Speed Upgrades.
+
+# db 88
+e2eu.quest.db.88.title=Block Cutting Machine
+e2eu.quest.db.88.desc=The Block Cutting Machine can cut entire blocks into plates, and increase the Plank yield from Logs.
+
+# db 89
+e2eu.quest.db.89.title=Ore Washing Plant
+e2eu.quest.db.89.desc=The Ore Washing Plant lets you get even more than double out of your ores.
+
+# db 90
+e2eu.quest.db.90.title=Induction Furnace
+e2eu.quest.db.90.desc=This is an upgraded Electric Furnace. If you want it to operate it max speed, you will need to supply it with 1EU/t, and a redstone signal.
+
+# db 91
+e2eu.quest.db.91.title=Thermal Centrifuge
+e2eu.quest.db.91.desc=This machine is used to process Depleted Fuel Rods among other things.
+
+# db 92
+e2eu.quest.db.92.title=Forestry
+e2eu.quest.db.92.desc=Welcome to the Forestry chapter! This is a tier 1 tech mod.%nForestry offers power generation, automatic farms, in-depth breeding systems for bees and trees, and more!%n%nThis chapter leads to Actually Additions.
+
+# db 93
+e2eu.quest.db.93.title=Recycler
+e2eu.quest.db.93.desc=The Recycler produces scrap if you feed it with items and power. Scrap can be used to drastically reduce the amount of power needed to produce UU Matter.
+
+# db 94
+e2eu.quest.db.94.title=Matter Fabricator
+e2eu.quest.db.94.desc=The Matter Fabricator produces UU Matter at the cost of tons of EU, and optionally scrab.
+
+# db 95
+e2eu.quest.db.95.title=Pattern Storage
+e2eu.quest.db.95.desc=You can store your UU Matter Patterns in the Pattern Storage. It's a good idea to place it next to the Scanner, for easy transfer.
+
+# db 96
+e2eu.quest.db.96.title=Scanner
+e2eu.quest.db.96.desc=Place items in the Scanner to see how much UU Matter it costs to replicate them. %n%n§4§lThis will destroy the item. §0%n%nThere are quite a few additional items that can be replicated, in addition to the normal ones.
+
+# db 97
+e2eu.quest.db.97.title=Carpenter
+e2eu.quest.db.97.desc=The Carpenter is a machine used for crafting. Supply it with energy, a recipe, items and a liquid.
+
+# db 98
+e2eu.quest.db.98.title=Bio Generator
+e2eu.quest.db.98.desc=The Bio Generator generates EU power from Biomass or Ethanol.
+
+# db 99
+e2eu.quest.db.99.title=Thermionic Fabricator
+e2eu.quest.db.99.desc=The Thermionic Fabricator is another machine used for crafting. Supply it with energy, glass, a recipe and items.
+
+# db 100
+e2eu.quest.db.100.title=Immersive Engineering
+e2eu.quest.db.100.desc=Welcome to Immersive Engineering! This mod primarily offers large multi-block machines and cool aesthetical things. This is a tier 1 tech mod.%n%n§4The speed and energy requirements of the machines have been heavily modified.§0%n%nThis chapter leads to Mekanism.
+
+# db 101
+e2eu.quest.db.101.title=Coke Oven
+e2eu.quest.db.101.desc=The Coke Oven produces Coal Coke, Charcoal and Creosote oil. Supply it with Coal or Wood Logs.%n%nUse that pump and tank you got earlier to store extra creosote. You can also craft with the tank of cresote, rather than having to use buckets.
+
+# db 102
+e2eu.quest.db.102.title=Treated Wood
+e2eu.quest.db.102.desc=Treated Wood is used in a lot of recipes in Immersive Engineering, and it's also a great looking building block.
+
+# db 103
+e2eu.quest.db.103.title=Blast Furnace
+e2eu.quest.db.103.desc=The Blast Furnace produces Steel, when supplied with Charcoal or Coal Coke and Iron Ingots.
+
+# db 104
+e2eu.quest.db.104.title=Alloy Kiln
+e2eu.quest.db.104.desc=The Alloy Kiln is an early-game way to make alloys.
+
+# db 105
+e2eu.quest.db.105.title=Water Wheel
+e2eu.quest.db.105.desc=Early game power.%n%nOf note, is that there is a setup that can be built that will allow these waterwheels to generate 88rf/t, not bad for their cost.
+
+# db 106
+e2eu.quest.db.106.title=Engineer's Workbench
+e2eu.quest.db.106.desc=The Engineer's Workbench lets you craft some things with a discount, if you have the recipe.%n%nCan be automated later on.
+
+# db 107
+e2eu.quest.db.107.title=Windmill
+e2eu.quest.db.107.desc=Early game power.
+
+# db 108
+e2eu.quest.db.108.title=Improved Blast Furnace
+e2eu.quest.db.108.desc=A better way to make steel.
+
+# db 109
+e2eu.quest.db.109.title=Kinetic Dynamo
+e2eu.quest.db.109.desc=The Kinetic Dynamo produces power, when a Windmill or Watermill is attached to it, and running.
+
+# db 110
+e2eu.quest.db.110.title=Extra Utilities 2
+e2eu.quest.db.110.desc=Welcome to the Extra Utilities 2 chapter!%n%nThis is a tier 1.5 tech mod. It offers over 15 different generators for RF production, and a bunch of nice miscellaneous gadgets and blocks.
+
+# db 111
+e2eu.quest.db.111.title=GP Generation I
+e2eu.quest.db.111.desc=You only have to obtain 9 Solar Panels OR 1 Manual Mill to complete this quest.%n%nExtra Utilities uses a form of power called Grid Power, to power upgrades and the Angel Ring. It doesn't consume any ressources, it's passive power. The Manual Mill requires you to right-click it to produce GP, and the Solar Panels only requires the sun.
+
+# db 112
+e2eu.quest.db.112.title=GP Generation II
+e2eu.quest.db.112.desc=Obtaining any of the 3 Mills will complete this quest.%n%nThe Lava Mill produces GP from adjacent lava.%n%nThe Fire Mill produces GP from fire.%n%nThe Water Mill produces GP from flowing water.
+
+# db 113
+e2eu.quest.db.113.title=GP Generation III
+e2eu.quest.db.113.desc=The Dragon Egg Mill produces 500 GP from having a Dragon Egg on top of it.
+
+# db 114
+e2eu.quest.db.114.title=Resonator
+e2eu.quest.db.114.desc=The Resonator runs on GP, and can produce various crafting ingredients.
+
+# db 115
+e2eu.quest.db.115.title=Golden Lasso
+e2eu.quest.db.115.desc=The Golden Lasso can capture passive creatures. You will need to craft it in a normal crafting table, and it requires 8 XP levels to craft.
+
+# db 116
+e2eu.quest.db.116.title=Cursed Lasso
+e2eu.quest.db.116.desc=The Cursed Lasso can capture hostile creatures, if they have 2 HP or less.
+
+# db 117
+e2eu.quest.db.117.title=Fluid Storage I
+e2eu.quest.db.117.desc=Drums are inexpensive options for fluid storage.
+
+# db 118
+e2eu.quest.db.118.title=Fluid Storage II
+e2eu.quest.db.118.desc=Drums are inexpensive options for fluid storage.
+
+# db 119
+e2eu.quest.db.119.title=Fluid Storage III
+e2eu.quest.db.119.desc=Drums are inexpensive options for fluid storage.
+
+# db 120
+e2eu.quest.db.120.title=Fluid Storage IV
+e2eu.quest.db.120.desc=Drums are inexpensive options for fluid storage.
+
+# db 121
+e2eu.quest.db.121.title=Actually Additions
+e2eu.quest.db.121.desc=Welcome to Actually Additions! This is a tier 2 tech mod.%nActually Additions offers a wide variety of blocks and gadgets.%n%nYou will need to get your hands on §f§7Enori Crystals§0, as they are part of the progression towards Thermal Expansion.
+
+# db 122
+e2eu.quest.db.122.title=Atomic Reconstructor
+e2eu.quest.db.122.desc=The Atomic Reconstructor is able to "reconstruct" some materials into others. Place or throw the blocks/items you want to change in front of it, and fire its' laser. By default, the laser will fire every few seconds.
+
+# db 123
+e2eu.quest.db.123.title=Empowerer
+e2eu.quest.db.123.desc=The Empowerer is a crafting mechanic. You'll need to place the Display Stands with 2 blocks between them and the Empowerer, in all 4 cardinal directions.%n%nThe Display Stands require power for the Empowerer to function.%n%nEach Display Stand needs a ingredient, and the Empowerer takes one aswell.%n%nThe crafting process automatically begins if 4 correct ingredients and the corresponding Empowerer item is supplied.%n%nAutomating it can be done with Item lasers, refer to the linked video.%n
+
+# db 124
+e2eu.quest.db.124.title=Crusher
+e2eu.quest.db.124.desc=The Crusher is capable of crushing blocks. This can be used to double ores, and turn various blocks into other blocks.
+
+# db 125
+e2eu.quest.db.125.title=Powered Furnace
+e2eu.quest.db.125.desc=The Powered Furnace is simply a Furnace that runs on power.
+
+# db 126
+e2eu.quest.db.126.title=Enori
+e2eu.quest.db.126.desc=Enori Crystals are made with the Atomic Reconstructor, and are required in order to progress to Thermal Expansion.
+
+# db 127
+e2eu.quest.db.127.title=Worms
+e2eu.quest.db.127.desc=Worms are acquired by tilling grass. They fertilize and till the grass/dirt around them, in a 3x3 centered on themselves.%n%nThey §4§4§0§4§0die after §410.000 ticks§0, in this pack.
+
+# db 128
+e2eu.quest.db.128.title=Fermenting Barrel
+e2eu.quest.db.128.desc=The Fermenting Barrel refines the oil generated by the Canola Press.
+
+# db 129
+e2eu.quest.db.129.title=Canola Press
+e2eu.quest.db.129.desc=The Canola Press turns Canola into oil, which can be used to generate power.
+
+# db 130
+e2eu.quest.db.130.title=Tools
+e2eu.quest.db.130.desc=Vanilla Pickaxes don't work, your first Tools will need to be Tinkers' Construct Tools made in the Tool Station.%n%nHowever first you will need to make patterns in the Stencil Table, and parts for your tools in the Part Builder.%n%n(Hint: You can place all of these workbenches next to each other to access all of them at once in the UI)%n
+
+# db 131
+e2eu.quest.db.131.title=Upgraded Canola Power
+e2eu.quest.db.131.desc=Crystallized Canola can upgrade the oil made by the Fermenting Barrel, when it's thrown into it.
+
+# db 132
+e2eu.quest.db.132.title=Ultimate Canola
+e2eu.quest.db.132.desc=Empowered Canola improves the oil even further. Like with Crystallized Canola Seeds, throw the Empowered Canola into the oil.
+
+# db 133
+e2eu.quest.db.133.title=Industrial Foregoing
+e2eu.quest.db.133.desc=Welcome to Industrial Foregoing. This is a Tier 2 Tech mod, which leads to RFTools and in turn, Thermal Expansion.%n%nIndustrial Foregoing offers tons of different machines, that can automate a variety of tasks.%n%nYou will need §c§4§5§8§dPink Slime§0 and §7Dry Rubber§0 and any Upgrade item from the mod, to craft the Machine Casing from RFTools.
+
+# db 134
+e2eu.quest.db.134.title=Material Stonework Factory
+e2eu.quest.db.134.desc=The Stonework Factory makes Stone products, such as Gravel and Sand.
+
+# db 135
+e2eu.quest.db.135.title=Laser Drill
+e2eu.quest.db.135.desc=The Laser Drill, when pointed correctly and powered, will power the Laser Base, which in turn will produce ores. It uses 4000rf/t.
+
+# db 136
+e2eu.quest.db.136.title=Plant Gatherer
+e2eu.quest.db.136.desc=This machine gathers plants and trees.
+
+# db 137
+e2eu.quest.db.137.title=Tree Fluid Extractor
+e2eu.quest.db.137.desc=Place in front of a tree, to extract latex from it. It will destroy the Log eventually.
+
+# db 138
+e2eu.quest.db.138.title=Latex Processing Unit
+e2eu.quest.db.138.desc=When supplied with Fluid Latex and Water, this machine will make tiny dry rubber.
+
+# db 139
+e2eu.quest.db.139.title=Rubber
+e2eu.quest.db.139.desc=Rubber is a core ingredient in Industrial Foregoing.
+
+# db 140
+e2eu.quest.db.140.title=Mob Slaughter Factory
+e2eu.quest.db.140.desc=This machine will kill animals and enemies to produce meat and pink slime. Place the Pink Slime in the world, to spawn a Pink Slime.%n%nSometimes you need to place the bucket of Pink Slime with 4 blocks around it, in order for the slime to spawn.
+
+# db 141
+e2eu.quest.db.141.title=Upgrades
+e2eu.quest.db.141.desc=A lot of the Industrial Foregoing machines can upgraded. The default range is very low, so most machines will need upgrades.
+
+# db 142
+e2eu.quest.db.142.title=Laser Base
+e2eu.quest.db.142.desc=The Laser Base, when powered by Laser Drill(s), will generate ores. It will need to have a clear line of sight to bedrock or void bellow it. You can apply lenses to it, to filter which ores to search for.
+
+# db 143
+e2eu.quest.db.143.title=Mob Crusher
+e2eu.quest.db.143.desc=This machine kills mobs, when supplied with power. It generates a fluid you will need to duplicate mobs.
+
+# db 144
+e2eu.quest.db.144.title=Plant Sower
+e2eu.quest.db.144.desc=This machine sows plants above it. The placement is colour coded.
+
+# db 145
+e2eu.quest.db.145.title=Animal Feeder
+e2eu.quest.db.145.desc=This machine simply feeds animals automatically.
+
+# db 146
+e2eu.quest.db.146.title=Fluid Crafter
+e2eu.quest.db.146.desc=The Fluid Crafter is an autocrafter, that takes fluids.
+
+# db 147
+e2eu.quest.db.147.title=Wither Builder
+e2eu.quest.db.147.desc=The Wither Builder places Soul Sand and Wither Skulls, to spawn a Wither. It's blastproof.
+
+# db 148
+e2eu.quest.db.148.title=Mob Imprisonment Tool
+e2eu.quest.db.148.desc=This gadget can, as the name suggests, imprison mobs.
+
+# db 149
+e2eu.quest.db.149.title=Mob Duplicator
+e2eu.quest.db.149.desc=The Mob Duplicator duplicates mobs, when supplied with power, liquid essence and a filled Mob Imprisonment Tool.
+
+# db 150
+e2eu.quest.db.150.title=Astral Sorcery
+e2eu.quest.db.150.desc=Welcome to Astral Sorcery! This is a magic mod all about harnessing the power of the stars.%n%nThis mod leads to Botania.
+
+# db 151
+e2eu.quest.db.151.title=Luminous Crafting Table
+e2eu.quest.db.151.desc=The Luminous Crafting Table is used to craft various things in Astral Sorcery.%nThe recipe can be found in the Astral Tome. %nCraft it in a Crafting Table, near one of the Floating Crystals found below some Astral Sorcery structures.%n%nAs a side note, if you wish to automate the Astral Sorcery table, check out the "Automating Astral Sorcery" quest in the the AE2 chapter.
+
+# db 152
+e2eu.quest.db.152.title=Lightwell
+e2eu.quest.db.152.desc=The Lightwell is used to produce Liquid Starlight. Place it with clear view of the sky, and place a Rock Crystal or Aquamarine in it, and wait for it to liquify. It only progresses during the night.
+
+# db 153
+e2eu.quest.db.153.title=Liquid Starlight
+e2eu.quest.db.153.desc=This has a bunch of different uses, most of which you'll have to find for yourself.
+
+# db 154
+e2eu.quest.db.154.title=Fosic Resonator
+e2eu.quest.db.154.desc=The Fosic Resonator will highlight areas that receive a larger than normal amount of starlight, but only at night.
+
+# db 155
+e2eu.quest.db.155.title=Resonating Wand
+e2eu.quest.db.155.desc=This wand is used to complete crafts in the altars. It'll also highlight where you can find Rock Crystal ores at night. They're found at bedrock level.%n%nThe Resonating Wand can be crafted in a normal Crafting Table, if placed near one of the Floating Crystals, found bellow some Astral Sorcery structures.
+
+# db 156
+e2eu.quest.db.156.title=Rock Crystals
+e2eu.quest.db.156.desc=Found rarely near bedrock.
+
+# db 157
+e2eu.quest.db.157.title=Cave Illuminator
+e2eu.quest.db.157.desc=... The Cave Illuminator illuminates caves.
+
+# db 158
+e2eu.quest.db.158.title=Starmetal Ore
+e2eu.quest.db.158.desc=Starmetal Ore is Iron Ore that has received a sufficient amount of focused starlight.
+
+# db 159
+e2eu.quest.db.159.title=Linking Tool
+e2eu.quest.db.159.desc=The Linking Tool is used to focus the starlight from crystal unto specific blocks.
+
+# db 160
+e2eu.quest.db.160.title=Looking Glass
+e2eu.quest.db.160.desc=The Looking Glass is used to identify and draw constellations.
+
+# db 161
+e2eu.quest.db.161.title=Celestial Altar
+e2eu.quest.db.161.desc=The Celestial Crafting Altar is used to craft various things in the mod. To function, you'll need to place a multiblock structure around it, which you can find in the Astral Tome.
+
+# db 162
+e2eu.quest.db.162.title=Starlight Infuser
+e2eu.quest.db.162.desc=The Starlight Infuser infuses various materials and tools with Starlight. You will need to build a multiblock structure around it, which you can find in the Astral Tome.
+
+# db 163
+e2eu.quest.db.163.title=Iridescent Altar
+e2eu.quest.db.163.desc=The Iridescent Altar is used to craft various things in the mod. To function, you'll need to place a multiblock structure around it, which you can find in the Astral Tome.
+
+# db 164
+e2eu.quest.db.164.title=Ritual Pedestal
+e2eu.quest.db.164.desc=The Ritual Pedestal can perform various rituals, based on which Attuned Crystal you supply it with.
+
+# db 165
+e2eu.quest.db.165.title=Grindstone
+e2eu.quest.db.165.desc=The Grindstone is used to grind Starmetal into dust, and sharpen Crystals.
+
+# db 166
+e2eu.quest.db.166.title=Telescope
+e2eu.quest.db.166.desc=The Telescope is basicly an upgraded, stationary version of the Looking Glass.
+
+# db 167
+e2eu.quest.db.167.title=Starlight Crafting Altar
+e2eu.quest.db.167.desc=The Starlight Crafting Altar is used to craft various things in the mod. To function, you'll need to place a multiblock structure around it, which you can find in the Astral Tome.
+
+# db 168
+e2eu.quest.db.168.title=Celestial Crystals
+e2eu.quest.db.168.desc=Celestial Crystals are basicly upgraded Rock Crystals. They're made by throwing 1 Stardust and 1 Rock Crystal into a bucket of Starlight. Let the Crystal that appears grow before you destroy it with a pickaxe.
+
+# db 169
+e2eu.quest.db.169.title=Resonating Gem
+e2eu.quest.db.169.desc=Resonating Gems are crafting components, and are made in the Starlight Infuser.
+
+# db 170
+e2eu.quest.db.170.title=Stardust
+e2eu.quest.db.170.desc=Stardust is made by grinding/pulverizing Starmetal.
+
+# db 171
+e2eu.quest.db.171.title=Collector Crystals
+e2eu.quest.db.171.desc=Collector Crystals are like the crystals found bellow some Astral Sorcery structure, but can be placed where you wish. They can empower a variety of things and blocks.%n%nBoth variants of Collector Crystals will complete this quest.
+
+# db 172
+e2eu.quest.db.172.title=Attunement Altar
+e2eu.quest.db.172.desc=The Attunement Altar is used to Attune Crystals, and yourself. You will need to build a multiblock structure around it, which you can find in the Astral Tome.
+
+# db 173
+e2eu.quest.db.173.title=Mekanism
+e2eu.quest.db.173.desc=Welcome to Mekanism!%n%nMekanism is a tier 2 tech mod, with tons of content. It offers some of the fastest machines, near infinite energy storage, insanely powerful generators and a lot more.%n%nThe recipes haven't been altered much, the energy usage of most machines is far higher than normally though.%n%nThis chapter leads to the Heavy Machinery from Immersive Engineering, aswell as Thermal Expansion.
+
+# db 174
+e2eu.quest.db.174.title=Metallurgic Infuser
+e2eu.quest.db.174.desc=The Metallurgic Infuser can infuse various materials with Coal, Redstone, Diamond, Obsidian or Bio Fuel. It produces the main crafting components used throughout Mekanism. You're going to need tons of Circuits and Alloys, so it's a good idea to craft them in bulk, or automate their production.
+
+# db 175
+e2eu.quest.db.175.title=Enriched Alloy
+e2eu.quest.db.175.desc=Crafting component.
+
+# db 176
+e2eu.quest.db.176.title=Reinforced Alloy
+e2eu.quest.db.176.desc=A crafting component.
+
+# db 177
+e2eu.quest.db.177.title=Atomic Alloy
+e2eu.quest.db.177.desc=A crafting component.
+
+# db 178
+e2eu.quest.db.178.title=Basic Control Circuit
+e2eu.quest.db.178.desc=A crafting component.
+
+# db 179
+e2eu.quest.db.179.title=Advanced Control Circuit
+e2eu.quest.db.179.desc=A crafting component.
+
+# db 180
+e2eu.quest.db.180.title=Elite Control Circuit
+e2eu.quest.db.180.desc=A crafting component.
+
+# db 181
+e2eu.quest.db.181.title=Ultimate Control Circuit
+e2eu.quest.db.181.desc=This Circuit is made in the Actually Additions Empowerer.
+
+# db 182
+e2eu.quest.db.182.title=Enrichment Chamber
+e2eu.quest.db.182.desc=The Enrichment Chamber can double ores and process Coal/Redstone/etc Ores. %n%nIt can also compress Coal, Redstone, Diamond and Refined Obsidian Dust, so they give a higher yield in the Metallurgic Infuser.
+
+# db 183
+e2eu.quest.db.183.title=Crusher
+e2eu.quest.db.183.desc=A Machine that crushes stuff.
+
+# db 184
+e2eu.quest.db.184.title=Pulverized Obsidian
+e2eu.quest.db.184.desc=A crafting component.
+
+# db 185
+e2eu.quest.db.185.title=Precision Sawmill
+e2eu.quest.db.185.desc=The Sawmill cuts Logs into Planks among other things. It gives you 6 Planks per Log!
+
+# db 186
+e2eu.quest.db.186.title=Compressed Carbon
+e2eu.quest.db.186.desc=This counts as 8 Coal in the Metallurgic Infuser.
+
+# db 187
+e2eu.quest.db.187.title=Energized Smelter
+e2eu.quest.db.187.desc=It's a Furnace that runs on power.
+
+# db 188
+e2eu.quest.db.188.title=The Quantum Entangloporter
+e2eu.quest.db.188.desc=The Quantum Entangloporter can transport items, fluids, gases and energy wirelessly.%nIt's Mekanism's version of the old Thermal Expansion §2Tesseract§0§r.%n%nIt can send up to 25.600.000 RF/t.
+
+# db 189
+e2eu.quest.db.189.title=Osmium Compressor
+e2eu.quest.db.189.desc=This machine compresses things. Supply it with Osmium Ingots and power.
+
+# db 190
+e2eu.quest.db.190.title=Compressed Redstone
+e2eu.quest.db.190.desc=This counts as 8 Redstone Dust in the Metallurgic Infuser.
+
+# db 191
+e2eu.quest.db.191.title=Compressed Diamond
+e2eu.quest.db.191.desc=This counts as 8 Diamonds in the Metallurgic Infuser.
+
+# db 192
+e2eu.quest.db.192.title=Compressed Obsidian
+e2eu.quest.db.192.desc=This counts as 8 Refined Obsidian Dust in the Metallurgic Infuser.
+
+# db 193
+e2eu.quest.db.193.title=Wind Generator
+e2eu.quest.db.193.desc=The higher you place this, the more energy it produces.
+
+# db 194
+e2eu.quest.db.194.title=Advanced Solar Generator
+e2eu.quest.db.194.desc=Produces power from the sun.
+
+# db 195
+e2eu.quest.db.195.title=Solar Generator
+e2eu.quest.db.195.desc=Produces power from the sun.
+
+# db 196
+e2eu.quest.db.196.title=Refined Obsidian Dust
+e2eu.quest.db.196.desc=Used in the Metallurgic Infuser to infuse items with Obsidian, and to make Refined Obsidian Ingots.
+
+# db 197
+e2eu.quest.db.197.title=Refined Obsidian Ingot
+e2eu.quest.db.197.desc=A very powerful material.
+
+# db 198
+e2eu.quest.db.198.title=Glowstone Ingot
+e2eu.quest.db.198.desc=A very powerful material.
+
+# db 199
+e2eu.quest.db.199.title=Osgloglas
+e2eu.quest.db.199.desc=A special alloy, made in a Tinkers' Smeltery with Osmium, Glowstone Ingots and Refined Obsidian Ingots.
+
+# db 200
+e2eu.quest.db.200.title=Mekanism Steel
+e2eu.quest.db.200.desc=You can produce Steel with the Metallurgic Infuser. %n%nInfusing Iron Ingots with Coal yields Enriched Iron, and infusing that with Coal again gives Steel Blend.%n%nSmelt that up, and you have Steel!
+
+# db 201
+e2eu.quest.db.201.title=The Digital Miner
+e2eu.quest.db.201.desc=An extremely powerful mining machine. You can tell it exactly what you want  itto mine, and it'll ignore everything else.%n%nIt's also possible to inverse it, to mine everything but Stone for example.%n%nIf you simply want it to mine all ores, you can supply it with the oredict§4 *ore*
+
+# db 202
+e2eu.quest.db.202.title=Bio Generator
+e2eu.quest.db.202.desc=The Bio Generator uses Bio Fuel to produce energy.
+
+# db 203
+e2eu.quest.db.203.title=Heat Generator
+e2eu.quest.db.203.desc=The Heat Generator produces power from heat. You can pipe heat into it, supply it with Lava, or surround it with heat sources.
+
+# db 204
+e2eu.quest.db.204.title=Gas-Burning Generator
+e2eu.quest.db.204.desc=The Gas-Burning Generator produces large amounts of energy from Hydrogen or Ethylene.
+
+# db 205
+e2eu.quest.db.205.title=The Fusion Reactor
+e2eu.quest.db.205.desc=A Reactor capable of producing insane amounts of energy. It runs on D-T Fuel, made from Deuterium and Tritium.%n%nSee http://wiki.aidancbrady.com/wiki/Fusion_Reactor for a setup guide.
+
+# db 206
+e2eu.quest.db.206.title=Thermal Evaporation Plant
+e2eu.quest.db.206.desc=The Thermal Evaporation Plant is a multiblock capable of turning Water into Brine, and Brine into Lithium.%n%nSee http://wiki.aidancbrady.com/wiki/Thermal_Evaporation_Plant§0 for a setup guide.
+
+# db 207
+e2eu.quest.db.207.title=Basic Tier Installer
+e2eu.quest.db.207.desc=Tier Installers are used to upgrade Mekanism machines, Bins, Energy Cubes, Gas Tanks and Tanks.%n%nTier Installers are the only way to get Basic, Advanced and Elite Factories.
+
+# db 208
+e2eu.quest.db.208.title=Advanced Tier Installer
+e2eu.quest.db.208.desc=Tier Installers are used to upgrade Mekanism machines, Bins, Energy Cubes, Gas Tanks and Tanks.%n%nTier Installers are the only way to get Basic, Advanced and Elite Factories.
+
+# db 209
+e2eu.quest.db.209.title=Elite Tier Installer
+e2eu.quest.db.209.desc=Tier Installers are used to upgrade Mekanism machines, Bins, Energy Cubes, Gas Tanks and Tanks.%n%nTier Installers are the only way to get Basic, Advanced and Elite Factories.
+
+# db 210
+e2eu.quest.db.210.title=Ultimate Tier Installer
+e2eu.quest.db.210.desc=The Ultimate Tier Installer only works on Bins, Energy Cubes, Gas Tanks and Tanks.
+
+# db 211
+e2eu.quest.db.211.title=Electrolytic Seperator
+e2eu.quest.db.211.desc=The Electrolytic Seperator seperates fluids into their components via electrolysis. This is how you get gases such as Oxygen and Hydrogen.%n%nIt's sided in such a way, that you have to get the gas into the left tank from the left side of the machine, right tank from the right side, and output tank from the front.
+
+# db 212
+e2eu.quest.db.212.title=Bio Fuel
+e2eu.quest.db.212.desc=Made in the Crusher, mostly used to generate power and Ethylene.
+
+# db 213
+e2eu.quest.db.213.title=Thermal Expansion
+e2eu.quest.db.213.desc=Welcome to Thermal Expansion!%n%nThis mod offers a large suite of powerful machines. Energy usage and speed of all machines have been increased, some more than others.%n%nThe energy production of dynamos have all been increased.%n%nThis chapter leads to Environmental Tech, and its machines are the basis for a wide range of mid-endgame crafting components.
+
+# db 214
+e2eu.quest.db.214.title=Pulverizer
+e2eu.quest.db.214.desc=The Pulverizer pulverizes stuff. It can double ores, produce Flint from Gravel, and a lot more.
+
+# db 215
+e2eu.quest.db.215.title=Redstone Furnace
+e2eu.quest.db.215.desc=A powered furnace.
+
+# db 216
+e2eu.quest.db.216.title=Sawmill
+e2eu.quest.db.216.desc=The Sawmill cuts Wood Logs into Planks, giving 6 Planks per Log.
+
+# db 217
+e2eu.quest.db.217.title=Induction Smelter
+e2eu.quest.db.217.desc=The Induction Smelter can double ores when supplied with Sand, Slag or Cinnabar, and make various crafting components.
+
+# db 218
+e2eu.quest.db.218.title=Sequential Fabricator
+e2eu.quest.db.218.desc=The Cyclic Assembler in 1.12.x!
+
+# db 219
+e2eu.quest.db.219.title=Fractionating Still
+e2eu.quest.db.219.desc=The Fractionating Still refines liquids, sometimes with by-products.
+
+# db 220
+e2eu.quest.db.220.title=Energetic Infuser
+e2eu.quest.db.220.desc=The Energetic Infuser can charge items that hold RF, and infuse some items into others.
+
+# db 221
+e2eu.quest.db.221.title=Fluid Transposer
+e2eu.quest.db.221.desc=The Fluid Transposer can fill/empty tanks and buckets, aswell as some items. It's used extensively through that pack - Some custom recipes will require you to upgrade it.
+
+# db 222
+e2eu.quest.db.222.title=Steam Dynamo
+e2eu.quest.db.222.desc=This Dynamo produces power from burnables and water.
+
+# db 223
+e2eu.quest.db.223.title=Magmatic Dynamo
+e2eu.quest.db.223.desc=This Dynamo produces power from hot liquids.
+
+# db 224
+e2eu.quest.db.224.title=Compression Dynamo
+e2eu.quest.db.224.desc=This Dynamo produces power from a variety of liquid fuels, such as Liquifacted Coal and Refined Fuel, and water as coolant. See https://teamcofh.com/docs/compression-dynamo/ for the full list of fuels.
+
+# db 225
+e2eu.quest.db.225.title=Reactant Dynamo
+e2eu.quest.db.225.desc=This Dynamo produces power from a solid reactant, and a liquid fuel, for example Destabilized Redstone and Sugar. See https://teamcofh.com/docs/reactant-dynamo/ for the full list of fuels.
+
+# db 226
+e2eu.quest.db.226.title=Enervation Dynamo
+e2eu.quest.db.226.desc=This Dynamo produces power from redstone.
+
+# db 227
+e2eu.quest.db.227.title=Numismatic Dynamo
+e2eu.quest.db.227.desc=This Dynamo produces power from Coins made in the Compactor with a special augment.
+
+# db 228
+e2eu.quest.db.228.title=Magma Crucible
+e2eu.quest.db.228.desc=The Magma Crucible smelts items into liquids.
+
+# db 229
+e2eu.quest.db.229.title=Compactor
+e2eu.quest.db.229.desc=The Compactor can compress Ingots into Blocks, and make Plates from Ingot. You can change its mode.
+
+# db 230
+e2eu.quest.db.230.title=Glacial Precipitator
+e2eu.quest.db.230.desc=The Glacial Precipitator is able to make Snow and Ice out of Water and power.
+
+# db 231
+e2eu.quest.db.231.title=Igneous Extruder
+e2eu.quest.db.231.desc=The Igneous Extruder uses Water, Lava and a little power to produce Cobblestone, Stone or Obsidian.
+
+# db 232
+e2eu.quest.db.232.title=Energy Cell
+e2eu.quest.db.232.desc=The Energy Cell has been configured to hold and transfer far more than the default. It's well worth making, especially if you upgrade and enchant it.
+
+# db 233
+e2eu.quest.db.233.title=Aqueous Accumulator
+e2eu.quest.db.233.desc=Slowly generates Water, passively. If adjacent to 2 or more Water Source blocks, the generation increases. Having more than 2 source blocks does not increase the speed further.
+
+# db 234
+e2eu.quest.db.234.title=Nullifier
+e2eu.quest.db.234.desc=A fancy trash-can!
+
+# db 235
+e2eu.quest.db.235.title=Thermal Mediator
+e2eu.quest.db.235.desc=Increased the speed of nearby Thermal Expansion machines up to 60%% per Thermal Mediator. The effect is stackable. The Thermal Mediator runs off of different kinds of coolants - the colder the better.
+
+# db 236
+e2eu.quest.db.236.title=Rich Slag
+e2eu.quest.db.236.desc=A by-product of processing ores in the Induction Smelter. Redstone Ore plus Sand is particularly good.
+
+# db 237
+e2eu.quest.db.237.title=Cinnabar
+e2eu.quest.db.237.desc=A by-product of pulverizing Gold and Redstone Ores. It can be used for crafting, and increasing the output of the Induction Smelters processes.
+
+# db 238
+e2eu.quest.db.238.title=Arboreal Extractor
+e2eu.quest.db.238.desc=Extracts fluids from trees.
+
+# db 239
+e2eu.quest.db.239.title=Rosin
+e2eu.quest.db.239.desc=A by-product of refining Resin into Tree Oil.
+
+# db 240
+e2eu.quest.db.240.title=Elemental Catalyzer
+e2eu.quest.db.240.desc=Greatly increases power generation and efficiency, but only Elemental Reactions may be performed.
+
+# db 241
+e2eu.quest.db.241.title=Lapidary Calibration
+e2eu.quest.db.241.desc=Allows for various gems to be used as fuel. Greatly increases power generation and efficiency.
+
+# db 242
+e2eu.quest.db.242.title=Boiler Conversion
+e2eu.quest.db.242.desc=Turns an applicable Dynamo into a Steam Boiler - It can only produce steam, not energy.
+
+# db 243
+e2eu.quest.db.243.title=Hardened Upgrade Kit
+e2eu.quest.db.243.desc=This is used to upgrade machines and gadgets in Thermal Expansion. Requires tier immediately preceding.
+
+# db 244
+e2eu.quest.db.244.title=Disjunctive Extraction
+e2eu.quest.db.244.desc=Allows for enchanted items to be used to generate power. This greatly increases power generation and efficiency. The enchanted item will be consumed in the process.
+
+# db 245
+e2eu.quest.db.245.title=Ignition Plugs
+e2eu.quest.db.245.desc=Greatly increases power generation and efficiency, but only Refined Fuel may be used.
+
+# db 246
+e2eu.quest.db.246.title=Fuel Catalyzer
+e2eu.quest.db.246.desc=Increases fuel efficiency.
+
+# db 247
+e2eu.quest.db.247.title=Auxiliary Transmission Coil
+e2eu.quest.db.247.desc=Increases power generation.
+
+# db 248
+e2eu.quest.db.248.title=Isentropic Reservoir
+e2eu.quest.db.248.desc=Greatly increases power generation and efficiency, you will however need to supply coolant.
+
+# db 249
+e2eu.quest.db.249.title=Turbine Conversion
+e2eu.quest.db.249.desc=Converts a Steam Dynamo into a Steam Turbine. Energy generation is greatly increased, but Steam has to be piped in.
+
+# db 250
+e2eu.quest.db.250.title=Numismatic Press
+e2eu.quest.db.250.desc=This upgrade allows the Compactor to make coins, used to produce energy. It must be set to "Mint" mode.
+
+# db 251
+e2eu.quest.db.251.title=Resin Funnel
+e2eu.quest.db.251.desc=This upgrade allows fluids to be extracted from Logs.
+
+# db 252
+e2eu.quest.db.252.title=Fluidic Fabrication
+e2eu.quest.db.252.desc=Allows the Sequential Fabricator to craft things with fluids in their recipes.
+
+# db 253
+e2eu.quest.db.253.title=Pyrolytic Conversion
+e2eu.quest.db.253.desc=This upgrade allows the Redstone Furnace to act as a Coke Oven.
+
+# db 254
+e2eu.quest.db.254.title=Gate: Advanced Rocketry
+e2eu.quest.db.254.desc=Completing this quest opens the Advanced Rocketry chapter.%n%nYou will need materials from other planets to make some of the creative items.%n%nAlso, you will need Titanium to get started with the mod, which in turn needs the AMF, so refer to the multiblocked questline on how to do that.
+
+# db 255
+e2eu.quest.db.255.title=Matter Receiver
+e2eu.quest.db.255.desc=The Matter Receiver can be teleported to.%n%nSee the RFTools manual for details.
+
+# db 256
+e2eu.quest.db.256.title=Gearworking Die
+e2eu.quest.db.256.desc=This upgrade allows the Compactor to make Gears out of appropriate metals. The Compactor must be set to Gear mode.
+
+# db 257
+e2eu.quest.db.257.title=Reinforced Upgrade Kit
+e2eu.quest.db.257.desc=This is used to upgrade machines and gadgets in Thermal Expansion. Requires tier immediately preceding.
+
+# db 258
+e2eu.quest.db.258.title=Signalum Upgrade Kit
+e2eu.quest.db.258.desc=This is used to upgrade machines and gadgets in Thermal Expansion. Requires tier immediately preceding.
+
+# db 259
+e2eu.quest.db.259.title=Elevator
+e2eu.quest.db.259.desc=See the RFTools manual for details.
+
+# db 260
+e2eu.quest.db.260.title=Parabolic Flux Coupling
+e2eu.quest.db.260.desc=This upgrade allows for rapid wireless recharging of Thermal Expansion Capacitors. The machine will be incapable of anything else.
+
+# db 261
+e2eu.quest.db.261.title=Resonant Upgrade Kit
+e2eu.quest.db.261.desc=This is used to upgrade machines and gadgets in Thermal Expansion. Requires tier immediately preceding.
+
+# db 262
+e2eu.quest.db.262.title=Shape Card (Void)
+e2eu.quest.db.262.desc=This Card is useful for clearing out large areas of blocks.%n%nSee the RFTools manual for details.
+
+# db 263
+e2eu.quest.db.263.title=Environmental Controller
+e2eu.quest.db.263.desc=A highly advanced Beacon alternative.%n%nSee the RFTools manual for details.
+
+# db 264
+e2eu.quest.db.264.title=Charged Porter
+e2eu.quest.db.264.desc=The Advanced Charged Porter can be bound to several Matter Receivers, letting you teleport between them.%n%nSee the RFTools manual for details.
+
+# db 265
+e2eu.quest.db.265.title=Machine Infuser
+e2eu.quest.db.265.desc=This machine infuses RFTools devices with Dimensional Shards, improving them in various ways.%n%nSee the RFTools manual for details.
+
+# db 266
+e2eu.quest.db.266.title=Modular Storage
+e2eu.quest.db.266.desc=The Modular Storage, when equipped with a Storage Module, is a portable mini-AE system, storing up to 300 stacks of unique items. Note that non-stackable items count for 1.%n%nSee the RFTools manual for details.
+
+# db 267
+e2eu.quest.db.267.title=Builder
+e2eu.quest.db.267.desc=See the RFTools manual for details.
+
+# db 268
+e2eu.quest.db.268.title=Screens
+e2eu.quest.db.268.desc=Screens are able to display a whole bunch of cool things, aswell as manage redstone remotely, call elevators, and more.%n%nSee the RFTools manual for details.
+
+# db 269
+e2eu.quest.db.269.title=Power Cell
+e2eu.quest.db.269.desc=A Power Cell for storing your RF. Power Cells can be wirelessly connected to eachother.%n%nSee the RFTools manual for details.
+
+# db 270
+e2eu.quest.db.270.title=Shape Card
+e2eu.quest.db.270.desc=This Card can be used for building, with the Builder. %n%nSee the RFTools manual for details.
+
+# db 271
+e2eu.quest.db.271.title=Matter Transmitter
+e2eu.quest.db.271.desc=The Matter Transmitter can be teleported from, to Matter Receivers.%n%nSee the RFTools manual for details.
+
+# db 272
+e2eu.quest.db.272.title=Dialing Device
+e2eu.quest.db.272.desc=The Dialing Devices lets you "dial" Matter Receivers, enabling travel to them from a nearby Matter Transmitter.%n%nSee the RFTools manual for details.
+
+# db 273
+e2eu.quest.db.273.title=Destination Analyser
+e2eu.quest.db.273.desc=The Destination Analyser, when connected to a Matter Transmitter, enables you to check whether the Receiver you're dialing to has power.%n%nSee the RFTools manual for details.
+
+# db 274
+e2eu.quest.db.274.title=Impregnated Casing
+e2eu.quest.db.274.desc=The combination of Seed Oil and Wood Logs - It's required to make the Thermionic Fabricator.
+
+# db 275
+e2eu.quest.db.275.title=Matter Booster
+e2eu.quest.db.275.desc=The Matter Booster, when placed adjacent to a Matter Transmitter, allows it to spend extra RF to get you to your destination safely. With it, the Matter Receiver you're teleporting to can be completely out of power, without you dying.%n%nSee the RFTools manual for details.
+
+# db 276
+e2eu.quest.db.276.title=Builder Quarry
+e2eu.quest.db.276.desc=See the RFTools manual for details.
+
+# db 277
+e2eu.quest.db.277.title=Button Module
+e2eu.quest.db.277.desc=Screen controlled Wireless Redstone!%n%nSee the RFTools manual for details.
+
+# db 278
+e2eu.quest.db.278.title=Squeezer
+e2eu.quest.db.278.desc=The Squeezer is a machine used to get fluids out of items, like Seeds.
+
+# db 279
+e2eu.quest.db.279.title=Still
+e2eu.quest.db.279.desc=The Still can process Biomass into Ethanol, at a ratio of 10 Biomass to 3 Ethanol. Ethanol is an even better fuel source than Biomass.
+
+# db 280
+e2eu.quest.db.280.title=Portable Analyzer
+e2eu.quest.db.280.desc=The Portable Analyzer can analyze bees, trees and butterflies. It'll tell you everything there is to know about the specific bee/tree/butterfly you give it. For it to work, you'll have to supply it with honey.
+
+# db 281
+e2eu.quest.db.281.title=Rainmaker
+e2eu.quest.db.281.desc=The Rainmaker can make or stop rain. %n%nIn order for it to make rain, supply it with a §4Iodine Capsule§0.%n%nIf you want it to stop the rain, give it a §4Dissipation Charge§0.
+
+# db 282
+e2eu.quest.db.282.title=Flexible Casing
+e2eu.quest.db.282.desc=The Flexible Casing is a rather new addition to Forestry. It's used to craft non-multiblock forms of the various farms.
+
+# db 283
+e2eu.quest.db.283.title=Fermenter
+e2eu.quest.db.283.desc=The Fermenter is used to make Biomass from Water or Fruit Juice, and Saplings.
+
+# db 284
+e2eu.quest.db.284.title=Centrifuge
+e2eu.quest.db.284.desc=The Centrifuge can be used to extract resources from §4Bee Combs§0, and a few soft blocks.
+
+# db 285
+e2eu.quest.db.285.title=Farms
+e2eu.quest.db.285.desc=Forestry Multiblock Farms can farm all kinds of things, and are both fast and efficient.%n%nSee §1https://ftb.gamepedia.com/Multifarm §0for additional details.
+
+# db 286
+e2eu.quest.db.286.title=Apiary
+e2eu.quest.db.286.desc=The Apiary is an upgraded form of the Bee House. %n%nPut a Queen bee, or a Princess and a Drone inside it, and they'll start to produce their appropriate comb - if their requirements are met.%n%nIf you're looking to get into bee breeding, I highly suggest you watch a spotlight, or read a guide or two. Gendustry is in the pack, which simplifies the breeding quite a bit.%n%nYou will need to get the product of the bees found in The End to complete this pack, but no bee breeding is needed. 
+
+# db 287
+e2eu.quest.db.287.title=Clockwork Engine
+e2eu.quest.db.287.desc=This Engine requires you to wind it up before it can generate power.
+
+# db 288
+e2eu.quest.db.288.title=Apiarist's "Armor"
+e2eu.quest.db.288.desc=Some bees can harm, poison or even kill you if you're near them. The Apiarist's "Armor" will protect you from them.
+
+# db 289
+e2eu.quest.db.289.title=Peat-fired Engine
+e2eu.quest.db.289.desc=The Peat-fired Engine produces power from Peat.
+
+# db 290
+e2eu.quest.db.290.title=Biogas Engine
+e2eu.quest.db.290.desc=The Biogas Engine generates energy from a tiny amount of Lava, and Biomass.
+
+# db 291
+e2eu.quest.db.291.title=Circuit Boards
+e2eu.quest.db.291.desc=Circuit Boards can be used to set the type of §4Farms§0, or §4upgrade machines§0.%n%nIn order to use a Circuit Board, right-click with a §4Soldering Iron§0, and put the Circuit Board in there. Depending on the Circuit Board, you'll have 1 to 4 possible slots for §4Tubes§0.%nThe Tubes you place in the Circuit Board determine the effects of the Circuit Board. You can read what each Tube does, in its §4tooltip§0.%n%nYou only have to make one of the Circuit Boards to complete the quest.
+
+# db 292
+e2eu.quest.db.292.title=Tin Electron Tubes
+e2eu.quest.db.292.desc=Tin Electron Tubes can be used to upgrade the Electrical Engine, or in Farms to set them to Manual Reed Farms.
+
+# db 293
+e2eu.quest.db.293.title=Blazing Electron Tubes
+e2eu.quest.db.293.desc=Blazing Electron Tubes can be used to upgrade machine speed, at the cost of additional energy. They can also be used to set Farms to Nether Wart production.
+
+# db 294
+e2eu.quest.db.294.title=Thermoelectric Generator
+e2eu.quest.db.294.desc=The Thermoelectric Generator passively produces power, when a hot and a cold block is adjacent to it, on opposite sides. You can use up to 3 hot and 3 cold blocks per Thermoelectric Generator, and it will increase the power generated threefold.%n%nCheck the Engineer's Manual to see which blocks are valid.
+
+# db 295
+e2eu.quest.db.295.title=Redstone Engineering Block.
+e2eu.quest.db.295.desc=This block is used for some Multiblock machines.
+
+# db 296
+e2eu.quest.db.296.title=Light Engineering Block
+e2eu.quest.db.296.desc=This block is used for some Multiblock machines.
+
+# db 297
+e2eu.quest.db.297.title=Heavy Engineering Block
+e2eu.quest.db.297.desc=This block is used for some Multiblock machines.
+
+# db 298
+e2eu.quest.db.298.title=Generator Block
+e2eu.quest.db.298.desc=This block is used for some Multiblock machines.
+
+# db 299
+e2eu.quest.db.299.title=Radiator Block
+e2eu.quest.db.299.desc=This block is used for some Multiblock machines.
+
+# db 300
+e2eu.quest.db.300.title=Metal Press Molds
+e2eu.quest.db.300.desc=Metal Press Molds decide what the Metal Press should output.
+
+# db 301
+e2eu.quest.db.301.title=Single Battery
+e2eu.quest.db.301.desc=Handy power storage - It's a great way to keep equipment powered. Shift-click to toggle between the different modes.
+
+# db 302
+e2eu.quest.db.302.title=Spawner Changer
+e2eu.quest.db.302.desc=This nifty gadget can change the type of mob a Mob Spawner spawns. Pick the entity of your choosing by right-clicking it with the Spawner Changer, and then right-click a vanilla Mob Spawner to change it.%n%nThe Spawner Changer is used in the process.%n%nYou get Spawner Shards from breaking Spawners.
+
+# db 303
+e2eu.quest.db.303.title=Automatic Feeder
+e2eu.quest.db.303.desc=The Automatic Feeder does exactly that, just supply it with the appropriate food - Wheat for Cows, Carrot for Pigs, etc.
+
+# db 304
+e2eu.quest.db.304.title=External Heater
+e2eu.quest.db.304.desc=When supplied with power, the External Heater will power and increase speed of adjacent furnaces.
+
+# db 305
+e2eu.quest.db.305.title=Blueprints
+e2eu.quest.db.305.desc=Blueprints let you craft various recipes in the Engineer's Workbench.
+
+# db 306
+e2eu.quest.db.306.title=Farmer
+e2eu.quest.db.306.desc=When supplied with power, the Farmer will till, plant and harvest plants in front of it, in a 9x9 area.
+
+# db 307
+e2eu.quest.db.307.title=Empowered Restonia Crystal
+e2eu.quest.db.307.desc=A crafting component.
+
+# db 308
+e2eu.quest.db.308.title=Ranged Collector
+e2eu.quest.db.308.desc=The Ranged Collector will pick up item entities near it. It's highly configurable.
+
+# db 309
+e2eu.quest.db.309.title=Phantomface
+e2eu.quest.db.309.desc=The Phantomface is essentially a block-proxy. By binding the Phantomface to a block, you can interact with that block by interacting with the Phantomface. %n%nThis has a heap of useful applications, especially when it comes to automating machines.%n%nBind the Phantomface to a block with the Phantom Connector.
+
+# db 310
+e2eu.quest.db.310.title=Double Battery
+e2eu.quest.db.310.desc=Handy power storage - It's a great way to keep equipment powered. Shift-click to toggle between the different modes.
+
+# db 311
+e2eu.quest.db.311.title=Ball of Fur
+e2eu.quest.db.311.desc=Tamed Cats cough these up from time to time. They're not entirely useless.
+
+# db 312
+e2eu.quest.db.312.title=Fishing Net
+e2eu.quest.db.312.desc=Place the Fishing Net directly above water, and it'll automatically fish for you. It outputs to inventories adjacent to it
+
+# db 313
+e2eu.quest.db.313.title=Greenhouse Glass
+e2eu.quest.db.313.desc=Greenhouse Glass speeds up the growth of plants underneath it.
+
+# db 314
+e2eu.quest.db.314.title=LV Energy
+e2eu.quest.db.314.desc=LV, or Low Voltage, is the lowest power transfer rate in Immersive Engineering. In this pack, it's 1024 RF/t, per connection.
+
+# db 315
+e2eu.quest.db.315.title=MV Energy
+e2eu.quest.db.315.desc=MV, Medium Voltage, can transfer up to 4096 RF/t, per connection.
+
+# db 316
+e2eu.quest.db.316.title=HV Energy
+e2eu.quest.db.316.desc=HV, High Voltage, is the highest power transfer rate in Immersive Engineering. In this pack, it's 16384 RF/t, per connection.
+
+# db 317
+e2eu.quest.db.317.title=The Deep Dark
+e2eu.quest.db.317.desc=The Deep Dark is a scary, dark cave dimension. It has §2twice the ore generation §0of the Overworld.%n%nSomething's lurking in the darkness, you better bring torches.
+
+# db 318
+e2eu.quest.db.318.title=Builder's Wand
+e2eu.quest.db.318.desc=The Builder's Wand lets you place up to 9 of the same kind of block as the one you're looking at, given you have the blocks in your inventory.
+
+# db 319
+e2eu.quest.db.319.title=Triple Battery
+e2eu.quest.db.319.desc=Handy power storage - It's a great way to keep equipment powered. Shift-click to toggle between the different modes.
+
+# db 320
+e2eu.quest.db.320.title=Quadruple Battery
+e2eu.quest.db.320.desc=Handy power storage - It's a great way to keep equipment powered. Shift-click to toggle between the different modes.
+
+# db 321
+e2eu.quest.db.321.title=Quintuple Battery
+e2eu.quest.db.321.desc=Handy power storage - It's a great way to keep equipment powered. Shift-click to toggle between the different modes.
+
+# db 322
+e2eu.quest.db.322.title=Indexer Remote
+e2eu.quest.db.322.desc=The infinite range part of the "unlimited storage and range" nature of the Indexer, just shift rightclick the Indexer with the Indexer Remote to bind the two, allowing you to access your Indexer from any range. (provided that its chunkloaded of course)%n
+
+# db 323
+e2eu.quest.db.323.title=Screen
+e2eu.quest.db.323.desc=The Screen displays any imgur image, just give it an URL.
+
+# db 324
+e2eu.quest.db.324.title=Ethereal Glass
+e2eu.quest.db.324.desc=Players can walk straight through this, but mobs can't.
+
+# db 325
+e2eu.quest.db.325.title=Dark Glass
+e2eu.quest.db.325.desc=This Glass doesn't let any light through - Excellent for Cursed Earth mobfarms.
+
+# db 326
+e2eu.quest.db.326.title=Wireless RF
+e2eu.quest.db.326.desc=If you connect a Wireless RF Battery to energy, you'll be able to wirelessly power machines with the Wireless RF Transmitter.%n%nSimply place the Transmitter, and it'll connect to nearby tiles that take power. Each Transmitter can at most output 80 RF/t.
+
+# db 327
+e2eu.quest.db.327.title=Wooden Spikes
+e2eu.quest.db.327.desc=Spikes are very useful for mobfarms. They deal damage to anything pushed up against them. %n%nWooden Spikes reduce entities to half a heart, but doesn't kill.%n%nThey can be placed upwards, downwards and sideways.
+
+# db 328
+e2eu.quest.db.328.title=Cursed Earth
+e2eu.quest.db.328.desc=Cursed Earth is made by right-clicking Dirt or Grass with a Drop of Evil, which is a rare drop from Wither Skeletons.%n%nCursed Earth will drastically increase the spawn rate of monsters on it, and the monsters that spawn will be extra strong and aggresive. Light completely stops the spawning, and the spread of it.
+
+# db 329
+e2eu.quest.db.329.title=Machine Block
+e2eu.quest.db.329.desc=Used to create most Extra Utilities machines. %n%n
+
+# db 330
+e2eu.quest.db.330.title=Furnace
+e2eu.quest.db.330.desc=A simple powered furnace.
+
+# db 331
+e2eu.quest.db.331.title=Crusher
+e2eu.quest.db.331.desc=A simple powered crusher.
+
+# db 332
+e2eu.quest.db.332.title=Enchanter
+e2eu.quest.db.332.desc=The Enchanter is used to create various materials.%n%nIt §2§0requires §0§2§0power and enchantment boosting blocks, equal to atleast 15 enchanting levels, nearby§0. %n%n§3§2§1§4§5§8§9§9§215 Bookshelves would do the trick.
+
+# db 333
+e2eu.quest.db.333.title=Angel Block
+e2eu.quest.db.333.desc=The Angel Block is placeable mid-air - A great building tool, especially for floating bases.
+
+# db 334
+e2eu.quest.db.334.title=Survival Generator
+e2eu.quest.db.334.desc=This Generator produces power from burnables such as Coal and Planks.
+
+# db 335
+e2eu.quest.db.335.title=Stone Spikes
+e2eu.quest.db.335.desc=Spikes are very useful for mobfarms. They deal damage to anything pushed up against them. %n%nThey can be placed upwards, downwards and sideways.
+
+# db 336
+e2eu.quest.db.336.title=Iron Spikes
+e2eu.quest.db.336.desc=Spikes are very useful for mobfarms. They deal damage to anything pushed up against them. %n%nThey can be placed upwards, downwards and sideways.
+
+# db 337
+e2eu.quest.db.337.title=Golden Spikes
+e2eu.quest.db.337.desc=Spikes are very useful for mobfarms. They deal damage to anything pushed up against them. %n%nMobs killed with Golden Spikes drop experience.%n%nThey can be placed upwards, downwards and sideways.
+
+# db 338
+e2eu.quest.db.338.title=Diamond Spikes
+e2eu.quest.db.338.desc=Spikes are very useful for mobfarms. They deal damage to anything pushed up against them. %n%nMobs killed with Diamond Spikes drop player-kill only items.%n%nThey can be placed upwards, downwards and sideways.
+
+# db 339
+e2eu.quest.db.339.title=Furnace Generator
+e2eu.quest.db.339.desc=This Generator produces power from burnables like Coal and Planks.
+
+# db 340
+e2eu.quest.db.340.title=Culinary Generator
+e2eu.quest.db.340.desc=This Generator produces power from food, the better the quality the higher the RF/t and total output.
+
+# db 341
+e2eu.quest.db.341.title=Magmatic Generator
+e2eu.quest.db.341.desc=This Generator produces power from Lava.
+
+# db 342
+e2eu.quest.db.342.title=Heated Redstone Generator
+e2eu.quest.db.342.desc=This Generator produces power from Lava and Redstone.
+
+# db 343
+e2eu.quest.db.343.title=Ender Generator
+e2eu.quest.db.343.desc=This Generator produces power from Ender Pearls.
+
+# db 344
+e2eu.quest.db.344.title=Potion Generator
+e2eu.quest.db.344.desc=This Generator produces power from potions - The more components used in the brewing of the potion, the higher the RF/t and total output.
+
+# db 345
+e2eu.quest.db.345.title=Pink Generator
+e2eu.quest.db.345.desc=This Generator produces power from pink items.
+
+# db 346
+e2eu.quest.db.346.title=Slimey Generator
+e2eu.quest.db.346.desc=This Generator produces power from Milk and Slime.
+
+# db 347
+e2eu.quest.db.347.title=Frosty Generator
+e2eu.quest.db.347.desc=This Generator produces power from cold items.
+
+# db 348
+e2eu.quest.db.348.title=Explosive Generator
+e2eu.quest.db.348.desc=This Generator produces power from TNT.
+
+# db 349
+e2eu.quest.db.349.title=Overclocked Generator
+e2eu.quest.db.349.desc=This Generator produces power from burnables like Coal and Planks. It produces a lot of RF/t, but is very inefficient. The longer you have it running, the higher the output becomes.
+
+# db 350
+e2eu.quest.db.350.title=Disenchantment Generator
+e2eu.quest.db.350.desc=This Generator produces power from enchanted books and items.
+
+# db 351
+e2eu.quest.db.351.title=Halitosis Generator
+e2eu.quest.db.351.desc=This Generator produces power from Dragon's Breath.
+
+# db 352
+e2eu.quest.db.352.title=Death Generator
+e2eu.quest.db.352.desc=This Generator produces power from the "undead" items, like Rotten Flesh.
+
+# db 353
+e2eu.quest.db.353.title=Netherstar Generator
+e2eu.quest.db.353.desc=This Generator produces power from Nether Stars.
+
+# db 354
+e2eu.quest.db.354.title=Mechanical User
+e2eu.quest.db.354.desc=The Mechanical User can be used to automate nearly every player action, such as breaking blocks, clicking blocks, filling/emptying buckets, and a whole lot of other stuff.
+
+# db 355
+e2eu.quest.db.355.title=Scanner
+e2eu.quest.db.355.desc=The Scanner scans the block in front of it. It's extremely configurable.
+
+# db 356
+e2eu.quest.db.356.title=Rainbow Generator
+e2eu.quest.db.356.desc=The Rainbow Generator can produce stupidly large amounts of power. For it to run, it needs to have one of every Generator (except itself) from Extra Utilities nearby and running.
+
+# db 357
+e2eu.quest.db.357.title=Structure Frame Tier 2
+e2eu.quest.db.357.desc=A Structure Frame block needed to make Tier 2 multiblocks.
+
+# db 358
+e2eu.quest.db.358.title=Creative Modifier
+e2eu.quest.db.358.desc=An extra modifier for your Tinkers' Construct tool.
+
+# db 359
+e2eu.quest.db.359.title=Botania
+e2eu.quest.db.359.desc=Welcome to Botania! %n%nBotania is a magic mod based on flowers.%n%nThe flowers are split up in two main groups: Mana generating flowers, and functional flowers, which run on said mana.%n%nThe Lexica Botania is really comprehensive, so I suggest you search through it, if you run into issues within the mod. The easiest way, in my opinion, to find what you're looking for, is to open the book index and start typing - That'll open up a search bar.%n%nIf the Lexica Botania is in your inventory, you can hold CTRL on a Botania item, to open the corresponding entry.
+
+# db 360
+e2eu.quest.db.360.title=Pure Daisy
+e2eu.quest.db.360.desc=The Pure Daisy can convert adjacent blocks to others. It's main use is for making Livingwood and Livingrock.%n%nNote: The recipes for both Livingwood and Livingrock have been altered. Please refer to the Pure Daisy's uses in JEI for more information.
+
+# db 361
+e2eu.quest.db.361.title=Livingwood
+e2eu.quest.db.361.desc=Livingwood is used in crafting, and is made with Infused Wood.%n%nConsult the Lexica Botania for additional information.
+
+# db 362
+e2eu.quest.db.362.title=Wand of the Forest
+e2eu.quest.db.362.desc=The Wand of the Forest is the "wrench" of Botania.%n%nConsult the Lexica Botania for additional information.
+
+# db 363
+e2eu.quest.db.363.title=Endoflame
+e2eu.quest.db.363.desc=Consult the Lexica Botania for additional information.
+
+# db 364
+e2eu.quest.db.364.title=Mana Spreader
+e2eu.quest.db.364.desc=The Mana Spreader is used for transporting mana.%n%nConsult the Lexica Botania for additional information.
+
+# db 365
+e2eu.quest.db.365.title=Petal Apothecary
+e2eu.quest.db.365.desc=Flowers are made in the Petal Apothecary - It needs a bucket of water, and you will need to drop a Seed in to finish crafting.%n%nConsult the Lexica Botania for additional information.
+
+# db 366
+e2eu.quest.db.366.title=Manasteel
+e2eu.quest.db.366.desc=Manasteel is used in crafting.%n%nConsult the Lexica Botania for additional information.
+
+# db 367
+e2eu.quest.db.367.title=Hopperhock
+e2eu.quest.db.367.desc=%n%nConsult the Lexica Botania for additional information.
+
+# db 368
+e2eu.quest.db.368.title=Jaded Amaranthus
+e2eu.quest.db.368.desc=The Jaded Amaranthus generates Mystical Flowers on nearby dirt/grass at the cost of mana.%n%nConsult the Lexica Botania for additional information.
+
+# db 369
+e2eu.quest.db.369.title=Mana Tablet
+e2eu.quest.db.369.desc=The Mana Tablet can store mana - It's useful for powering your various Botania gadgets, such as Rods and Armor. %n%nDrop it in a Mana Pool set to output to fill it, drop it in a Mana Pool set to input to empty it.%n%nConsult the Lexica Botania for additional information.
+
+# db 370
+e2eu.quest.db.370.title=Runic Altar
+e2eu.quest.db.370.desc=The Runic Altar is used for crafting runes among other things.%n%nPlace or drop the items needed for recipes, supply it with mana, and lastly throw a piece of Livingrock on top of it. End the crafting by right-clicking with the Wand of the Forest.%n%nConsult the Lexica Botania for additional information.
+
+# db 371
+e2eu.quest.db.371.title=Open Crate
+e2eu.quest.db.371.desc=The Open Crate immediately drops anything piped into it - It's very useful for automation.%n%nConsult the Lexica Botania for additional information.
+
+# db 372
+e2eu.quest.db.372.title=Alchemy Catalyst
+e2eu.quest.db.372.desc=The Alchemy Catalyst lets you convert items into other items at the cost of mana.%n%nConsult the Lexica Botania for additional information.
+
+# db 373
+e2eu.quest.db.373.title=Mana Pool
+e2eu.quest.db.373.desc=The Mana Pool can store mana for later use, and flowers can get the mana they need from them. Use the Wand of the Forest to link them.%n%nConsult the Lexica Botania for additional information.
+
+# db 374
+e2eu.quest.db.374.title=Gaia Guardian I
+e2eu.quest.db.374.desc=Consult the Lexica Botania for information on how to summon the Gaia Guardian.%n%n§4Hint§0: If you can't find anything about the Gaia Guardian in the Lexica Botania, try throwing it in the Alfheim portal.
+
+# db 375
+e2eu.quest.db.375.title=Thermalily
+e2eu.quest.db.375.desc=The Thermalily converts lava into mana. After "eating" lava, it goes on cooldown for a while, before it can eat again.%n%nConsult the Lexica Botania for additional information.
+
+# db 376
+e2eu.quest.db.376.title=Soujourner's Sash
+e2eu.quest.db.376.desc=The Soujourner's Sash increases your run speed and jump height, and gives you Step Assist. It requires a tiny amount of mana to function.%n%nConsult the Lexica Botania for additional information.
+
+# db 377
+e2eu.quest.db.377.title=Manaseer Monocle
+e2eu.quest.db.377.desc=The Manaseer Monocle shows you the area of effect of flowers, while you're looking at them.%n%nConsult the Lexica Botania for additional information.
+
+# db 378
+e2eu.quest.db.378.title=Terrestrial Agglomeration Plate
+e2eu.quest.db.378.desc=The Terrestrial Agglomaration Plate is used for crafting Terrasteel. It must be placed in a 3x3 multiblock consisting of the plate, Livingrock and Lapis blocks. Place 5 Livingrock in a X pattern, and place the Plate on the middle Livingrock. Then fill it with 4 Lapis Blocks.%n%nDrop 1 Manasteel, 1 Mana Diamond and 1 Mana Pearl on it to initiate the craft. %n%nIt takes half a Mana Pool worth of mana.%n%nConsult the Lexica Botania for additional information.
+
+# db 379
+e2eu.quest.db.379.title=Sparks
+e2eu.quest.db.379.desc=Sparks can rapidly transport mana between them.%n%nConsult the Lexica Botania for additional information.
+
+# db 380
+e2eu.quest.db.380.title=Terrasteel
+e2eu.quest.db.380.desc=Terrasteel is used in crafting.%n%nConsult the Lexica Botania for additional information.
+
+# db 381
+e2eu.quest.db.381.title=Gaia Guardian II
+e2eu.quest.db.381.desc=Consult the Lexica Botania for information on how to summon the Gaia Guardian II.
+
+# db 382
+e2eu.quest.db.382.title=Elven Gateway
+e2eu.quest.db.382.desc=These are the blocks required to form the gate to Alfheim.%n%nConsult the Lexica Botania for additional information.
+
+# db 383
+e2eu.quest.db.383.title=Natura Pylon
+e2eu.quest.db.383.desc=You'll need 2 of these to open the gate to Alfheim - Place them over mana pools.%n%nConsult the Lexica Botania for additional information.
+
+# db 384
+e2eu.quest.db.384.title=Gaia Pylon
+e2eu.quest.db.384.desc=These Pylons are part of the ritual required to summon the Gaia Guardian.%n%nConsult the Lexica Botania for additional information.
+
+# db 385
+e2eu.quest.db.385.title=Livingrock
+e2eu.quest.db.385.desc=Livingrock is used in crafting, and is made with Arcane Stone.%n%nConsult the Lexica Botania for additional information.
+
+# db 386
+e2eu.quest.db.386.title=Elementium Ingot
+e2eu.quest.db.386.desc=%n%nConsult the Lexica Botania for additional information.
+
+# db 387
+e2eu.quest.db.387.title=Kekimurus
+e2eu.quest.db.387.desc=The Kekimurus eats adjacent Cakes and turn them into large amounts of mana.%n%nConsult the Lexica Botania for additional information.
+
+# db 388
+e2eu.quest.db.388.title=Gourmaryllis
+e2eu.quest.db.388.desc=The Gourmaryllis converts food into mana - The better the food, the more mana is produced.%n%nIt needs to be fed alternating foods, so it doesn't get sick of one type. 2 different foods will suffice.%n%nConsult the Lexica Botania for additional information.
+
+# db 389
+e2eu.quest.db.389.title=Loonium
+e2eu.quest.db.389.desc=%n%nConsult the Lexica Botania for additional information.
+
+# db 390
+e2eu.quest.db.390.title=Munchdew
+e2eu.quest.db.390.desc=The Munchdew eats nearby Leaves and converts them into mana.%n%nConsult the Lexica Botania for additional information.
+
+# db 391
+e2eu.quest.db.391.title=Entropinnyum
+e2eu.quest.db.391.desc=The Entropinnyum absorbs nearby explosions and converts them into mana. %n%nFor a short duration after an explosion has been absorbed, the Entropinnyum will be unable to absorb another - causing the explosion to actually go off. Use with care!%n%nConsult the Lexica Botania for additional information.
+
+# db 392
+e2eu.quest.db.392.title=Solegnolia
+e2eu.quest.db.392.desc=The Solegnolia blocks magnets from working in an area around it. It does not require mana to function.%n%nConsult the Lexica Botania for additional information.
+
+# db 393
+e2eu.quest.db.393.title=Narslimmus
+e2eu.quest.db.393.desc=The Narslimmus feeds off of Slime chunks - Whenever a Slime spawns, it destroys it and turns it into mana. The bigger the Slime, the more mana is produced.%n%nConsult the Lexica Botania for additional information.
+
+# db 394
+e2eu.quest.db.394.title=Orechid
+e2eu.quest.db.394.desc=The Orechid generates ores in nearby Stone, at the cost of mana.%n%nConsult the Lexica Botania for additional information.
+
+# db 395
+e2eu.quest.db.395.title=Dice of Fate
+e2eu.quest.db.395.desc=Dropped from the Gaia Guardian II - What could be inside?%n%nConsult the Lexica Botania for additional information.
+
+# db 396
+e2eu.quest.db.396.title=Clayconia
+e2eu.quest.db.396.desc=The Clayconia converts nearby Sand blocks into balls of Clay, at the cost of mana.%n%nConsult the Lexica Botania for additional information.
+
+# db 397
+e2eu.quest.db.397.title=Pulse Mana Spreader
+e2eu.quest.db.397.desc=The Pulse Mana Spreader will fire a mana burst, if it has enough mana, whenever it receives a redstone signal.%n%nConsult the Lexica Botania for additional information.
+
+# db 398
+e2eu.quest.db.398.title=Conjuration Catalyst
+e2eu.quest.db.398.desc=The Conjuration Catalyst lets you duplicate items at the cost of mana.%n%nConsult the Lexica Botania for additional information.
+
+# db 399
+e2eu.quest.db.399.title=Bellethorne
+e2eu.quest.db.399.desc=The Bellethorne deals damage to nearby entities at the cost of mana. %n%nIt does not harm players.%n%nConsult the Lexica Botania for additional information.
+
+# db 400
+e2eu.quest.db.400.title=Suit Workstation
+e2eu.quest.db.400.desc=The various Space Suit parts can be modified in the Suit Workstation - You can add things like a jetpack, and padding to boots.
+
+# db 401
+e2eu.quest.db.401.title=Holo-Projector
+e2eu.quest.db.401.desc=The Holo-Projector is a device that can project 3d blueprints of the various multiblock machines this mod adds.%n%nSneak + right clicking will open a menu that lets you select which multiblock you wish to make. Once you've selected one, simply right click on the ground to place the blueprint.%n%nThe blueprint will tell you which blocks need to be placed where, along with possible alternatives, in order to fully assemble a given multiblock machine. Sneak + mouse scrolling will change which layer is currently displayed.%n%nOnce you're done with your construction, you can simply right click the controller block of the machine to finish it.
+
+# db 402
+e2eu.quest.db.402.title=Orechid Ignem
+e2eu.quest.db.402.desc=The Orechid Ignem generates Nether ores in nearby Netherrack, at the cost of mana. Must be in the Nether to function.%n%nConsult the Lexica Botania for additional information.
+
+# db 403
+e2eu.quest.db.403.title=Wand of Equal Trade
+e2eu.quest.db.403.desc=This Wand exchanges blocks for another block of your choice, at the cost of mana and said block. Just like an Exchanger.%n%nConsult the Lexica Botania for additional information.
+
+# db 404
+e2eu.quest.db.404.title=Shard of Laputa
+e2eu.quest.db.404.desc=The Shard of Laputa has the ability to raise a chunk of land from the ground, into the sky. Right-click the ground to use.%n%nIt has 20 levels, each level increasing the size of the chunk raised.%n%nConsult the Lexica Botania for additional information.
+
+# db 405
+e2eu.quest.db.405.title=Rod of the Seas
+e2eu.quest.db.405.desc=The Rod of the Seas can generate water, at the cost of mana. Right-click to place a water source block. It can fill the Petal Apothecary.%n%nConsult the Lexica Botania for additional information.
+
+# db 406
+e2eu.quest.db.406.title=Band of Mana
+e2eu.quest.db.406.desc=The Band of Mana is a wearable Mana Tablet.%n%nConsult the Lexica Botania for additional information.
+
+# db 407
+e2eu.quest.db.407.title=Rod of the Terra Firma
+e2eu.quest.db.407.desc=The Rod of the Terra Firma is an incredibly powerful tool. At the cost of large amounts of mana, it will raise or lower the ground around you, to the level you're standing on.%n%nIf you keep a Rod of the Lands on you while you use this, the mana cost of placing dirt will be lessened.%n%nIt can destroy most stone-type blocks.%n%nConsult the Lexica Botania for additional information.
+
+# db 408
+e2eu.quest.db.408.title=Horn of the Wild
+e2eu.quest.db.408.desc=If you hold right-click with the Horn of the Wild in your hand, it'll harvest all crops and grass in a large radius around you.%n%nConsult the Lexica Botania for additional information.
+
+# db 409
+e2eu.quest.db.409.title=Horn of the Canopy
+e2eu.quest.db.409.desc=If you hold right-click with the Horn of the Canopy in your hand, it'll harvest all leaves in a large radius around you.%n%nConsult the Lexica Botania for additional information.
+
+# db 410
+e2eu.quest.db.410.title=Horn of the Covering
+e2eu.quest.db.410.desc=If you hold right-click with the Horn of the Covering in your hand, it'll harvest snow layers in a large radius around you.%n%nConsult the Lexica Botania for additional information.
+
+# db 411
+e2eu.quest.db.411.title=Electric Jetpack
+e2eu.quest.db.411.desc=A simple, cheap jetpack. Charge it with EU.
+
+# db 412
+e2eu.quest.db.412.title=Advanced Alloy
+e2eu.quest.db.412.desc=A crafting component.
+
+# db 413
+e2eu.quest.db.413.title=RTG Fuel
+e2eu.quest.db.413.desc=RTG Fuel can be used to produce EU passively in a Radioisotope Thermoelectric Generator. %n%nIt's also a crafting ingredient for some endgame items.
+
+# db 414
+e2eu.quest.db.414.title=Elven Mana Spreader
+e2eu.quest.db.414.desc=A faster Mana Spreader.%n%nConsult the Lexica Botania for additional information.
+
+# db 415
+e2eu.quest.db.415.title=Gaia Mana Spreader
+e2eu.quest.db.415.desc=The absolute fastest Mana Spreader.%n%nConsult the Lexica Botania for additional information.
+
+# db 416
+e2eu.quest.db.416.title=Coils and Motors
+e2eu.quest.db.416.desc=Several multiblock machines in this mod make use of either Coils, Motors or both.%n%nThese come in several tiers, with the more expensive ones making the machine work faster, but any given machine will accept any of them.
+
+# db 417
+e2eu.quest.db.417.title=Rubber
+e2eu.quest.db.417.desc=Sticky Resin is extracted from Rubber Trees, with a Treetap. Sticky Resin can be smelted to make rubber, but it's far more efficient to process it in an Extractor.
+
+# db 418
+e2eu.quest.db.418.title=Mining Laser
+e2eu.quest.db.418.desc=The Mining Laser is a mining tool. It has several different modes you can choose from.
+
+# db 419
+e2eu.quest.db.419.title=Spark Augments
+e2eu.quest.db.419.desc=Spark Augments change the way Sparks behave, they can be very useful, especially for automation.%n%nConsult the Lexica Botania for additional information.
+
+# db 420
+e2eu.quest.db.420.title=Plutonium
+e2eu.quest.db.420.desc=Tiny Piles of Plutonium come from processing depleted MOX or Uranium Fuel Rods in a Thermal Centrifuge.
+
+# db 421
+e2eu.quest.db.421.title=CF Sprayer
+e2eu.quest.db.421.desc=The CF Sprayer can be used to spray Construction Foam. Construction Foam can encase IC2 cables to form facades.
+
+# db 422
+e2eu.quest.db.422.title=Benevolent Goddess' Charm
+e2eu.quest.db.422.desc=If you have the Benevolent Goddess' Charm equipped in a bauble slot, it will drastically reduce damage you take from Creeper explosions, and nullify the explosion itself. It requires mana to do so.%n%nConsult the Lexica Botania for additional information.
+
+# db 423
+e2eu.quest.db.423.title=Rod of the Plentiful Mantle
+e2eu.quest.db.423.desc=The Rod of the Plentiful Mantle will highlight nearby ores when you right click, at the cost of mana. This is especially useful for finding NuclearCraft meteors.%n%nConsult the Lexica Botania for additional information.
+
+# db 424
+e2eu.quest.db.424.title=Iridium
+e2eu.quest.db.424.desc=Iridium is an extremely rare material, used for Tools and crafting. It's a great idea to automate the replication of this.%n%nYou can find Iridium Shards in dungeon loot, and the Shards can be compressed into Iridium Ore.
+
+# db 425
+e2eu.quest.db.425.title=Electric Arc Furnace
+e2eu.quest.db.425.desc=The Electric Arc Furnace is a big multiblock machine that can heat things a lot using RF.%n%nFollow the blueprint provided by the Holo-Projector to assemble it. There are 11 blocks in total in the structure where Input or Output Hatches can be placed, otherwise you'll need to put Heatproof Bricks. The requirements on this quest is the minmum of 1 Input and 1 Output Hatch, with the rest being Bricks.%n%nOnce built, right click the Electric Arc Furnace block once to finish it, then another time to open its UI. Turn on the machine using the switch on the top left and you can now use it.%n%nTo use it, put your input in the Input Hatch, check the progress in the Electric Arc Furnace block, then get your outputs from the Output Hatch. Most machines from this mod behave in similar way so be sure to remember it.%n%nThe main use of this Furnace is to make Steel from Iron and Charcoal, Titanium from Rutile Ore and Silicon Ingots from Sand. All of them are used in several crafting recipes later on. All of these items can be obtained through other means aswell.
+
+# db 426
+e2eu.quest.db.426.title=Cutting Machine
+e2eu.quest.db.426.desc=The Cutting Machine is a multiblock machine that is used to cut things using RF.%n%nIt can be used to turn wood Logs into Planks much more efficiently than by hand, but is mostly used in the making of Basic Circuits, a crucial component for later on.
+
+# db 427
+e2eu.quest.db.427.title=Precision Assembler
+e2eu.quest.db.427.desc=The Precision Assembler is a machine that can assemble electronics much more efficiently than by hand using RF.%n%nIts main use is crafting the various Circuit Boards, used to craft various machines, for a much cheaper cost than their normal crafting recipes. It is also used with other machines in making Basic Circuits for more advanced machines.%n%nIt is recommended to make this machine as soon as possible, as it drastically cuts the cost of other machines.
+
+# db 428
+e2eu.quest.db.428.title=Crystallizer
+e2eu.quest.db.428.desc=The Crystallizer is a multiblock machine used to make various crystals using RF.%n%nIts only uses are turning Dilithium Dust into Dilithium Crystals, which will be used to fuel a Warp Drive later on, and making Silicon Boules, a component in making Basic Circuits for more advanced machines.
+
+# db 429
+e2eu.quest.db.429.title=Basic Circuits
+e2eu.quest.db.429.desc=Basic Circuits are an essential crafting component made using the Crystallizer, Cutting Machine and Precision Assembler. They're not the only component that require this processing chain, but they're the most used ones.%n%nTo make a Basic Circuit, first make some Silicon in your Electric Arc Furnace, turn it into a Silicon Boule in the Crystallizer, cut it into Silicon Wafers using the Cutting Machine, assemble them with the required components in the Precision Assembler, and finally cut the result in the Cutting Machine.
+
+# db 430
+e2eu.quest.db.430.title=Lathe
+e2eu.quest.db.430.desc=The Lathe is a simple machine used to make Rods much more efficiently than by hand, using RF.%n%nYou should consider making it relatively early, as it is cheap and can cut down a lot of material cost in the long run.
+
+# db 431
+e2eu.quest.db.431.title=Rolling Machine
+e2eu.quest.db.431.desc=The Rolling Machine is a multiblock machine that uses RF and Water to make Plates much more efficiently than the Smal Plate Presser.%n%nIts other uses include the ability to craft Sheets of various materials, as well as Pressure Tanks that allow to easily transport higher quantities of fluid than Buckets.%n%nIt is recommended to make this machine early to cut down the metal cost of crafting the various components required by other machines.
+
+# db 432
+e2eu.quest.db.432.title=Electrolyser
+e2eu.quest.db.432.desc=The Electrolyser is a machine that uses RF to turn Water into Hydrogen and Oxygen.%n%nBoth of those fluids are needed later on to make Rocket Fuel as well as to be able to breath in space with the Space Suit.
+
+# db 433
+e2eu.quest.db.433.title=Wireless terminals
+e2eu.quest.db.433.desc=§bPAE2§r comes with it's own wireless terminals, allowing the player to wirelessly craft, create patterns, and access fluids. Terminals can be placed in baubles slots, and can be accessed via a keybind. Like the other wireless terminal mod, you need to add it to your network via a §6security terminal§r.
+
+# db 434
+e2eu.quest.db.434.title=Gas Charge Pad
+e2eu.quest.db.434.desc=The Gas Charge Pad is a simple machine that can fill items with Hydrogen or Oxygen without using RF.%n%nSimply pipe in the gas you want and insert any container that you want to insert the gas into.%n%nMost importantly though, standing on top of it with either a Space Suit Chest-Piece with a tank installed or a chestplate enchanted with Airtight Seal equipped will fill it with Oxygen. This is required to not die when on a planet with no atmosphere.
+
+# db 435
+e2eu.quest.db.435.title=Gravity Controller
+e2eu.quest.db.435.desc=The Gravity Controller lets you control the gravity of your Space Station.
+
+# db 436
+e2eu.quest.db.436.title=Rocket Assembling Machine
+e2eu.quest.db.436.desc=The Rocket Assembling Machine is a multiblock structure that will allow you to make Rockets to go into space. This first quest will only detail how to build the structure.%n%nStart by placing Launch Pad blocks in a rectangle on the ground. It can be anywhere from 3x3 to 16x16. On the same level, place a Structure Tower near one of the side, then stack up more of them to make a 1 block tower. This tower can be anywhere from 4 to 64 blocks tall.%n%nFinally, place the Rocket Assembling Machine itself one block above the level of the Pads, with the back of the machine facing the Pad, and plug it with RF. If you did this correctly, it should no longer say "Invalid Launch Pad Structure".%n%nThen you need the Fueling Station to be able to fuel your Rockets. Place it somewhere near the Assembling Machine, plug it with RF and your source of Rocket Fuel, then sneak + right click it with a Linker, then sneak + right click the Assembling Machine with the same Linker.
+
+# db 437
+e2eu.quest.db.437.title=Building a Rocket
+e2eu.quest.db.437.desc=Building a Rocket is the last step before getting to space.%n%nThe Rocket needs to be built on your Rocket Assembling Machine, with the Launch Pad blocks delimiting the horizontal space you have and the Structure Tower the vertical space you have (you can't go higher than your stack of Structure Towers and can't go out the rectangle of Launch Pad).%n%nA manned Rocket needs a Guidance Computer, a Seat, at least one Rocket Engine (a better version can be crafted once you got Titanium Iridium Alloy) and at least one Liquid Fuel Tank. There are no other restrictions that apply, your Rocket can be as unrealistic as you want so long that you respect the above points.%n%nTo check if your Rocket is actually capable of reaching space, go on your Rocket Assembling Machine and click Scan. It will both tell you how what's missing as well as various stats, as follow :%n-Thrust : how much thrust the Engines are providing%n-Weight : how heavy is the Rocket, most blocks have the same weight but blocks with inventories can be heavier%n-Fuel : how much fuel capacity you have, increased by adding more Tanks; the white line is the amount required to reach orbit, and thus you should always have more than that%n-Acceleration : how fast will the Rocket accelerate on a planet with as much gravity as the Overworld; white bar in the middle is 0 m/s² so you should always be higher than that%n%nWhen your Rocket is ready, click Build on the Rocket Assembling Machine. You can then right click to board it or sneak + right click to open its inventories and check the fuel level.%n%nFinally, insert your Planet Id Chip in the Guidance Computer's inventory, then in the Rocket's inventory click Select Dst, select Luna either on the map or through the Planet List, and click Select.%n%nMake sure you have a full Space Suit (or full armor enchanted with Airtight Seal) filled with Oxygen, then board the Rocket and press Space. You will then arrive on Luna. To go back, select Earth like you selected Luna earlier, board the Rocket and take off again. You don't need as much fuel to take off from Luna.
+
+# db 438
+e2eu.quest.db.438.title=Warp Controller
+e2eu.quest.db.438.desc=The Warp Controller is used to set the destination of your Space Station.
+
+# db 439
+e2eu.quest.db.439.title=Space Station Assembler
+e2eu.quest.db.439.desc=The Space Station Assembler is used to assemble Space Stations.%n%nYou will need the same setup as for building Rockets, the only differences being Space Stations don't need fuel, and when they're built, they compress into item form.%n%nThe item then needs to be launched into space, with a rocket with a Satellite Bay. The rocket will be lost, unless you give it a Guidance Computer with the Space Station ID Chip in it, in which case it'll land on the newly made Space Station.%n%nYou can travel there by making a Rocket, and placing the Space Station ID Chip in the Guidance Computer.§4 Make sure to always have backups of your Space Station ID Chip!
+
+# db 440
+e2eu.quest.db.440.title=Oxygen Vent
+e2eu.quest.db.440.desc=The Oxygen Vent, when supplied with Oxygen and power, will fill the room it's in with oxygen, given that it's airtight.%n%nThe size it can fill with oxygen is limited, but large.
+
+# db 441
+e2eu.quest.db.441.title=Rocket Fuel
+e2eu.quest.db.441.desc=Your Rocket needs fuel to work. The following liquids are viable rocket fuels:%n%nRocket Fuel%nRefined Fuel%nPyrotheum%nNeutron%nLiquid Oxygen%nUU-Matter%nLiquid Starlight%n%nRocket Fuel is made in the Mixer multiblock.
+
+# db 442
+e2eu.quest.db.442.title=Space Suit
+e2eu.quest.db.442.desc=You'll need a Space Suit, or an otherwise air-tight armor set, to survive in space.
+
+# db 443
+e2eu.quest.db.443.title=Satellite Builder
+e2eu.quest.db.443.desc=Satellites can be used to collect data from celestial objects.%n %n%nSee http://arwiki.dmodoomsirius.me/AdvancedRocketry/1.12.2/guides/Satellites.html for details.
+
+# db 444
+e2eu.quest.db.444.title=CO2 Scrubber
+e2eu.quest.db.444.desc=The CO2 Scrubber, with Carbon Collecting Cartridge in, will decrease the amount of oxygen the Oxygen Vent uses.%n%nYou can place up to 2 next to a Oxygen vent - the rotation of the CO2 Scrubber matters.%n%nThe Carbon Collecting Cartridges will be destroyed over time.
+
+# db 445
+e2eu.quest.db.445.title=Warp Core
+e2eu.quest.db.445.desc=Building a Warp Core multiblock in your Space Station will allow you to travel to other planets and solar systems!%n%nIt uses Dilithium Crystals as fuel.
+
+# db 446
+e2eu.quest.db.446.title=Advanced Circuit
+e2eu.quest.db.446.desc=A crafting component.
+
+# db 447
+e2eu.quest.db.447.title=Astrobody Data Processor
+e2eu.quest.db.447.desc=The Astrobody Data Processor is a multiblock machine used to research Asteroids, when provided with information from satellites.%n%nAsteroids contain extremely rare metals in abundance. Asteroids have been custom made for this pack.%n%nSee http://arwiki.dmodoomsirius.me/AdvancedRocketry/1.12.2/guides/AsteroidMissions.html for more information.
+
+# db 448
+e2eu.quest.db.448.title=Space Station ID Chip
+e2eu.quest.db.448.desc=It's §4extremely§0 important that you don't lose your Space Station ID Chip, once it has been set to your Space Station.§0 If you lose the chip, and don't have any other means of transport to the Space Station, it's lost.%n%nLuckily, it can be copied in the Satellite Builder multiblock.
+
+# db 449
+e2eu.quest.db.449.title=Titanium
+e2eu.quest.db.449.desc=Before you're able to get to space, you can make Titanium in the Advanced Metallurgic Fabricator.%n%nTitanium can be found in space, as Rutile Ore.
+
+# db 450
+e2eu.quest.db.450.title=NuclearCraft
+e2eu.quest.db.450.desc=Welcome to NuclearCraft! This mod is all about generating massive amounts of power through Nuclear Fission and Fusion. %n%nThe trickiest part of this mod is without a doubt figuring out how to get the various nuclear fuels and isotopes - JEI does show how to obtain it all, but there are often several steps.%n%nIt leads to Draconic Evolution, and the endgame.
+
+# db 451
+e2eu.quest.db.451.title=Dimensional Shard Ore
+e2eu.quest.db.451.desc=An extremely rare ore, found in space.
+
+# db 452
+e2eu.quest.db.452.title=Mana Infused Ore
+e2eu.quest.db.452.desc=An extremely rare ore, found in space.
+
+# db 453
+e2eu.quest.db.453.title=Rutile Ore
+e2eu.quest.db.453.desc=An extremely rare ore, found in space.
+
+# db 454
+e2eu.quest.db.454.title=Destabilized Clathrate
+e2eu.quest.db.454.desc=Drops from an extremely rare ore, found in space.
+
+# db 455
+e2eu.quest.db.455.title=Dilithium Ore
+e2eu.quest.db.455.desc=An extremely rare ore, found on moons.
+
+# db 456
+e2eu.quest.db.456.title=Iridium Ore
+e2eu.quest.db.456.desc=An extremely rare ore, found in space.
+
+# db 457
+e2eu.quest.db.457.title=Prosperity Ore
+e2eu.quest.db.457.desc=An extremely rare ore, found in space.
+
+# db 458
+e2eu.quest.db.458.title=Energized Clathrate
+e2eu.quest.db.458.desc=Drops from an extremely rare ore, found in space.
+
+# db 459
+e2eu.quest.db.459.title=Resonant Clathrate
+e2eu.quest.db.459.desc=Drops from an extremely rare ore, found in space.
+
+# db 460
+e2eu.quest.db.460.title=Draconium Ore
+e2eu.quest.db.460.desc=An extremely rare ore, found in space.
+
+# db 461
+e2eu.quest.db.461.title=Draconium Ore
+e2eu.quest.db.461.desc=An extremely rare ore, found in space.
+
+# db 462
+e2eu.quest.db.462.title=Environmental Tech
+e2eu.quest.db.462.desc=Welcome to Environmental Tech!%n%nThis mod features large §4multiblock machines§0, like the Solar Controller and the Void Ore Miner.%n%nThe multiblocks can be §3automatically assembled§0, if you right click with the Assembler on the Controller block that you wish to build the structure for.§4 It'll tell you the materials you need.§0 Once the materials are all in your inventory, right click the Controller with the Assembler again, and it'll build your structure!%n%nIn order to progress through the mod, you'll need tons of §2Litherite §0to start off with. Use that to build your first Void Ore Miner (Tier 1) - which will mine§2 Litherite§0, and the next tier crystal, for you. Build the next tier Ore Miner with your newly acquired crystals, and repeat the cycle until you reach Tier 6.%n%nAll of the crystals are used in lategame recipes.
+
+# db 463
+e2eu.quest.db.463.title=Manufactory
+e2eu.quest.db.463.desc=The Manufactory is the first machine you'll get your hands on in NuclearCraft. %n%nIt can make various crafting materials and double ores. %n%nIt's also used as a crafting component in the recipe of a few other machines.
+
+# db 464
+e2eu.quest.db.464.title=Basic Plating
+e2eu.quest.db.464.desc=A crafting component used to craft most basic NuclearCraft machines.
+
+# db 465
+e2eu.quest.db.465.title=Structure Frame Tier 1
+e2eu.quest.db.465.desc=A Structure Frame block needed to make Tier 1 multiblocks.
+
+# db 466
+e2eu.quest.db.466.title=Draconic Evolution
+e2eu.quest.db.466.desc=Welcome to Draconic Evolution!%n%nThis mod is all about §4insanely powerful§0 armor, tools, items and blocks - At a high cost.%n%nYou'll need the majority of crafting components from Draconic Evolution to craft endgame items.
+
+# db 467
+e2eu.quest.db.467.title=Wyvern Core
+e2eu.quest.db.467.desc=A crafting component, but it can also be used to make Tinkers' Construct tools.
+
+# db 468
+e2eu.quest.db.468.title=Structure Frame Tier 3
+e2eu.quest.db.468.desc=A Structure Frame block needed to make Tier 3 multiblocks.
+
+# db 469
+e2eu.quest.db.469.title=Structure Frame Tier 4
+e2eu.quest.db.469.desc=A Structure Frame block needed to make Tier 4 multiblocks.
+
+# db 470
+e2eu.quest.db.470.title=Structure Frame Tier 5
+e2eu.quest.db.470.desc=A Structure Frame block needed to make Tier 5 multiblocks.
+
+# db 471
+e2eu.quest.db.471.title=Structure Frame Tier 6
+e2eu.quest.db.471.desc=A Structure Frame block needed to make Tier 6 multiblocks.
+
+# db 472
+e2eu.quest.db.472.title=Erodium
+e2eu.quest.db.472.desc=A rare crystal, obtainable from Void Ore Miners tier 1 and up.
+
+# db 473
+e2eu.quest.db.473.title=Void Ore Miner Tier 1
+e2eu.quest.db.473.desc=The Void Ore Miner gathers materials such as Iron Ore, Glowstone, and ET Crystals from the void. It's laser needs line of sight to either bedrock or void to function. The higher the tier of the Ore Miner, the faster it runs. Certain ores can only be obtained from the highest tiers of Ore Miner - JEI shows which ores are obtainable, and the chances to get them.
+
+# db 474
+e2eu.quest.db.474.title=Void Resource Miner Tier 1
+e2eu.quest.db.474.desc=The Void Resource Miner gathers materials such as Stone, Obsidian and Grass from the void. It's laser needs line of sight to either bedrock or void to function. The higher the tier of the Resource Miner, the faster it runs.
+
+# db 475
+e2eu.quest.db.475.title=Solar Array Tier 1
+e2eu.quest.db.475.desc=The Solar Array is capable of producing large amounts of energy from the sun. The higher the tier of the Controller and Solar Cells, the more power is produced.
+
+# db 476
+e2eu.quest.db.476.title=Void Ore Miner Tier 2
+e2eu.quest.db.476.desc=The Void Ore Miner gathers materials such as Iron Ore, Glowstone, and ET Crystals from the void. It's laser needs line of sight to either bedrock or void to function. The higher the tier of the Ore Miner, the faster it runs. Certain ores can only be obtained from the highest tiers of Ore Miner - JEI shows which ores are obtainable, and the chances to get them.
+
+# db 477
+e2eu.quest.db.477.title=Void Ore Miner Tier 3
+e2eu.quest.db.477.desc=The Void Ore Miner gathers materials such as Iron Ore, Glowstone, and ET Crystals from the void. It's laser needs line of sight to either bedrock or void to function. The higher the tier of the Ore Miner, the faster it runs. Certain ores can only be obtained from the highest tiers of Ore Miner - JEI shows which ores are obtainable, and the chances to get them.
+
+# db 478
+e2eu.quest.db.478.title=Void Ore Miner Tier 4
+e2eu.quest.db.478.desc=The Void Ore Miner gathers materials such as Iron Ore, Glowstone, and ET Crystals from the void. It's laser needs line of sight to either bedrock or void to function. The higher the tier of the Ore Miner, the faster it runs. Certain ores can only be obtained from the highest tiers of Ore Miner - JEI shows which ores are obtainable, and the chances to get them.
+
+# db 479
+e2eu.quest.db.479.title=Void Ore Miner Tier 5
+e2eu.quest.db.479.desc=The Void Ore Miner gathers materials such as Iron Ore, Glowstone, and ET Crystals from the void. It's laser needs line of sight to either bedrock or void to function. The higher the tier of the Ore Miner, the faster it runs. Certain ores can only be obtained from the highest tiers of Ore Miner - JEI shows which ores are obtainable, and the chances to get them.
+
+# db 480
+e2eu.quest.db.480.title=Void Ore Miner Tier 6
+e2eu.quest.db.480.desc=The Void Ore Miner gathers materials such as Iron Ore, Glowstone, and ET Crystals from the void. It's laser needs line of sight to either bedrock or void to function. The higher the tier of the Ore Miner, the faster it runs. Certain ores can only be obtained from the highest tiers of Ore Miner - JEI shows which ores are obtainable, and the chances to get them.
+
+# db 481
+e2eu.quest.db.481.title=Kyronite
+e2eu.quest.db.481.desc=A rare crystal, obtainable from Void Ore Miners tier 2 and up.
+
+# db 482
+e2eu.quest.db.482.title=Pladium
+e2eu.quest.db.482.desc=A rare crystal, obtainable from Void Ore Miners tier 3 and up.
+
+# db 483
+e2eu.quest.db.483.title=Ionite
+e2eu.quest.db.483.desc=A rare crystal, obtainable from Void Ore Miners tier 4 and up.
+
+# db 484
+e2eu.quest.db.484.title=Aethium
+e2eu.quest.db.484.desc=A rare crystal, obtainable from Void Ore Miners tier 5 and up.
+
+# db 485
+e2eu.quest.db.485.title=Void Resource Miner Tier 2
+e2eu.quest.db.485.desc=The Void Resource Miner gathers materials such as Stone, Obsidian and Grass from the void. It's laser needs line of sight to either bedrock or void to function. The higher the tier of the Resource Miner, the faster it runs.
+
+# db 486
+e2eu.quest.db.486.title=Void Resource Miner Tier 3
+e2eu.quest.db.486.desc=The Void Resource Miner gathers materials such as Stone, Obsidian and Grass from the void. It's laser needs line of sight to either bedrock or void to function. The higher the tier of the Resource Miner, the faster it runs.
+
+# db 487
+e2eu.quest.db.487.title=Void Resource Miner Tier 4
+e2eu.quest.db.487.desc=The Void Resource Miner gathers materials such as Stone, Obsidian and Grass from the void. It's laser needs line of sight to either bedrock or void to function. The higher the tier of the Resource Miner, the faster it runs.
+
+# db 488
+e2eu.quest.db.488.title=Void Resource Miner Tier 5
+e2eu.quest.db.488.desc=The Void Resource Miner gathers materials such as Stone, Obsidian and Grass from the void. It's laser needs line of sight to either bedrock or void to function. The higher the tier of the Resource Miner, the faster it runs.
+
+# db 489
+e2eu.quest.db.489.title=Void Resource Miner Tier 6
+e2eu.quest.db.489.desc=The Void Resource Miner gathers materials such as Stone, Obsidian and Grass from the void. It's laser needs line of sight to either bedrock or void to function. The higher the tier of the Resource Miner, the faster it runs.
+
+# db 490
+e2eu.quest.db.490.title=Solar Array Tier 2
+e2eu.quest.db.490.desc=The Solar Array is capable of producing large amounts of energy from the sun. The higher the tier of the Controller and Solar Cells, the more power is produced.
+
+# db 491
+e2eu.quest.db.491.title=Solar Array Tier 3
+e2eu.quest.db.491.desc=The Solar Array is capable of producing large amounts of energy from the sun. The higher the tier of the Controller and Solar Cells, the more power is produced.
+
+# db 492
+e2eu.quest.db.492.title=Solar Array Tier 4
+e2eu.quest.db.492.desc=The Solar Array is capable of producing large amounts of energy from the sun. The higher the tier of the Controller and Solar Cells, the more power is produced.
+
+# db 493
+e2eu.quest.db.493.title=Solar Array Tier 5
+e2eu.quest.db.493.desc=The Solar Array is capable of producing large amounts of energy from the sun. The higher the tier of the Controller and Solar Cells, the more power is produced.
+
+# db 494
+e2eu.quest.db.494.title=Solar Array Tier 6
+e2eu.quest.db.494.desc=The Solar Array is capable of producing large amounts of energy from the sun. The higher the tier of the Controller and Solar Cells, the more power is produced.
+
+# db 495
+e2eu.quest.db.495.title=Speed Modifier
+e2eu.quest.db.495.desc=The Speed Modifier can be used instead of a Modifier Core. It increases the speed of the Void Miners, at the cost of additional power. %n%nYou can stack them, but the power requirement will rise exponentially.
+
+# db 496
+e2eu.quest.db.496.title=Piezo Modifier
+e2eu.quest.db.496.desc=The Piezo Modifier can be used instead of Modifier Cores in the Solar multiblocks.%n%nIt will generate power when it's raining, and you can stack them.
+
+# db 497
+e2eu.quest.db.497.title=Accuracy Modifier
+e2eu.quest.db.497.desc=The Accuracy Modifier can be used instead of a Modifier Core. It increases the accuracy of Colored Lenses in both kinds of Void Miners, at the cost of additional power. %n%nYou can stack them, but the power requirement will rise exponentially.
+
+# db 498
+e2eu.quest.db.498.title=Advanced Plating
+e2eu.quest.db.498.desc=A crafting component, used to make most advanced NuclearCraft machines.
+
+# db 499
+e2eu.quest.db.499.title=DU Plating
+e2eu.quest.db.499.desc=The DU Plating is used for crafting Elite Plating, and the Fission Controller.
+
+# db 500
+e2eu.quest.db.500.title=Elite Plating
+e2eu.quest.db.500.desc=The Elite Plating is used in recipes throughout the late/endgame.
+
+# db 501
+e2eu.quest.db.501.title=Alloy Furnace
+e2eu.quest.db.501.desc=The Alloy Furnace is used to make alloys, aswell as being a crafting component in the recipe for a bunch of other machines.
+
+# db 502
+e2eu.quest.db.502.title=Fuel Reprocessor
+e2eu.quest.db.502.desc=See the machine's tooltip for a description of it.
+
+# db 503
+e2eu.quest.db.503.title=Fluid Extractor
+e2eu.quest.db.503.desc=See the machine's tooltip for a description of it.
+
+# db 504
+e2eu.quest.db.504.title=Machine Interface
+e2eu.quest.db.504.desc=See the machine's tooltip for a description of it.
+
+# db 505
+e2eu.quest.db.505.title=Fluid Infuser
+e2eu.quest.db.505.desc=See the machine's tooltip for a description of it.
+
+# db 506
+e2eu.quest.db.506.title=Melter
+e2eu.quest.db.506.desc=See the machine's tooltip for a description of it.
+
+# db 507
+e2eu.quest.db.507.title=Supercooler
+e2eu.quest.db.507.desc=See the machine's tooltip for a description of it.
+
+# db 508
+e2eu.quest.db.508.title=Electrolyzer
+e2eu.quest.db.508.desc=See the machine's tooltip for a description of it.
+
+# db 509
+e2eu.quest.db.509.title=Neutron Irradiator
+e2eu.quest.db.509.desc=See the machine's tooltip for a description of it.
+
+# db 510
+e2eu.quest.db.510.title=Ingot Former
+e2eu.quest.db.510.desc=See the machine's tooltip for a description of it.
+
+# db 511
+e2eu.quest.db.511.title=Pressurizer
+e2eu.quest.db.511.desc=See the machine's tooltip for a description of it.
+
+# db 512
+e2eu.quest.db.512.title=Isotope Seperator
+e2eu.quest.db.512.desc=See the machine's tooltip for a description of it.
+
+# db 513
+e2eu.quest.db.513.title=Salt Mixer
+e2eu.quest.db.513.desc=The Salt Mixer is a machine that blends molten salts together, but it's also a crafting component in recipes for several other machines.
+
+# db 514
+e2eu.quest.db.514.title=Chemical Reactor
+e2eu.quest.db.514.desc=See the machine's tooltip for a description of it.
+
+# db 515
+e2eu.quest.db.515.title=Decay Hastener
+e2eu.quest.db.515.desc=See the machine's tooltip for a description of it.
+
+# db 516
+e2eu.quest.db.516.title=Crystallizer
+e2eu.quest.db.516.desc=See the machine's tooltip for a description of it.
+
+# db 517
+e2eu.quest.db.517.title=Fluid Enricher
+e2eu.quest.db.517.desc=See the machine's tooltip for a description of it.
+
+# db 518
+e2eu.quest.db.518.title=Nuclear Furnace
+e2eu.quest.db.518.desc=See the machine's tooltip for a description of it.
+
+# db 519
+e2eu.quest.db.519.title=Fusion Core
+e2eu.quest.db.519.desc=The Fusion Reactor is a large multiblock generator, capable of generating massive amounts of power.%n%nIt's a pretty complicated structure, so I highly advice that you watch a spotlight on it, or read through a guide. %n%nThe mod author made this spotlight on it:%n§1§9https://www.youtube.com/watch?v=L-0LOtg2Plk&t=12s§0%n%n%n%n... That's not actually a hyperlink, it's just coloured text. Sorry.%n%nYou will need the Neutron fluid it produces as a byproduct for the Creative Tank.
+
+# db 520
+e2eu.quest.db.520.title=Fission Controller
+e2eu.quest.db.520.desc=The Fission Reactor is a midgame multiblock generator capable of producing very large amounts of power.%n%nIt's a good idea to watch a guide or read a tutorial, to get an idea of how you operate the Fission Reactor.%n%nHere's a slightly outdated spotlight made by the mod author:%n%n§9https://www.youtube.com/watch?v=G5pM93a0MGA&t=2s%n§0%n%nThat's not actually a hyperlink, it's just coloured text. Sorry.%n%nThe Fission Reactor multiblock parts all have pretty descriptive tooltips, so I suggest you read through those to get an idea of what's possible.
+
+# db 521
+e2eu.quest.db.521.title=Speed Upgrade
+e2eu.quest.db.521.desc=This upgrade decrease the process time of machines, at the cost of additional power. %n%n§4Note §0that some machines will reset their work if they run out of power.
+
+# db 522
+e2eu.quest.db.522.title=Awakened Core
+e2eu.quest.db.522.desc=A crafting component, but it can also be used to make Tinkers' Construct tools.
+
+# db 523
+e2eu.quest.db.523.title=Chaotic Core
+e2eu.quest.db.523.desc=A crafting component, but it can also be used to make Tinkers' Construct tools.
+
+# db 524
+e2eu.quest.db.524.title=Wyvern Energy Core
+e2eu.quest.db.524.desc=A crafting component.
+
+# db 525
+e2eu.quest.db.525.title=Draconic Energy Core
+e2eu.quest.db.525.desc=A crafting component.
+
+# db 526
+e2eu.quest.db.526.title=Dragon Heart
+e2eu.quest.db.526.desc=Obtained from dragons. It can be used to make Awakened Draconium, and a few other things.
+
+# db 527
+e2eu.quest.db.527.title=Draconium Ingot
+e2eu.quest.db.527.desc=Draconium can be found in space, and the Deep Dark.
+
+# db 528
+e2eu.quest.db.528.title=Awakened Draconium Ingot
+e2eu.quest.db.528.desc=A crafting component.
+
+# db 529
+e2eu.quest.db.529.title=Ender Energy Manipulator
+e2eu.quest.db.529.desc=The Ender Energy Manipulator is able to extract a Dragon Egg from a living Ender Dragon.
+
+# db 530
+e2eu.quest.db.530.title=Wyvern Fusion Crafting Injector
+e2eu.quest.db.530.desc=Wyvern tier fusion crafting.
+
+# db 531
+e2eu.quest.db.531.title=Basic Fusion Crafting Injector
+e2eu.quest.db.531.desc=A number of Fusion Crafting Injectors are need to do Draconic Evolution Fusion Crafting. %n%nThey come in multiple tiers - Some items can only be made with certain tiers of Fusion Crafting Injectors.
+
+# db 532
+e2eu.quest.db.532.title=Fusion Crafting Core
+e2eu.quest.db.532.desc=This is the center device of Draconic Evolution fusion crafting. %n%nYou supply the Fusion Crafting Core with a catalyst item, and surround it with 5-10 Fusion Crafting Injectors, which will need energy and the items corresponding to the catalyst.%n%nAutomating it can be done fairly simply with some AA lasers.
+
+# db 533
+e2eu.quest.db.533.title=Chaotic Fusion Crafting Injector
+e2eu.quest.db.533.desc=Chaotic tier fusion crafting.
+
+# db 534
+e2eu.quest.db.534.title=Sword of the Wyvern
+e2eu.quest.db.534.desc=A very powerful weapon.
+
+# db 535
+e2eu.quest.db.535.title=Shovel of the Wyvern
+e2eu.quest.db.535.desc=A very powerful tool.
+
+# db 536
+e2eu.quest.db.536.title=Chaos Shard
+e2eu.quest.db.536.desc=You get Chaos Shards from the chamber in the middle of Chaos Islands, in The End. %n%nChaos Islands generate in a grid, every 10000 blocks. X 10000, Z 0 has one, X 10000 Z 10000 has one, and so on.%n%nThe island is protected by a Chaos Guardian. This is without a doubt the strongest boss in the pack, you will need to prepare a lot before engaging it.
+
+# db 537
+e2eu.quest.db.537.title=Draconic Fusion Crafting Injector
+e2eu.quest.db.537.desc=Draconic tier fusion crafting.
+
+# db 538
+e2eu.quest.db.538.title=Pickaxe of the Wyvern
+e2eu.quest.db.538.desc=A very powerful tool.
+
+# db 539
+e2eu.quest.db.539.title=Basic Power Transfer
+e2eu.quest.db.539.desc=These are the basic power transfer crystals. %n%nEven though they're "basic", they can still output a ton of energy.
+
+# db 540
+e2eu.quest.db.540.title=Wyvern Flux Capacitor
+e2eu.quest.db.540.desc=A device capable of storing a massive amount of energy.
+
+# db 541
+e2eu.quest.db.541.title=Axe of the Wyvern
+e2eu.quest.db.541.desc=A very powerful tool.
+
+# db 542
+e2eu.quest.db.542.title=Bow of the Wyvern
+e2eu.quest.db.542.desc=A very powerful weapon.
+
+# db 543
+e2eu.quest.db.543.title=Draconic Flux Capacitor
+e2eu.quest.db.543.desc=A device capable of storing a massive amount of energy. It's also frequently used in crafting recipes.
+
+# db 544
+e2eu.quest.db.544.title=Wyvern Power Transfer
+e2eu.quest.db.544.desc=Better power transfer.
+
+# db 545
+e2eu.quest.db.545.title=Draconic Power Transfer
+e2eu.quest.db.545.desc=The second highest possible power transfer rate, second to the infinite transfer rate of Cryo-stabilized Fluxducts.
+
+# db 546
+e2eu.quest.db.546.title=Crystal Binder
+e2eu.quest.db.546.desc=The Crystal Binder is the tool you use to link power crystals together, and switch them between their different modes.
+
+# db 547
+e2eu.quest.db.547.title=Draconic Bow
+e2eu.quest.db.547.desc=An extremely powerful weapon.
+
+# db 548
+e2eu.quest.db.548.title=Draconic Axe
+e2eu.quest.db.548.desc=An extremely powerful tool.
+
+# db 549
+e2eu.quest.db.549.title=Draconic Sword
+e2eu.quest.db.549.desc=An extremely powerful weapon.
+
+# db 550
+e2eu.quest.db.550.title=Draconic Shovel
+e2eu.quest.db.550.desc=An extremely powerful tool.
+
+# db 551
+e2eu.quest.db.551.title=Draconic Pickaxe
+e2eu.quest.db.551.desc=An extremely powerful tool.
+
+# db 552
+e2eu.quest.db.552.title=Draconic Staff of Power
+e2eu.quest.db.552.desc=An extremely powerful multi-tool.
+
+# db 553
+e2eu.quest.db.553.title=Draconic Hoe
+e2eu.quest.db.553.desc=A very powerful hoe.
+
+# db 554
+e2eu.quest.db.554.title=Wyvern Helm
+e2eu.quest.db.554.desc=Very powerful armor.
+
+# db 555
+e2eu.quest.db.555.title=Wyvern Chestplate
+e2eu.quest.db.555.desc=Very powerful armor.
+
+# db 556
+e2eu.quest.db.556.title=Wyvern Leggings
+e2eu.quest.db.556.desc=Very powerful armor.
+
+# db 557
+e2eu.quest.db.557.title=Wyvern Boots
+e2eu.quest.db.557.desc=Very powerful armor.
+
+# db 558
+e2eu.quest.db.558.title=Draconic Boots
+e2eu.quest.db.558.desc=Extremely powerful armor.
+
+# db 559
+e2eu.quest.db.559.title=Draconic Leggings
+e2eu.quest.db.559.desc=Extremely powerful armor.
+
+# db 560
+e2eu.quest.db.560.title=Draconic Chestplate
+e2eu.quest.db.560.desc=Extremely powerful armor.
+
+# db 561
+e2eu.quest.db.561.title=Draconic Helm
+e2eu.quest.db.561.desc=Extremely powerful armor.
+
+# db 562
+e2eu.quest.db.562.title=Draconic Reactor
+e2eu.quest.db.562.desc=The Draconic Reactor can produce massive amounts of power, using Awakened Draconium as fuel.%n%nIt's a complicated reactor to set up and maintain, so I suggest you look for a spotlight and/or tutorial on it, if you're looking to build one.
+
+# db 563
+e2eu.quest.db.563.title=Gate: Ender IO
+e2eu.quest.db.563.desc=Completing this quest open the Ender IO chapter.
+
+# db 564
+e2eu.quest.db.564.title=Ender IO
+e2eu.quest.db.564.desc=Welcome to Ender IO! This is an end-themed tech mod, that offers a bunch of machines, utilities, armor and tools.%n%nThe mod has been heavily tweaked.%n%nThis chapter leads to the Bragging Rights questline.
+
+# db 565
+e2eu.quest.db.565.title=Stirling Generator
+e2eu.quest.db.565.desc=Hold shift over the item to view the tooltip description.
+
+# db 566
+e2eu.quest.db.566.title=Basic Capacitor
+e2eu.quest.db.566.desc=Most Ender IO machines need to have a capacitor in them to function. The capacitor tier determines speed and power usage.
+
+# db 567
+e2eu.quest.db.567.title=Machine Chassis
+e2eu.quest.db.567.desc=A crafting component.
+
+# db 568
+e2eu.quest.db.568.title=Double-Layer Capacitor
+e2eu.quest.db.568.desc=Most Ender IO machines need to have a capacitor in them to function. The capacitor tier determines speed and power usage.
+
+# db 569
+e2eu.quest.db.569.title=Octadic Capacitor
+e2eu.quest.db.569.desc=Most Ender IO machines need to have a capacitor in them to function. The capacitor tier determines speed and power usage.
+
+# db 570
+e2eu.quest.db.570.title=Combustion Generation
+e2eu.quest.db.570.desc=Hold shift over the item to view the tooltip description.
+
+# db 571
+e2eu.quest.db.571.title=Indexer
+e2eu.quest.db.571.desc=A highly underrated option, the indexer offers unlimited storage and range with no energy (or GP) cost whatsoever.
+
+# db 572
+e2eu.quest.db.572.title=Experience Obelisk
+e2eu.quest.db.572.desc=The Experience Obelisk can store huge amounts of liquid XP.
+
+# db 573
+e2eu.quest.db.573.title=Attractor Obelisk
+e2eu.quest.db.573.desc=Hold shift over the item to view the tooltip description.
+
+# db 574
+e2eu.quest.db.574.title=Weather Obelisk
+e2eu.quest.db.574.desc=Hold shift over the item to view the tooltip description.
+
+# db 575
+e2eu.quest.db.575.title=Aversion Obelisk
+e2eu.quest.db.575.desc=Hold shift over the item to view the tooltip description.
+
+# db 576
+e2eu.quest.db.576.title=Inhibitor Obelisk
+e2eu.quest.db.576.desc=Hold shift over the item to view the tooltip description.
+
+# db 577
+e2eu.quest.db.577.title=Relocator Obelisk
+e2eu.quest.db.577.desc=Hold shift over the item to view the tooltip description.
+
+# db 578
+e2eu.quest.db.578.title=Farming Station
+e2eu.quest.db.578.desc=Hold shift over the item to view the tooltip description.
+
+# db 579
+e2eu.quest.db.579.title=Soul Binder
+e2eu.quest.db.579.desc=Hold shift over the item to view the tooltip description.
+
+# db 580
+e2eu.quest.db.580.title=Slice'N'Splice
+e2eu.quest.db.580.desc=Hold shift over the item to view the tooltip description.
+
+# db 581
+e2eu.quest.db.581.title=SAG Mill
+e2eu.quest.db.581.desc=Hold shift over the item to view the tooltip description.
+
+# db 582
+e2eu.quest.db.582.title=Power Monitor
+e2eu.quest.db.582.desc=Hold shift over the item to view the tooltip description.
+
+# db 583
+e2eu.quest.db.583.title=The Vat
+e2eu.quest.db.583.desc=Hold shift over the item to view the tooltip description.
+
+# db 584
+e2eu.quest.db.584.title=Killer Joe
+e2eu.quest.db.584.desc=Hold shift over the item to view the tooltip description.
+
+# db 585
+e2eu.quest.db.585.title=Alloy Smelter
+e2eu.quest.db.585.desc=Hold shift over the item to view the tooltip description.
+
+# db 586
+e2eu.quest.db.586.title=Dimensional Transceiver
+e2eu.quest.db.586.desc=Hold shift over the item to view the tooltip description.
+
+# db 587
+e2eu.quest.db.587.title=Basic Capacitor Bank
+e2eu.quest.db.587.desc=The Capacitor Bank can store large amounts of power. Connecting multiple banks together is possible, for higher storage, input and output.
+
+# db 588
+e2eu.quest.db.588.title=Capacitor Bank
+e2eu.quest.db.588.desc=The Capacitor Bank can store large amounts of power. Connecting multiple banks together is possible, for higher storage, input and output.
+
+# db 589
+e2eu.quest.db.589.title=Vibrant Capacitor Bank
+e2eu.quest.db.589.desc=The Capacitor Bank can store large amounts of power. Connecting multiple banks together is possible, for higher storage, input and output.
+
+# db 590
+e2eu.quest.db.590.title=Enchanter
+e2eu.quest.db.590.desc=Hold shift over the item to view the tooltip description.
+
+# db 591
+e2eu.quest.db.591.title=Soul Vial
+e2eu.quest.db.591.desc=Hold shift over the item to view the tooltip description.
+
+# db 592
+e2eu.quest.db.592.title=Powered Spawner
+e2eu.quest.db.592.desc=An upgradeable mob spawner. %n%nYou can set the type by combining a Broken Spawner with a filled Soul Vial in the Soul Binder, and then combining the Broken Spawner with the Powered Spawner in an anvil.
+
+# db 593
+e2eu.quest.db.593.title=Painting Machine
+e2eu.quest.db.593.desc=Allows you to paint most blocks, and some machines, to show a different texture.
+
+# db 594
+e2eu.quest.db.594.title=Angel Ring
+e2eu.quest.db.594.desc=The Angel Ring gives you creative flight while it's in your inventory, or a Bauble Ring slot. It needs 32 Grid Power to function.
+
+# db 595
+e2eu.quest.db.595.title=Gate: Thaumcraft
+e2eu.quest.db.595.desc=Completing this quest opens the Thaumcraft chapter.%n%nSome types of Vis Crystal can be found under ground.
+
+# db 596
+e2eu.quest.db.596.title=Gate: Blood Magic
+e2eu.quest.db.596.desc=Completing this quest opens the Blood Magic chapter.
+
+# db 597
+e2eu.quest.db.597.title=Blood Magic
+e2eu.quest.db.597.desc=Welcome to Blood Magic! %n%nBlood Magic is a magic mod centered around gaining power from sacrifice.%n%nIt offers a lot of cool gadgets such as the §1Sigils§0, not to mention a variety of building blocks.%n%nThe §6Sanguine Scientiem §0contains information on nearly all of Blood Magic, so for the most part, I'll be referring to that.%n%nBlood Magic contains crafting ingredients used in the late game.
+
+# db 598
+e2eu.quest.db.598.title=Demonic Will
+e2eu.quest.db.598.desc=The first thing you'll need to do is craft up some Rudimentary Snares.%n%nThrow the snares at hostile mobs until white particles appear, and then kill them.%nIf you're lucky, they'll drop Demonic Will. If you have a Tartaric Gem in your inventory, the Demonic Will is used up to fill the gem.%n%nThe drop chance is affected by Looting.
+
+# db 599
+e2eu.quest.db.599.title=Blood Altar Tier 1
+e2eu.quest.db.599.desc=The Blood Altar is the main crafting mechanic of Blood Magic - It infuses Life Essence (Blood) into items to transform them. The Tier 6 altar, although not implemented yet, is 23x9x23, so you should make plenty of room when preparing to build it.%n%nIt's a multiblock structure, that gets bigger with each tier. You can use the §4Inspectoris Scandalum§0 to visualize where the runes and such should be placed.%n%nSee the Sanguine Scientiem for details.
+
+# db 600
+e2eu.quest.db.600.title=Blood Altar Tier 2
+e2eu.quest.db.600.desc=See the Sanguine Scientiem for details.
+
+# db 601
+e2eu.quest.db.601.title=Blood Altar Tier 3
+e2eu.quest.db.601.desc=See the Sanguine Scientiem for details.
+
+# db 602
+e2eu.quest.db.602.title=Blood Altar Tier 4
+e2eu.quest.db.602.desc=See the Sanguine Scientiem for details.
+
+# db 603
+e2eu.quest.db.603.title=Blood Altar Tier 5
+e2eu.quest.db.603.desc=See the Sanguine Scientiem for details.
+
+# db 604
+e2eu.quest.db.604.title=Flat Transfer Nodes
+e2eu.quest.db.604.desc=These nodes can fit inbetween blocks, and can push items, like gregtech covers. They can come in handy in compact setups.
+
+# db 605
+e2eu.quest.db.605.title=Petty Tartaric Gem
+e2eu.quest.db.605.desc=The Tartaric Gem holds Demonic Will for use in crafting, and empowering certain tools. The higher tier, the higher storage. You can use a Sentient Sword or bow to fill it by killing mobs.%n%nSee the Sanguine Scientiem for details.
+
+# db 606
+e2eu.quest.db.606.title=Lesser Tartaric Gem
+e2eu.quest.db.606.desc=See the Sanguine Scientiem for details.
+
+# db 607
+e2eu.quest.db.607.title=Common Tartaric Gem
+e2eu.quest.db.607.desc=See the Sanguine Scientiem for details.
+
+# db 608
+e2eu.quest.db.608.title=Greater Tartaric Gem
+e2eu.quest.db.608.desc=See the Sanguine Scientiem for details.
+
+# db 609
+e2eu.quest.db.609.title=Grand Tartaric Gem
+e2eu.quest.db.609.desc=See the Sanguine Scientiem for details.
+
+# db 610
+e2eu.quest.db.610.title=Blank Slate
+e2eu.quest.db.610.desc=See the Sanguine Scientiem for details.
+
+# db 611
+e2eu.quest.db.611.title=Weak Blood Orb
+e2eu.quest.db.611.desc=See the Sanguine Scientiem for details.
+
+# db 612
+e2eu.quest.db.612.title=Reinforced Slate
+e2eu.quest.db.612.desc=See the Sanguine Scientiem for details.
+
+# db 613
+e2eu.quest.db.613.title=Apprentice Blood Orb
+e2eu.quest.db.613.desc=See the Sanguine Scientiem for details.
+
+# db 614
+e2eu.quest.db.614.title=Imbued Slate
+e2eu.quest.db.614.desc=See the Sanguine Scientiem for details.
+
+# db 615
+e2eu.quest.db.615.title=Magician Blood Orb
+e2eu.quest.db.615.desc=See the Sanguine Scientiem for details.
+
+# db 616
+e2eu.quest.db.616.title=Demonic Slate
+e2eu.quest.db.616.desc=See the Sanguine Scientiem for details.
+
+# db 617
+e2eu.quest.db.617.title=Master Blood Orb
+e2eu.quest.db.617.desc=See the Sanguine Scientiem for details.
+
+# db 618
+e2eu.quest.db.618.title=Ethereal Slate
+e2eu.quest.db.618.desc=See the Sanguine Scientiem for details.
+
+# db 619
+e2eu.quest.db.619.title=Archmage Blood Orb
+e2eu.quest.db.619.desc=See the Sanguine Scientiem for details.
+
+# db 620
+e2eu.quest.db.620.title=Flat Fluid Transfer Nodes 
+e2eu.quest.db.620.desc=Same idea, but for fluids.
+
+# db 621
+e2eu.quest.db.621.title=Weak Activation Crystal
+e2eu.quest.db.621.desc=See the Sanguine Scientiem for details.
+
+# db 622
+e2eu.quest.db.622.title=Sacrificial Dagger
+e2eu.quest.db.622.desc=Used near a Blood Altar to "donate" blood.%n%nSee the Sanguine Scientiem for details.
+
+# db 623
+e2eu.quest.db.623.title=Arcane Ashes
+e2eu.quest.db.623.desc=See the Sanguine Scientiem (or JEI) for details.
+
+# db 624
+e2eu.quest.db.624.title=Divination Sigil
+e2eu.quest.db.624.desc=This Sigil lets you see more detailed information about the Blood Altar.%n%nSee the Sanguine Scientiem for details.
+
+# db 625
+e2eu.quest.db.625.title=Ritual Diviner
+e2eu.quest.db.625.desc=Used to place Ritual Stones for Rituals. Cycle through available Rituals with Shift + Click.%n%nSee the Sanguine Scientiem for details.
+
+# db 626
+e2eu.quest.db.626.title=Rituals
+e2eu.quest.db.626.desc=Blood Magic has a lot of different rituals that perform tasks such as create lava, grow crops, and damage enemies.%n%nSee the Sanguine Scientiem for details.
+
+# db 627
+e2eu.quest.db.627.title=Hellfire Forge
+e2eu.quest.db.627.desc=See the Sanguine Scientiem for details.
+
+# db 628
+e2eu.quest.db.628.title=Bound Blade
+e2eu.quest.db.628.desc=Kill hostile mobs with the Bound Blade for a chance to get Weak Blood Shards. %n%n§1§4Activate the Blade with Shift + Click.%n§0%nThe chance is affected by Looting. %n%nSee the Sanguine Scientiem for details.
+
+# db 629
+e2eu.quest.db.629.title=Ritual Diviner - Dusk
+e2eu.quest.db.629.desc=Can place Dusk runes in addition to the 4 basic types.%n%nSee the Sanguine Scientiem for details.
+
+# db 630
+e2eu.quest.db.630.title=Awakened Activation Crystal
+e2eu.quest.db.630.desc=See the Sanguine Scientiem for details.
+
+# db 631
+e2eu.quest.db.631.title=Ritual Tinkerer
+e2eu.quest.db.631.desc=The Ritual Tinkerer can be used to move the affected area of a Ritual.%n%nSee the Sanguine Scientiem for details.
+
+# db 632
+e2eu.quest.db.632.title=Seer's Sigil
+e2eu.quest.db.632.desc=A stronger, more in-depth Divination Sigil.%n%nSee the Sanguine Scientiem for details.
+
+# db 633
+e2eu.quest.db.633.title=Dagger of Sacrifice
+e2eu.quest.db.633.desc=The Dagger of Sacrifice can be used to sacrifice mobs near your Blood Altar. The amount of blood you get depends on the mob.%n%nSee the Sanguine Scientiem for details.
+
+# db 634
+e2eu.quest.db.634.title=Thaumcraft
+e2eu.quest.db.634.desc=Welcome to Thaumcraft, a tier 1 magic mod. Thaumcraft is one of the oldest magic mods around, and features a lot of interesting content, such as§2§2§0§0 §0§2Golems§0 and a §3spell system§0.%n§r%nYou have to progress in the Thaumonomicon to be able to progress in Thaumcraft. Although these quests provide some guidance, you will need to follow the Thaumonomicon.%n%nTo obtain the Thaumonomicon, you will need to pick up any Vis Crystal, then sleep, and lastly click on a Bookshelf with Salis Mundus.%n%n§dThaumic Energistics Extended Life§o§r grants Thaumcraft compatibility with Applied Energistics Extended Life, allowing for storage and autocrafting with Thaumcraft, refer to the Applied Energistics chapter for more information.%n%nThis chapter leads to §9Astral Sorcery§0§r and §6Blood Magic§§.
+
+# db 635
+e2eu.quest.db.635.title=Crucible
+e2eu.quest.db.635.desc=See the Thaumonomicon for details.
+
+# db 636
+e2eu.quest.db.636.title=Infusion Crafting
+e2eu.quest.db.636.desc=See the Thaumonomicon for details.
+
+# db 637
+e2eu.quest.db.637.title=Focal Manipulator
+e2eu.quest.db.637.desc=See the Thaumonomicon for details.
+
+# db 638
+e2eu.quest.db.638.title=Thaumometer
+e2eu.quest.db.638.desc=See the Thaumonomicon for details.%n%n%n%n%n%n%n%n%n%n§2§0§2Hint§0:§0 Place items in a chest, and scan the chest.
+
+# db 639
+e2eu.quest.db.639.title=Research Table
+e2eu.quest.db.639.desc=See the Thaumonomicon for details.
+
+# db 640
+e2eu.quest.db.640.title=Arcane Workbench
+e2eu.quest.db.640.desc=See the Thaumonomicon for details.
+
+# db 641
+e2eu.quest.db.641.title=Quartz Sliver
+e2eu.quest.db.641.desc=See the Thaumonomicon for details.
+
+# db 642
+e2eu.quest.db.642.title=Arcane Stone
+e2eu.quest.db.642.desc=See the Thaumonomicon for details.
+
+# db 643
+e2eu.quest.db.643.title=Silverwood
+e2eu.quest.db.643.desc=See the Thaumonomicon for details.
+
+# db 644
+e2eu.quest.db.644.title=Greatwood
+e2eu.quest.db.644.desc=See the Thaumonomicon for details.
+
+# db 645
+e2eu.quest.db.645.title=Auxiliary Addons
+e2eu.quest.db.645.desc=See the Thaumonomicon for details.
+
+# db 646
+e2eu.quest.db.646.title=Thaumium Essentia Smeltery
+e2eu.quest.db.646.desc=See the Thaumonomicon for details.
+
+# db 647
+e2eu.quest.db.647.title=Void Jar
+e2eu.quest.db.647.desc=See the Thaumonomicon for details.
+
+# db 648
+e2eu.quest.db.648.title=Warded Jars
+e2eu.quest.db.648.desc=See the Thaumonomicon for details.
+
+# db 649
+e2eu.quest.db.649.title=Essentia Smeltery
+e2eu.quest.db.649.desc=The Essentia Smelting produces Flux, and excess flux in the chunk's aura spawns Flux Rifts and potentially Taint. There is currently no way to completely mitigate the Flux production, so it's recommended to do Thaumcraft somewhere you don't mind losing.%n%nSee the Thaumonomicon for details.
+
+# db 650
+e2eu.quest.db.650.title=Focus Pouch
+e2eu.quest.db.650.desc=See the Thaumonomicon for details.
+
+# db 651
+e2eu.quest.db.651.title=Blank Lesser Focus
+e2eu.quest.db.651.desc=See the Thaumonomicon for details.
+
+# db 652
+e2eu.quest.db.652.title=Blank Advanced Focus
+e2eu.quest.db.652.desc=See the Thaumonomicon for details.
+
+# db 653
+e2eu.quest.db.653.title=Blank Greater Focus
+e2eu.quest.db.653.desc=See the Thaumonomicon for details.
+
+# db 654
+e2eu.quest.db.654.title=Caster's Gauntlet
+e2eu.quest.db.654.desc=See the Thaumonomicon for details.
+
+# db 655
+e2eu.quest.db.655.title=Alchemical Construct
+e2eu.quest.db.655.desc=See the Thaumonomicon for details.
+
+# db 656
+e2eu.quest.db.656.title=Enchanted Fabric
+e2eu.quest.db.656.desc=See the Thaumonomicon for details.
+
+# db 657
+e2eu.quest.db.657.title=Alumentum
+e2eu.quest.db.657.desc=See the Thaumonomicon for details.
+
+# db 658
+e2eu.quest.db.658.title=Tallow Candle
+e2eu.quest.db.658.desc=Various blocks can be used to stabilize the Infusion Altar - The Tallow Candle is one of those blocks.%n%nSee the Thaumonomicon for details.
+
+# db 659
+e2eu.quest.db.659.title=Arcane Bellows
+e2eu.quest.db.659.desc=See the Thaumonomicon for details.
+
+# db 660
+e2eu.quest.db.660.title=Alchemical Brass
+e2eu.quest.db.660.desc=See the Thaumonomicon for details.
+
+# db 661
+e2eu.quest.db.661.title=Thaumic Dioptra
+e2eu.quest.db.661.desc=The Thaumic Dioptra visualizes the amounts of magic energy in nearby chunks.%n%nSee the Thaumonomicon for details.
+
+# db 662
+e2eu.quest.db.662.title=Everfull Urn
+e2eu.quest.db.662.desc=See the Thaumonomicon for details.
+
+# db 663
+e2eu.quest.db.663.title=Artifice
+e2eu.quest.db.663.desc=See the Thaumonomicon for details.
+
+# db 664
+e2eu.quest.db.664.title=Thaumium
+e2eu.quest.db.664.desc=See the Thaumonomicon for details.
+
+# db 665
+e2eu.quest.db.665.title=Infusion Cost Stone
+e2eu.quest.db.665.desc=See the Thaumonomicon for details.
+
+# db 666
+e2eu.quest.db.666.title=Infusion Speed Stone
+e2eu.quest.db.666.desc=See the Thaumonomicon for details.
+
+# db 667
+e2eu.quest.db.667.title=Nitor
+e2eu.quest.db.667.desc=See the Thaumonomicon for details.
+
+# db 668
+e2eu.quest.db.668.title=Vis Crystals
+e2eu.quest.db.668.desc=See the Thaumonomicon for details.
+
+# db 669
+e2eu.quest.db.669.title=Golem Press
+e2eu.quest.db.669.desc=See the Thaumonomicon for details.
+
+# db 670
+e2eu.quest.db.670.title=Infernal Furnace
+e2eu.quest.db.670.desc=See the Thaumonomicon for details.
+
+# db 671
+e2eu.quest.db.671.title=Enchanted Fabric
+e2eu.quest.db.671.desc=See the Thaumonomicon for details.
+
+# db 672
+e2eu.quest.db.672.title=Golems
+e2eu.quest.db.672.desc=See the Thaumonomicon for details.
+
+# db 673
+e2eu.quest.db.673.title=Void Seed
+e2eu.quest.db.673.desc=See the Thaumonomicon for details.
+
+# db 674
+e2eu.quest.db.674.title=Void Metal Ingot
+e2eu.quest.db.674.desc=See the Thaumonomicon for details.
+
+# db 675
+e2eu.quest.db.675.title=Alchemical Construct
+e2eu.quest.db.675.desc=See the Thaumonomicon for details.
+
+# db 676
+e2eu.quest.db.676.title=Blank Label
+e2eu.quest.db.676.desc=See the Thaumonomicon for details.
+
+# db 677
+e2eu.quest.db.677.title=Thaumium Armor
+e2eu.quest.db.677.desc=See the Thaumonomicon for details.
+
+# db 678
+e2eu.quest.db.678.title=Void Armor
+e2eu.quest.db.678.desc=See the Thaumonomicon for details.
+
+# db 679
+e2eu.quest.db.679.title=Thaumium Fortress Armor
+e2eu.quest.db.679.desc=See the Thaumonomicon for details.
+
+# db 680
+e2eu.quest.db.680.title=Essentia Transfusers
+e2eu.quest.db.680.desc=See the Thaumonomicon for details.
+
+# db 681
+e2eu.quest.db.681.title=Empowered Palis Crystal
+e2eu.quest.db.681.desc=A crafting component, also needed to start Multiblocked.%n%nPro tip: Look in either farming blue slime saplings or setting up a mob farm for blue slimes.
+
+# db 682
+e2eu.quest.db.682.title=Empowered Diamatine Crystal
+e2eu.quest.db.682.desc=A crafting component.
+
+# db 683
+e2eu.quest.db.683.title=Empowered Void Crystal
+e2eu.quest.db.683.desc=A crafting component.
+
+# db 684
+e2eu.quest.db.684.title=Empowered Emeradic Crystal
+e2eu.quest.db.684.desc=A crafting component.
+
+# db 685
+e2eu.quest.db.685.title=Empowered Enori Crystal
+e2eu.quest.db.685.desc=A crafting component.
+
+# db 686
+e2eu.quest.db.686.title=Terrestrial Artifact
+e2eu.quest.db.686.desc=A crafting component, used to make Litherite Crystals among other things.
+
+# db 687
+e2eu.quest.db.687.title=Fusion Fuels
+e2eu.quest.db.687.desc=There are 28 possible Fusion Fuel combinations, with varying duration, power and heat generation. For the full list, see §1%nhttps://ftb.gamepedia.com/Fusion_Fuels_(NuclearCraft)§0§f%n§3§3§3§2%n§§§0The fuel combination with the highest base power generation is Deuterium-Tritium.%n%nThe fuel combination with the longest base duration is Tritium-Lithium7.%n%nThe fuel combination with the lowest heat generation is also Deuterium-Tritium.%n%n%n
+
+# db 688
+e2eu.quest.db.688.title=Fission Fuels
+e2eu.quest.db.688.desc=There are 52 possible Fission Fuels, with varying duration, power and heat generation. For the full list, see §1https://ftb.gamepedia.com/Fission_Fuels§0§r%n%nThe fuel with the highest base duration is TBU.%n%nThe fuel with the highest base power output is HECf-249 Oxide.%n%nThe fuel with the lowest base heat is also TBU.
+
+# db 689
+e2eu.quest.db.689.title=Dimension Enscriber
+e2eu.quest.db.689.desc=The Dimension Enscriber enables you to construct dimensions, using an Empty Dimension Tab and Dimlets.
+
+# db 690
+e2eu.quest.db.690.title=Dimension Builder
+e2eu.quest.db.690.desc=Place a Realized Dimension Tab in the Dimension Builder to build the dimension.%n%nIt will need massive amounts of power - You may need to power the Dimension Builder from multiple sides.
+
+# db 691
+e2eu.quest.db.691.title=Dimension Editor
+e2eu.quest.db.691.desc=The Dimension Editor lets you insert some items and dimlets into existing dimensions.
+
+# db 692
+e2eu.quest.db.692.title=Dimlet Workbench
+e2eu.quest.db.692.desc=The Dimlet Workbench lets you disassemble dimlets, and craft your own custom ones.%n%nEvery dimlet is made out of six parts:%n%nA base%n%nA Control Circuit of the same rarity as the dimlet (from 0 to 6).%n%nAn Energy Module. There are three types: basic, regular, and advanced corresponding with the different rarities (0,1 for basic, 2,3 for regular and 4,5,6 for advanced).%n%nA Memory Module with the same three levels.%n%nA Type Controller part. For every type of dimlet (biome, mob, material, ...) there is a corresponding part.%n%nA specific essence block or item.%n
+
+# db 693
+e2eu.quest.db.693.title=Phased Field Generator
+e2eu.quest.db.693.desc=The Phased Field Generator will let you survive §4(barely)§r in an unpowered RFTools dimension, at the cost of large amounts of power.
+
+# db 694
+e2eu.quest.db.694.title=Dimlet Parcel
+e2eu.quest.db.694.desc=Dimlet Parcels contain dimlet parts. They drop rarely from Endermen.
+
+# db 695
+e2eu.quest.db.695.title=Cooking for Blockheads
+e2eu.quest.db.695.desc=Cooking for Blockheads adds a multiblock kitchen, that makes the crafting of food a lot easier. %n%nIf you put food ingredients in the Fridge and/or counters, the Cooking Table will give you an overview of what you'll be able to craft with it. You can place crafting tools in Tool Racks and the oven to use them in recipes.%n%n§4All blocks in the multiblock kitchen must be adjacent to atleast one other kitchen block for them to be connected.
+
+# db 696
+e2eu.quest.db.696.title=Cow in a Jar
+e2eu.quest.db.696.desc=The Cow in a Jar will continuesly produce milk. See its JEI entry to see how it's crafted.
+
+# db 697
+e2eu.quest.db.697.title=Enchantment Extractor
+e2eu.quest.db.697.desc=The Enchantment Extractor can pull enchants off items and onto books. It can also split Enchanted Books with multiple enchants.
+
+# db 698
+e2eu.quest.db.698.title=Sludge Refiner
+e2eu.quest.db.698.desc=The Sludge Refiner processes Sludge into blocks like Clay, Sand and Gravel.
+
+# db 699
+e2eu.quest.db.699.title=Black Hole Storage
+e2eu.quest.db.699.desc=Black Hole Storage works a lot like Deep Storage Units from MineFactory Reloaded. They're able to store insane amounts of any one item. The Controller acts very much like the Controller from Storage Drawers.
+
+# db 700
+e2eu.quest.db.700.title=Animal Baby Seperator
+e2eu.quest.db.700.desc=The Animal Baby Seperator can seperate baby animals from adult animals. It's useful for making an automatic animal farm.
+
+# db 701
+e2eu.quest.db.701.title=Plant Fertilizer
+e2eu.quest.db.701.desc=The Plant Fertilizer automatically fertilizes crops when supplied with power and fertilizer.
+
+# db 702
+e2eu.quest.db.702.title=Resources Fisher
+e2eu.quest.db.702.desc=The Resources Fisher automatically fishes when placed over a 3x3 pool of water, and supplied with power.
+
+# db 703
+e2eu.quest.db.703.title=Orbitial Laser Drill
+e2eu.quest.db.703.desc=The Orbitial Laser Drill is used to mine ores from the other planets, allowing for automated gathering of extraplantary ores. The laser drill has had it's power cost increased, but can now mine up those afterforementoned ores, as well as all of the common ores.%n%nBy default, the Orbitial Laser Drill will not actually mine the planet below, but if one wishes to change this, set §alaserDrillPlanet§r to true.%n%n 
+
+# db 704
+e2eu.quest.db.704.title=Protein Reactor & Generator
+e2eu.quest.db.704.desc=The Protein Reactor generates Protein from animal products. %n%nThe Protein can be used to generate power in the Protein Generator.
+
+# db 705
+e2eu.quest.db.705.title=Ingredient Buffer
+e2eu.quest.db.705.desc=The §6Ingredient buffer§r is what allows easy management for Multiblocks. It accepts the items the §aDual Interface§r sends to it and stores it in its internal buffer. There is a default and a large version. The normal one can store 9 items and 4 fluids, the large buffer can store 27 items and 7 fluids.%n%n%n
+
+# db 706
+e2eu.quest.db.706.title=Animal Rancher
+e2eu.quest.db.706.desc=The Animal Rancher is able to "extract" Milk from animals, and shear Sheep and Goats.
+
+# db 707
+e2eu.quest.db.707.title=Earlygame Storage
+e2eu.quest.db.707.desc=Alongside the classic chest, you have a couple of other options to help with the earlygame storage.%n%nDrawers are another tried and true option, being able to hold a large amount of a given item in them. All drawer types can now framed, to help fit your bases style better. Refer to JEI on how to handframe drawers.%n%nOnce you start producing RF, look into the §9storage scanner§r. It's a really easy storage option to set up, it scans nearby storage containers and allows you to easily insert and extract items. The machines comes with a storage grid, and can save recipes as well.%n%nLater on, Applied Energistics 2 opens up, and will be your best option for storage and automation from there on.
+
+# db 708
+e2eu.quest.db.708.title=Bee Diversity Store
+e2eu.quest.db.708.desc=Combine bees with Store to gather time. Combine with Time In Bottle to transfer time to bottle.%n%n- The Total value shows the number of unique gene pairs saved. %n- At least one pair of genes must be new or you will receive a penalty %n- The penalty exponentially reduces the reward.%n- If a pair of recessive and dominant genes is swapped, it counts as a new gene.%n- Princesses give x10 more time than drones, Queens are ×15.%n- Reward increases exponentially if more pairs are added for 1 bee. For example, for +4 genes you get 8 minutes, and for +12 genes you get an hour.%n- The more pairs of genes already saved, the greater the next reward.
+
+# db 709
+e2eu.quest.db.709.title=Life Essence Extractor
+e2eu.quest.db.709.desc=A multiblock able to convert plain old blood into LP with the power of mana, great for those that don't want to build a mob farm.
+
+# db 710
+e2eu.quest.db.710.title=Seared Furnace
+e2eu.quest.db.710.desc=If stuff isn't cooking fast enough, consider looking into a Seared Furnace. At max size, it can smelt 35,136 items at once!%n%n
+
+# db 711
+e2eu.quest.db.711.title=Vis Crafting
+e2eu.quest.db.711.desc=The §6Crafting Terminal§r, but it works with thaumcraft vis.%n%nMore info in thaumonomicon.
+
+# db 712
+e2eu.quest.db.712.title=Automating the smeltery
+e2eu.quest.db.712.desc=A Redstone pulse will cause a seared faucet to start or stop pouring fluid, while a continuous redstone signal will cause the seared faucet to continue pouring fluid until it unable to do so.
+
+# db 713
+e2eu.quest.db.713.title=Did you know that you can swim?
+e2eu.quest.db.713.desc=Aqua Acrobatics, added in E2Eu, backports 1.13's swimming, crawling and crouching mechanics, so movement in water isn't sluggish anymore.%n%nOn the topic of backporting, Fluidlogged and Friendly Chests backport 1.13's waterlogging and chest mechanics.
+
+# db 714
+e2eu.quest.db.714.title=Linking Guides
+e2eu.quest.db.714.desc=Some quests will link the player a guide or a video in chat upon completing it, such as this one.
+
+# db 715
+e2eu.quest.db.715.title=Modularium
+e2eu.quest.db.715.desc=§bMultiblocked§r replaces Modular Machinary in E2EU, featuring some cool new features, such as being able to place hatches whereever you want, wallsharing, and item buses being able to pull/push items into connected inventories like gregtech item hatches.
+
+# db 716
+e2eu.quest.db.716.title=Advanced Metallurgic Fabricator
+e2eu.quest.db.716.desc=The §eAMF§r is the multiblock you will probably make first, being used to craft titanium early on, as well as having a couple of other recipes.
+
+# db 717
+e2eu.quest.db.717.title=Advanced Carpenter
+e2eu.quest.db.717.desc=The §eAcarp§r is used to create Carpenter recipes without needing to needing to set them beforehand, and is also needed for various lategame recipes.
+
+# db 718
+e2eu.quest.db.718.title=Advanced Thermionic Fabricator
+e2eu.quest.db.718.desc=The §eATF§r is used to create Thermionic Fabricator recipes faster and without needing to set the recipe beforehand.
+
+# db 719
+e2eu.quest.db.719.title=Creative Tank Replication
+e2eu.quest.db.719.desc=The Creative Tank Replicator Multiblock can be used to turn buckets into even more creative tanks!
+
+# db 720
+e2eu.quest.db.720.title=Arcane Crafting Engine
+e2eu.quest.db.720.desc=The §eACE §ris used to craft various thaumcraft recipes without requiring the player.
+
+# db 721
+e2eu.quest.db.721.title=Hatches 
+e2eu.quest.db.721.desc=Item hatches and Fluid Busses are able to pull and push items/fluids , so you can place an interface by an output hatch, and it will push items/fluid into the interface.
+
+# db 722
+e2eu.quest.db.722.title=Thaumcraft Patterning
+e2eu.quest.db.722.desc=Uses §6zombie brains§r instead of patterns.%n%nMore info in thaumonomicon.
+
+# db 723
+e2eu.quest.db.723.title=Void Satchal
+e2eu.quest.db.723.desc=This "backpack" can be used to delete specific items when they enter your inventory, this can be used to prevent cobblestone from cluttering your inventory while mining.
+
+# db 724
+e2eu.quest.db.724.title=Fluid Interface
+e2eu.quest.db.724.desc=This is the fluid counterpart to the standard §aME Interface§r. (refer to their quest on how they work)%n%nFluids inserted into it are automatically digitized into the network, though it does have internal storage that can back up if you run out of space.%n%nYou can configure the interface to stock up to six different fluids (or for faster throughput later on, several tanks of the same fluid). %n%nIt is also far more performant and scales better without lag than §aFluid Import/Export Buses§r.
+
+# db 725
+e2eu.quest.db.725.title=Fluid Terminal
+e2eu.quest.db.725.desc=This terminal allows you to interact with fluid storage on your ME Network, like §aFluid Storage Disks§r.%n%nPut fluids in or remove fluids via this terminal with any GUI-compatible container, by clicking on a fluid to fill it, or an empty space to drain into the network.%n%nIt's a micropart, so you need to place it on §6ME Cable§r (not a conduit).
+
+# db 726
+e2eu.quest.db.726.title=Fluid Storage
+e2eu.quest.db.726.desc=Fluid cells can store up to five fluid types, but it's better to format all your disks to a single fluid each. This avoids the scenario where one fluid fills up a cell, preventing the other fluids from being stocked. Extra types also use up a chunk of storage, resulting in less overall storage per cell.%n%nYou could instead forego using fluid cells, and just use fluid storage busses, if you wish.
+
+# db 727
+e2eu.quest.db.727.title=Fluid Interface Configuration Terminal
+e2eu.quest.db.727.desc=A variant of the §aInterface Terminal§r which allows you to view and edit the stocking slots of fluid interfaces on your network, as well as highlight them in-world.%n%nUseful for managing passive automation setups, and finding them when your base gets large.
+
+# db 728
+e2eu.quest.db.728.title=Dual Interface
+e2eu.quest.db.728.desc=The §6Dual Interface§r works as you might think. Insert the purple pattern into it and it will start extracting both items and fluids.
+
+# db 729
+e2eu.quest.db.729.title=ME Fluid Discretizer
+e2eu.quest.db.729.desc=§bAE2 Fluid Crafting Reworked§r is a rework of the AE2 Fluidcrafting mod, allowing players to autocraft with items and fluids. %n%nWhen the §6ME Fluid Discretizer§r is attached to your ME System, it will represent the Fluids that are stored in your ME Fluid Storage Cells (Or Storage bus) as drops. They will be the item equivalent of fluids. §eIts just another way to show fluids, it won't actually convert your fluids to items.%n§r%nEach fluid drop is equivalent to one millibucket of the respective fluid. (1000ml = 1 Bucket)%n%nEvery ME System should only have one ME Fluid Discretizer, as more will cause visual bugs. %n%nThe information from this section is transcribed from the §eGregtech New Horizons§r wiki.%n%n
+
+# db 730
+e2eu.quest.db.730.title=Fluid Assembling
+e2eu.quest.db.730.desc=Used to automate crafting recipes that involve buckets.
+
+# db 731
+e2eu.quest.db.731.title=Fluid Pattern Interface
+e2eu.quest.db.731.desc=As the name suggests, it is simply the §aPattern Terminal§r's functionality with fluids. When using HEI's built in §6[+]§r feature for creating patterns immediately, it will also contain the fluid. You can insert fluid manually with any fluid container such as buckets, cells, flasks. If you insert the Pattern into a §aDual Interface§r it will try to output both fluids and items. %n%nAlso comes in a extended flavor as well, if your recipes require it.
+
+# db 732
+e2eu.quest.db.732.title=Configuration Interface Terminal
+e2eu.quest.db.732.desc=A variant of the §aInterface Terminal§r which allows you to view and edit the stocking slots of interfaces on your network, as well as highlight them in-world.%n%nUseful for managing passive automation setups, and finding them when your base gets large.
+
+# db 733
+e2eu.quest.db.733.title=Arcane Assembling
+e2eu.quest.db.733.desc=The §6Molecular Assembler§r, but also allows for Vis usage.%n%nMore info in thaumonomicon.
+
+# db 734
+e2eu.quest.db.734.title=Logic Processor
+e2eu.quest.db.734.desc=§6Logic Processors§r are made from §6Gold§r, §6Silicon§r, and §6Redstone§r.%n%nRun the plates through the respective §3Inscribers§r with §aPresses§r to make the printed plates, then combine the plates and circuit to form the Logic Processor.
+
+# db 735
+e2eu.quest.db.735.title=Calculation Processor
+e2eu.quest.db.735.desc=§6Calculation Processors§r are made from §6Certus§r, §6Silicon§r, and §6Redstone§r.%n%nRun the plates through the respective §3Inscribers§r with §aPresses§r to make the printed plates, then combine the plates and circuit to form the Calculation Processor.
+
+# db 736
+e2eu.quest.db.736.title=Crystal Growth Chamber
+e2eu.quest.db.736.desc=The §3Crystal Growth Chamber§r allows you to perform §bApplied Energistics§r's world crafting recipes inside of a machine. Hooray, you never have to drop more things in water again!%n%nIt is used for growing §6Crystal Seeds§r into §6Pure Crystals§r, and also for creating §6Fluix Crystals§r.%n%nJEI doesn't show the Chamber's recipes directly, so we'll explain it here:%n%nSeeds are made by pulverizing any of the three crystal types and mixing the dust with sand. A seed grows into the corresponding Pure Crystal, which is substitutable for the original crystal in most recipes. Using Pure Crystals lets you effectively double your material efficiency, which is nice. And no, you can't grind down Pure Crystals to further multiply your resources. Sorry.%n%nFluix Crystals you've already had to make in a pool of water by now, and it's the same ingredients here: insert one each of a §6Redstone Dust§r, §6Charged Certus Quartz Crystal§r, and a §6Nether Quartz§r to produce two Fluix Crystals.
+
+# db 737
+e2eu.quest.db.737.title=Fluix
+e2eu.quest.db.737.desc=Fluix is initially made via in-world crafting, by dropping §6Redstone Dust§r, §6Nether Quartz§r, and a §6Charged Certus Quartz Crystal§r in the same block of §9Water§r. You'll see some sparks then the items will merge into a §6Fluix Crystal§r. Be sure to turn off any nearby item magnets/collectors or they might interrupt this crafting process.
+
+# db 738
+e2eu.quest.db.738.title=Charging Quartz
+e2eu.quest.db.738.desc=The main purpose for this device is to turn §6Certus Quartz Crystal§r into §6Charged Certus Quartz Crystal§r.%n%nThis device can be powered with RF via energy conduits or use AE energy from a network via ME conduits or cables.%n%nIt accepts power from two sides. Which two sides? It's pretty easy to guess.%n%n%n%n%n%n%n%n%nOk, ok. It's the top and bottom.%n%n
+
+# db 739
+e2eu.quest.db.739.title=Infusion Automation
+e2eu.quest.db.739.desc=Exposes Essentia to Infusion Matrixes, allows for Infusion autocrafting.%n%nMore info in thaumonomicon.
+
+# db 740
+e2eu.quest.db.740.title=Meteor Compass
+e2eu.quest.db.740.desc=§bApplied Energistics§r uses §aPresses§r found in chests at the heart of meteors as templates for §3Inscribers§r to make §6inscribed circuits§r.%n%nThis compass will lead you to the nearest meteor impact. Use your favorite mining tools to smash through the §6Skystone§r shell and get to the juicy center where the §6Skystone Chest§r with the plate is found.%n%nPlease note that while they're often in a big crater, the meteors might be buried underground; when the compass is spinning wildly, you're right on top of one.
+
+# db 741
+e2eu.quest.db.741.title=Inscriber
+e2eu.quest.db.741.desc=Welcome to §bApplied Energistics 2§r! This is the go to mod for all things storage and automation related. Like mentioned before, this pack uses AE2:UEL, so feel free to refer to the previously posted video on what new features it brings. Some of the quest requirements in this questline has been hidden by default to reduce clutter, you can hover over a given quest to see if it has any hidden requirements (if any).%n%n§3%n§rTo get started, §3Inscribers§r are machines used to make §6inscribed circuits§r for §bApplied Energistics§r.%n%n%nA decent number of the quests in this chapter are transcribed from §5Nomifactory§r, and is also where AE2UEL orginated from, so go check it out!
+
+# db 742
+e2eu.quest.db.742.title=Oops... A Blackout!
+e2eu.quest.db.742.desc=If you've tried to insert or remove a lot of items quickly, you might notice your ME network%n§eflickers offline§r briefly. This is because digitizing and re-materializing items requires energy!%n%nYour network doesn't naturally store very much energy and the §6Energy Acceptor§r only intermittently refills the network's power. To keep things stable, you will need to add some energy storage in your network using §6Energy Cells§r.%n%nJust place one anywhere in your network and it will fill up with AE energy received from the Energy Acceptor. Now, you should have enough energy in your network to prevent these power losses. Feel free to add more energy cells, or upgrade to §6Dense Energy Cells§r, if you continue to experience problems.%n%nIf you've opted to enable channels in your AE2 configs, you will innately have some energy storage from the §3ME Controller§r, but we assume you know what you're doing at that point. §eAE2 Channels mechanics are outside the scope of the quest book, and this is the only time it will be mentioned.
+
+# db 743
+e2eu.quest.db.743.title=ME Cables
+e2eu.quest.db.743.desc=These are the basic cables used by §3Applied Energistics§r to transport network connectivity. Due to the fact that channels are disabled, these cables will be your main method of transporting network connectivity, rather than the dense cables.%n%nThese cables do not share blockspace with conduits or cables for other mods, so they can be somewhat unweildy to build with, but they do accept §3Applied Energistics§r§6§r §6Facades§r, so they can be hidden very easily.%n%n§6ME Conduits§r have the advantage of being able to share a block space with other conduit types. Oh, and they're relatively cheaper to make.%n%nThe only downside is that §ethey will not connect to §bApplied Energistics§r §emicroparts§r like slab-form §6Interfaces§r or §6Level Emitters§r, so you have to use AE cables like §6Fluix Cable§r for those.%n
+
+# db 744
+e2eu.quest.db.744.title=Terminal
+e2eu.quest.db.744.desc=Access all of your items on a single screen. Soon, anyway.%n%nPlease note that all variants of §6ME Terminals§r are §emicroparts§r, which means they need to be attached to an §6ME Cable§r (not conduit) to function.
+
+# db 745
+e2eu.quest.db.745.title=Energy Acceptor
+e2eu.quest.db.745.desc=The §3Energy Acceptor§r converts RF power into AE power that Applied Energistics uses, in a 2 RF to 1 AE ratio. This power will be transmitted through adjacent full-block ME Network devices, as well as along all connected §6ME Cables§r, §6ME Conduits§r, and §6Quartz Fiber§r. %n%nQuartz Fiber are §emicroparts§r you can put between an ME Cable and any ME Network block or another ME Cable. This will allow transmission of AE power but not data, which is useful for having data-isolated ME Networks all sharing the same power source.
+
+# db 746
+e2eu.quest.db.746.title=ME Drive
+e2eu.quest.db.746.desc=The ME drive is used to store storage cells, adding them and their items to the ME network.
+
+# db 747
+e2eu.quest.db.747.title=Engineering Processor
+e2eu.quest.db.747.desc=§6Engineering Processors§r are made from §6Diamond§r, §6Silicon§r, and §6Redstone§r.%n%nRun the items through the respective §3Inscribers§r with §aPresses§r to make the printed plates, then combine the plates and circuit to form the Engineering Processor.
+
+# db 748
+e2eu.quest.db.748.title=Advanced Inscriber
+e2eu.quest.db.748.desc=§3Advanced Inscribers§r are much easier to work with for automation purposes, since you can insert more than a single item at a time and you can lock §aPresses§r in place.%n%nYou can automate these nicely with processing patterns in an §aME Interface§r. They don't auto-eject items though, so you will need to pull the finished items out.
+
+# db 749
+e2eu.quest.db.749.title=Digital Storage At Last
+e2eu.quest.db.749.desc=§bApplied Energistics§r uses §6Storage Cells§r as its primary means of digital item and fluid storage.%n%nAll unformatted Storage Cells are limited to at most 63 distinct item types, with the first item of each new type taking up a chunk of the total bytes of cell storage, and subsequent items of existing types taking a small number of bytes thereafter.%n%nA §61k ME Storage Cell§r is the first and smallest cell for storing items. If you are going to be storing many different kinds of items in your network, you will need to make an §6ME Drive§r and fill it with multiple Storage Cells.%n%nCells come in many tiers, each being able to store 4 times as many bytes as the previous tier.
+
+# db 750
+e2eu.quest.db.750.title=Crafting Terminal
+e2eu.quest.db.750.desc=Crafting in a digital grid is heaven after using primitive wooden tables for so long.%n%nIt's a micropart, so you need to place it on §6ME Cable§r (not a conduit).
+
+# db 751
+e2eu.quest.db.751.title=Interface Terminal
+e2eu.quest.db.751.desc=This handy terminal allows you to see the pattern slots of all §aME Interfaces§r in your network in one place.%n%nThis means you don't have to run to your ME Interfaces each time you make a new pattern for them.
+
+# db 752
+e2eu.quest.db.752.title=ME interfaces
+e2eu.quest.db.752.desc=§aME Interfaces§r are extremely important for automation. %n%nThese can be filled with encoded §aPatterns§r to perform on-demand autocrafting, and can be configured to stock up to 9 stacks of items for passive autocrafting, Any item pushed into an ME Interface is digitized and placed in your ME Network storage.%n%nWhen adjacent to one or more §aMolecular Assemblers§r, crafting table patterns can be crafted. It will use as many adjacent Molecular Assemblers as possible, restricted by availability and number of §aCo-processors§r in your crafting CPU multiblock.%n%nWhen adjacent to any other block, you can use processing patterns with a machine to insert items into the machine. Processing patterns require that the finished item is inserted back into the ME Network by way of an ME Interface (though it doesn't need to be the same ME Interface the Pattern is in).%n%nME Interfaces can be wrenched to ensure they only communicate with a particular adjacent block, or can be crafted into a micropart form to fit multiple in the same block space (each micropart only interacting with the adjacent block face).%n%n
+
+# db 753
+e2eu.quest.db.753.title=More Pattern Slots
+e2eu.quest.db.753.desc=§6Pattern Expansion Cards§r can be used to increase the amount of slots for patterns in a given interface.
+
+# db 754
+e2eu.quest.db.754.title=Crafting Units
+e2eu.quest.db.754.desc=Crafting Units are to create autocrafts, the more complex the craft, the more bytes it will need. Crafting Units can be placed together to combine their bytes into a single CPU.%n%nA single 4k CPU should be enough for now.%n
+
+# db 755
+e2eu.quest.db.755.title=Automating Astrial
+e2eu.quest.db.755.desc=§bPackaged Astril§r, or Pastril, works the same way as PEX, just note that you will need starlight and the correct tier of alter multiblock for these to craft items.%n%n
+
+# db 756
+e2eu.quest.db.756.title=Automating Extended Crafting
+e2eu.quest.db.756.desc=With §bPackaged ExCrafting§r, or PEX, you can begin automating §bExtended Crafting§r recipes.%n%nTo begin, you'll need to craft one a extended §3Package Crafter§r, and put an §3Unpackager§r touching it.%n%nNext, right-click the §3Package Recipe Encoder§r, and you should see a button saying "Processing": this button cycles through recipe types, including the various Extended Crafting tables. You'll have to choose the appropriate table for the recipe you want to encode.%n%n§6Holders§r must be encoded in pairs: one for the Packager, and one for the Unpackager. Select the appropriate table for the recipe, look up the recipe you want to encode, and press §6[+]§r in §bJEI§r to fill it in. Put two Holders in the top-left slot and press Save to encode the recipe to both of them. Finally, put each Holder into the respective machines.%n%nIf you've done everything correctly, you should see the item appear as craftable in a Terminal.%n%nWhile it might seem that the crafting process is slow, §ePackagedAuto is excellent at parallelizing§r. You can surround an Unpackager with Crafters and it will use all of them. It's also possible to add more Unpackagers with Crafters to keep up with the Packager, as long as the Holders are all the same.%n%n
+
+# db 757
+e2eu.quest.db.757.title=PackagedAuto
+e2eu.quest.db.757.desc=§bPackagedAuto§r is an addon for §bApplied Energistics 2§r. Its main purpose in §9E2E Unoffical§r is to allow you to automate §bExtended Crafting§r and §bAstral§r recipes, but you may come up with other fun uses for it as well.%n%nApplied Energistics 2 stores recipes in §aPatterns§r, but so far they have been limited to at most 9 stacks of items (a standard 3x3 crafting grid). PackagedAuto stores recipes in §aPackage Recipe Holders§r, which don't have this limitation. Additionally, each Holder can store up to §e20 different recipes§r. Holders must be encoded in the §3Package Recipe Encoder§r.%n%nIn the vast majority of situations you'll need two identically-encoded Holders, as the following machines work together.%n%nThe §3Packager§r is a machine that compresses ingredients for a specific recipe into a set of §6Recipe Packages§r. Each package in a set can hold up to 9 stacks of ingredient items. A simple recipe might consist of one package, but a complex recipe can have up to 9 packages in its set (for 81 total item stacks).%n%nThe §3Unpackager§r is a machine that extracts ingredient items from complete sets of Recipe Packages made in a Packager, ejecting the items into an adjacent inventory. It will only extract the items if §eall packages in a set are present§r.%n%nWhen both a Packager and Unpackager are connected to an ME Network and have the same recipe, the resulting item will appear as craftable in your §aTerminal§r.%n%n§3Packager Extensions§r will act like a clone of an adjacent Packager - including access to patterns in its Package Recipe Holder - allowing you to craft recipe packages faster. Simply place the Packager Extensions around the Packager. Up to 26 extensions in a 3x3x3 cube around the Packager are supported.
+
+# db 758
+e2eu.quest.db.758.title=Autocrafting Patterns
+e2eu.quest.db.758.desc=§aPatterns§r are used to encode a single crafting table or processing recipe for on-demand automation with §bApplied Energistics§r.%n%nEncode them in a §aPattern Terminal§r.%n%nNote that recipes encoded with Substitutions on will use existing equivalent items, but §ewill only automatically craft the exact item specified in the recipe.§r%n%nIt is also a §cvery bad idea§r to encode recipes that require hand tools (even worse with Substitutions on). They are not handled gracefully, causing your crafting computations to explode in complexity and memory requirement.%n%nUse recipes that use machines instead!%n%nWith that being said, go ahead and use your newly crafted autocrafting materals to set up autocrafting for patterns and interfaces, so you can have more of them at the press of a button!
+
+# db 759
+e2eu.quest.db.759.title=Pattern Terminal
+e2eu.quest.db.759.desc=As the name suggests, this terminal lets you encode recipes onto §aBlank Patterns§r.%n%nIt's a micropart, so you need to place it on §6ME Cable§r (not a conduit).
+
+# db 760
+e2eu.quest.db.760.title=Extended Processing Pattern Terminal
+e2eu.quest.db.760.desc=§bPackagedAuto§r is cool, but check this out!%n%nThe §aExtended Processing Pattern Terminal§r is a new device which allows you to encode regular §bApplied Energistics§r patterns with processing recipes that have §eup to 16 ingredients and 6 outputs§r.%n%nThese are extremely useful for automating recipes for complex multiblocks, and avoid some of the pitfalls of §bPackagedAuto§r like round-robin being really awkward since §3Unpackagers§r have internal buffers.
+
+# db 761
+e2eu.quest.db.761.title=Essentia Viewing
+e2eu.quest.db.761.desc=Allows you to view the Essentia in your system.%n%nMore info in thaumonomicon.
+
+# db 762
+e2eu.quest.db.762.title=Essentia Storage
+e2eu.quest.db.762.desc=§dThaumic Energistics Extended Life§o§r grants Thaumcraft compatibility with Applied Energistics Extended Life, allowing for storage and autocrafting with Thaumcraft.%n
+
+# db 763
+e2eu.quest.db.763.title=Mana Hatch
+e2eu.quest.db.763.desc=Is able to store and use mana.
+
+# db 764
+e2eu.quest.db.764.title=Scented Hive
+e2eu.quest.db.764.desc=The Scented Hive can transform into other hives, depending on where it is and what blocks are nearby. Check JEI for more info.
+
+# db 765
+e2eu.quest.db.765.title=Creative Essentia
+e2eu.quest.db.765.desc=Infinite Essentia
+
+# db 766
+e2eu.quest.db.766.title=Creative ME Storage Cell
+e2eu.quest.db.766.desc=Infinite Items in your ME system.
+
+# db 767
+e2eu.quest.db.767.title=Creative Essense
+e2eu.quest.db.767.desc=Needed to craft vending
