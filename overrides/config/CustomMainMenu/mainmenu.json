@@ -10,7 +10,7 @@
             "height" : 154,
             "alignment" : "top_center"
         },
-		
+
 		"transparentBox":
         {
             "image" : "modpack:textures/gui/image1.png",
@@ -21,7 +21,7 @@
             "alignment" : "left_center"
         }
     },
-    
+
     "buttons":
     {
 		"singleplayer": {
@@ -100,7 +100,7 @@
                 "gui": "options"
             }
         },
-        
+
         "languages": {
             "text": "Languages",
             "posX": 44,
@@ -141,7 +141,7 @@
             "hoverTextColor": 4286414205,
             "texture": "modpack:textures/gui/button2.png",
             "alignment": "left_center",
-            "action" : 
+            "action" :
             {
                 "type" : "openLink",
                 "link" : "https://discord.gg/5HZJfepfTW"
@@ -160,9 +160,9 @@
             "action": {
                 "type": "quit"
             }
-        }		
+        }
 	},
-    
+
     "labels":
     {
         "mojang":
@@ -174,28 +174,30 @@
             "alignment" : "bottom_left"
         }
 	},
-    
-    "other" : { 
-	
-		"background" : 
+
+    "other" : {
+
+		"background" :
         {
             "image" : "",
             "slideshow" :
             {
-                "images" : 
+                "images" :
 				[
 				"modpack:textures/gui/slideshow1.png","modpack:textures/gui/slideshow2.png",
 				"modpack:textures/gui/slideshow3.png","modpack:textures/gui/slideshow4.png",
 				"modpack:textures/gui/slideshow5.png","modpack:textures/gui/slideshow6.png",
 				"modpack:textures/gui/slideshow7.png","modpack:textures/gui/slideshow8.png",
 				"modpack:textures/gui/slideshow9.png","modpack:textures/gui/slideshow10.png",
-				"modpack:textures/gui/slideshow11.png","modpack:textures/gui/slideshow12.png"
+				"modpack:textures/gui/slideshow11.png","modpack:textures/gui/slideshow12.png",
+                "modpack:textures/gui/slideshow13.png","modpack:textures/gui/slideshow14.png",
+                "modpack:textures/gui/slideshow15.png"
 				],
                 "displayDuration" : 100,
                 "fadeDuration" : 30,
 				"shuffle" : true
             }
 		}
-		
+
 	}
 }
