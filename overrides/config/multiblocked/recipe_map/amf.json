@@ -163,7 +163,7 @@
           {
             "chance": 1.0,
             "content": {
-              "amount": 1,
+              "amount": 6,
               "matches": [
                 "{id:\"plustic:mirioningot\",Count:1,Damage:0s}"
               ]
