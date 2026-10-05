@@ -18,9 +18,9 @@
 # Iron Tubing
 	recipes.addShapedMirrored("AdvancedGenerators Iron Tubing",
 	<advgenerators:iron_tubing> * 4, 
-	[[null, <ore:wireAluminium>, <actuallyadditions:item_misc:7>],
-	[<ore:wireAluminium>, <actuallyadditions:item_misc:7>, <ore:wireAluminium>], 
-	[<actuallyadditions:item_misc:7>, <ore:wireAluminium>, null]]);
+	[[null, <ore:wireAluminum>, <actuallyadditions:item_misc:7>],
+	[<ore:wireAluminum>, <actuallyadditions:item_misc:7>, <ore:wireAluminum>], 
+	[<actuallyadditions:item_misc:7>, <ore:wireAluminum>, null]]);
 
 # Redstone-Iron Tubing
 	recipes.addShapedMirrored("AdvancedGenerators Redstone-Iron Tubing", 
@@ -42,5 +42,3 @@
 	[[<ore:ingotSilver>, <ore:ingotTin>, <ore:ingotSilver>],
 	[<ore:ingotTin>, <gendustry:power_module>, <ore:ingotTin>], 
 	[<ore:ingotSilver>, <ore:ingotTin>, <ore:ingotSilver>]]);
-
-		

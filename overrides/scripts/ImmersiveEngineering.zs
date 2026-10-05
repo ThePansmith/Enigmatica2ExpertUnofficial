@@ -18,9 +18,13 @@ import crafttweaker.item.IIngredient;
 # Crude Oil Unification
 	mods.immersivepetroleum.Distillation.addRecipe(
 	[<liquid:lubricant> * 9, <liquid:diesel> * 27,  <liquid:gasoline> * 39],
-	[<immersivepetroleum:material>], 
-	<liquid:crude_oil> * 75, 
+	[<immersivepetroleum:material>],
+	<liquid:crude_oil> * 75,
 	4096, 20, [0.07]);
+
+# Diesel
+  mods.immersiveengineering.DieselHandler.removeFuel(<liquid:biodiesel>);
+  mods.immersiveengineering.DieselHandler.addFuel(<liquid:biodiesel>, 10000);
 
 # Coal Coke Unification
 	recipes.remove(<thermalfoundation:storage_resource:1>);
@@ -28,11 +32,11 @@ import crafttweaker.item.IIngredient;
 
 	rh(<thermalfoundation:material:802>);
 	mods.thermalexpansion.RedstoneFurnace.removePyrolysisRecipe(<minecraft:coal>);
-	mods.thermalexpansion.RedstoneFurnace.addPyrolysisRecipe(<immersiveengineering:material:6>, 
+	mods.thermalexpansion.RedstoneFurnace.addPyrolysisRecipe(<immersiveengineering:material:6>,
 	<minecraft:coal>, 3000, 250);
 
 	mods.thermalexpansion.RedstoneFurnace.removePyrolysisRecipe(<minecraft:coal_block>);
-	mods.thermalexpansion.RedstoneFurnace.addPyrolysisRecipe(<immersiveengineering:stone_decoration:3>, 
+	mods.thermalexpansion.RedstoneFurnace.addPyrolysisRecipe(<immersiveengineering:stone_decoration:3>,
 	<minecraft:coal_block>, 2400, 2500);
 
 # Sulfur Unification
@@ -41,18 +45,18 @@ import crafttweaker.item.IIngredient;
 
 # Aluminum Scaffolding
 	recipes.remove(<immersiveengineering:metal_decoration2:8>);
-	recipes.addShapedMirrored("Aluminum Scaffolding", 
-	<immersiveengineering:metal_decoration2:8> * 4, 
+	recipes.addShapedMirrored("Aluminum Scaffolding",
+	<immersiveengineering:metal_decoration2:8> * 4,
 	[[<ore:stickAluminum>, null, null],
-	[<ore:scaffoldingAluminium>, <ore:stickAluminum>, null], 
-	[<ore:scaffoldingAluminium>, <ore:scaffoldingAluminium>, <ore:stickAluminum>]]);
-	
+	[<ore:scaffoldingAluminum>, <ore:stickAluminum>, null],
+	[<ore:scaffoldingAluminum>, <ore:scaffoldingAluminum>, <ore:stickAluminum>]]);
+
 # Steel Scaffolding
 	recipes.remove(<immersiveengineering:metal_decoration2:7>);
-	recipes.addShapedMirrored("Steel Scaffolding", 
-	<immersiveengineering:metal_decoration2:7> * 4, 
+	recipes.addShapedMirrored("Steel Scaffolding",
+	<immersiveengineering:metal_decoration2:7> * 4,
 	[[<ore:stickSteel>, null, null],
-	[<ore:scaffoldingSteel>, <ore:stickSteel>, null], 
+	[<ore:scaffoldingSteel>, <ore:stickSteel>, null],
 	[<ore:scaffoldingSteel>, <ore:scaffoldingSteel>, <ore:stickSteel>]]);
 
 # Concrete Conversion recipes
@@ -72,67 +76,67 @@ import crafttweaker.item.IIngredient;
 
 # Energy Capacitors
 	recipes.remove(<immersiveengineering:metal_device0:1>);
-	recipes.addShaped("MV Capacitor", 
-	<immersiveengineering:metal_device0:1>, 
+	recipes.addShaped("MV Capacitor",
+	<immersiveengineering:metal_device0:1>,
 	[[<ore:ingotIron>, <ore:ingotIron>, <ore:ingotIron>],
-	[<ore:ingotElectrum>, <immersiveengineering:metal_device0>, <ore:ingotElectrum>], 
+	[<ore:ingotElectrum>, <immersiveengineering:metal_device0>, <ore:ingotElectrum>],
 	[<ore:plankTreatedWood>, <ore:blockRedstone>, <ore:plankTreatedWood>]]);
-	
+
 	recipes.remove(<immersiveengineering:metal_device0:2>);
-	recipes.addShaped("HV Capacitor", 
-	<immersiveengineering:metal_device0:2>, 
+	recipes.addShaped("HV Capacitor",
+	<immersiveengineering:metal_device0:2>,
 	[[<ore:ingotSteel>, <ore:ingotSteel>, <ore:ingotSteel>],
-	[<ore:blockLead>, <immersiveengineering:metal_device0:1>, <ore:blockLead>], 
+	[<ore:blockLead>, <immersiveengineering:metal_device0:1>, <ore:blockLead>],
 	[<ore:plankTreatedWood>, <ore:blockRedstone>, <ore:plankTreatedWood>]]);
-	
+
 # LV - MV Connectors/Relays
 	recipes.addShapeless("LV - MV Connector", <immersiveengineering:connector:2>, [<immersiveengineering:connector>, <ore:ingotIron>]);
 	recipes.addShapeless("LV - MV Relay", <immersiveengineering:connector:3>, [<immersiveengineering:connector:1>, <ore:ingotIron>]);
 
 # MV - HV Connectors/Relays
-	recipes.addShapeless("MV - HV Connector", <immersiveengineering:connector:4>, [<immersiveengineering:connector:2>, <ore:ingotAluminium>]);
-	recipes.addShapeless("MV - HV Relay", <immersiveengineering:connector:5>, [<immersiveengineering:connector:3>, <ore:ingotAluminium>]);
+	recipes.addShapeless("MV - HV Connector", <immersiveengineering:connector:4>, [<immersiveengineering:connector:2>, <ore:ingotAluminum>]);
+	recipes.addShapeless("MV - HV Relay", <immersiveengineering:connector:5>, [<immersiveengineering:connector:3>, <ore:ingotAluminum>]);
 
 # Coke Bricks
 	recipes.remove(<immersiveengineering:stone_decoration>);
-	recipes.addShaped("Coke Brick", 
-	<immersiveengineering:stone_decoration> * 3, 
+	recipes.addShaped("Coke Brick",
+	<immersiveengineering:stone_decoration> * 3,
 	[[<ore:clayPorcelain>, <ore:ingotBrick>, <ore:clayPorcelain>],
-	[<ore:ingotBrick>, <ore:sandstone>, <ore:ingotBrick>], 
+	[<ore:ingotBrick>, <ore:sandstone>, <ore:ingotBrick>],
 	[<ore:clayPorcelain>, <ore:ingotBrick>, <ore:clayPorcelain>]]);
-	
+
 # Redstone Engineering Block
 	recipes.remove(<immersiveengineering:metal_decoration0:3>);
-	recipes.addShaped("Redstone Engineering Block", 
-	<immersiveengineering:metal_decoration0:3> * 2, 
+	recipes.addShaped("Redstone Engineering Block",
+	<immersiveengineering:metal_decoration0:3> * 2,
 	[[<ore:plateCopper>, <ore:ingotConstantan>, <ore:plateCopper>],
-	[<ore:ingotConstantan>, <ore:gearRedstone>, <ore:ingotConstantan>], 
+	[<ore:ingotConstantan>, <ore:gearRedstone>, <ore:ingotConstantan>],
 	[<ore:plateCopper>, <ore:ingotConstantan>, <ore:plateCopper>]]);
 
 # Light Engineering Block
 	recipes.remove(<immersiveengineering:metal_decoration0:4>);
-	recipes.addShaped("Light Engineering Block", 
-	<immersiveengineering:metal_decoration0:4> * 4, 
+	recipes.addShaped("Light Engineering Block",
+	<immersiveengineering:metal_decoration0:4> * 4,
 	[[<ore:plateBronze>, <ore:alloyAdvanced>, <ore:plateBronze>],
-	[<ore:alloyAdvanced>, <immersiveengineering:metal_decoration1:5>, <ore:alloyAdvanced>], 
+	[<ore:alloyAdvanced>, <immersiveengineering:metal_decoration1:5>, <ore:alloyAdvanced>],
 	[<ore:plateBronze>, <ore:alloyAdvanced>, <ore:plateBronze>]]);
 
 # Heavy Engineering Block
 	recipes.remove(<immersiveengineering:metal_decoration0:5>);
-	recipes.addShaped("Heavy Engineering Block", 
-	<immersiveengineering:metal_decoration0:5> * 4, 
+	recipes.addShaped("Heavy Engineering Block",
+	<immersiveengineering:metal_decoration0:5> * 4,
 	[[<ore:plateUranium>, <ore:alloyElite>, <ore:plateUranium>],
-	[<immersiveengineering:material:8>, <immersiveengineering:metal_decoration1:1>, <immersiveengineering:material:8>], 
+	[<immersiveengineering:material:8>, <immersiveengineering:metal_decoration1:1>, <immersiveengineering:material:8>],
 	[<ore:plateUranium>, <ore:alloyElite>, <ore:plateUranium>]]);
 
 # Garden Cloche
 	recipes.remove(<immersiveengineering:metal_device1:13>);
-	mods.forestry.ThermionicFabricator.addCast(<immersiveengineering:metal_device1:13>, 
+	mods.forestry.ThermionicFabricator.addCast(<immersiveengineering:metal_device1:13>,
 	[[null, <immersiveengineering:connector>, null],
-	[null, <ic2:upgrade:4>, null], 
-	[<ore:plankTreatedWood>, <immersiveengineering:metal_decoration0:5>, <ore:plankTreatedWood>]], 
+	[null, <ic2:upgrade:4>, null],
+	[<ore:plankTreatedWood>, <immersiveengineering:metal_decoration0:5>, <ore:plankTreatedWood>]],
 	<liquid:glass> * 4000);
-	
+
 # Crusher Recipes
 	mods.immersiveengineering.Crusher.addRecipe(<thermalfoundation:material:68> * 4, <ore:oreNetherAluminum>, 6000, <minecraft:netherrack>, 0.15);
 	mods.immersiveengineering.Crusher.addRecipe(<thermalfoundation:material:64> * 4, <ore:oreNetherCopper>, 6000, <minecraft:netherrack>, 0.15);
@@ -179,28 +183,21 @@ for block, slab in {
 }
 
 
-# [Conveyor Belt]*32 from [Redstone][+2]
-craft.remake(<immersiveengineering:conveyor>.withTag({conveyorType: "immersiveengineering:conveyor"}) * 32, ["pretty",
-  "l l l",
-  "▬ ♥ ▬"], {
-  "♥": <ore:dustRedstone>, # Redstone
-  "l": <ore:leather>,      # Leather
-  "▬": <ore:ingotIron>, # Iron Alloy Ingot
-  remove: <immersiveengineering:conveyor>.withTag({conveyorType: "immersiveengineering:conveyor"}) * 8, # Conveyor Belt
-});
+# Conveyor Belt
 
-# [Conveyor Belt]*32 from [Redstone][+2]
-craft.remake(<immersiveengineering:conveyor>.withTag({conveyorType: "immersiveengineering:conveyor"}) * 32, ["pretty",
-  "R R R",
-  "▬ ♥ ▬"], {
-  "R": <ore:itemRubber>, # Plastic
-  "♥": <ore:dustRedstone>, # Redstone
-  "▬": <ore:ingotIron>, # Iron Alloy Ingot
-  remove: <immersiveengineering:conveyor>.withTag({conveyorType: "immersiveengineering:conveyor"}) * 8, # Conveyor Belt
-});
+	recipes.removeShaped(<immersiveengineering:conveyor>, [[<*>, <*>, <*>], [<ore:ingotIron>, <ore:dustRedstone>, <ore:ingotIron>]]);
+
+	recipes.addShaped("Conveyor_Basic", <immersiveengineering:conveyor>.withTag({conveyorType: "immersiveengineering:conveyor"}) * 32,
+	[[<ore:leather>, <ore:leather>, <ore:leather>],
+	[<ore:ingotIron>, <ore:dustRedstone>, <ore:ingotIron>]]);
+
+	recipes.addShaped("Conveyor_Basic_Rubber", <immersiveengineering:conveyor>.withTag({conveyorType: "immersiveengineering:conveyor"}) * 32,
+	[[<ore:itemRubber>, <ore:itemRubber>, <ore:itemRubber>],
+	[<ore:ingotIron>, <ore:dustRedstone>, <ore:ingotIron>]]);
 
 # Unbreakable Graphite Electrodes
     mods.thermalexpansion.InductionSmelter.addRecipe(<immersiveengineering:graphite_electrode>.withTag({Unbreakable: 1, display: {Lore: ["Reinforced with Titanium Iridium Alloy"], Name: "Unbreakable Graphite Electrode"}}), <immersiveengineering:graphite_electrode>, <advancedrocketry:productingot:1> * 4, 25000);
     mods.jei.JEI.addItem(<immersiveengineering:graphite_electrode>.withTag({Unbreakable: 1, display: {Lore: ["Reinforced with Titanium Iridium Alloy"], Name: "Unbreakable Graphite Electrode"}}));
 
-
+recipes.removeByRecipeName("unidict:plateuranium_x1_size.1");
+recipes.removeByRecipeName("unidict:plateuranium_x1_size.2");

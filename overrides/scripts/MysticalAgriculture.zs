@@ -1,6 +1,12 @@
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
+import mods.jei.JEI.removeAndHide as rh;
 #modloaded mysticalagriculture
+
+# Hide inferium ores from JEI
+rh(<mysticalagriculture:inferium_ore>);
+rh(<mysticalagriculture:nether_inferium_ore>);
+rh(<mysticalagriculture:end_inferium_ore>);
 
 # Enderman Chunks -> Ender Pearls
 mods.nuclearcraft.pressurizer.addRecipe(<mysticalagriculture:chunk:19> * 2, <minecraft:ender_pearl>);

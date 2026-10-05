@@ -121,9 +121,6 @@ for item in thaumcraftHintItems {
 	
 # Infused Wood
 	addDescription(<astralsorcery:blockinfusedwood>, "Made by dropping Wood Logs in Liquid Starlight. You need to have crafted a Luminous Crafting Table for the process to work.");
-	
-# Void Seed + Void Metal Temp
-	<thaumcraft:void_seed>.addTooltip(tempRecipe);
 
 # IC2 Scanner & Replicator possibilities
 	addDescription(<ic2:te:63>, ["Custom blocks that can be scanned & replicated: ", "Iridium Ore", "Iridium Shard", "Electronic Circuit", "Advanced Alloy", "Advanced Machine Casing", "Thermal Expansion Machine Frame", "Advanced Coil", "RFTools Machine Frame", "Machine Case", "Iron Casing", "Advanced Computer", "Litherite Crystal", "Machine Block", "Ultimate Control Circuit", "Hardened Casing", "Fusion Crafting Core", "Secret", "All Chaos Shards"]);
@@ -211,7 +208,11 @@ for item in thaumcraftHintItems {
 	addDescription(item, spaceGen);
 	}
 	
-	addDescription(<libvulpes:ore0:8>, "Rutile Ore only generates on other planets, but Titanium Ingots are craftable.");
+	addDescription(<libvulpes:ore0:8>,
+	["Rutile Ore:",
+	"- Generates in outer space",
+	"- Can be mined with the Orbital Laser Drill",
+	"- Can be extracted from Bauxite Mineral Deposits"]);
 	
 # Mekanism Factories
 	<mekanism:machineblock:5>.addTooltip(mekanismFactories);
@@ -226,8 +227,11 @@ for item in thaumcraftHintItems {
 	addDescription(<astralsorcery:blockcustomore>, spaceGenHigh);
 	
 # Titanium Ingot
-	addDescription(<libvulpes:productingot:7>, "Obtainable through the Advanced Metallurgic Fabricator.");
-	<libvulpes:productingot:7>.addTooltip(format.red("(Obtainable through the Advanced Metallurgic Fabricator)"));
+	addDescription(<libvulpes:productingot:7>, 
+	["Obtainable through:", 
+	"- Advanced Metallurgic Fabricator", 
+	"- Processing Rutile Ore"]);
+	<libvulpes:productingot:7>.addTooltip(format.green("Obtainable through:") + "\n" + format.darkAqua("- Advanced Metallurgic Fabricator") + "\n" + format.darkAqua("- Processing Rutile Ore"));
 
 # Mystical Agriculture Seeds Tier 5 -> 6
 	<mysticalagriculture:ender_amethyst_seeds>.addTooltip("Tier: " + format.darkPurple("6"));
@@ -238,6 +242,13 @@ for item in thaumcraftHintItems {
 # Thermal Expansion Resonant Machine Frame (Full)
 	addDescription(<thermalexpansion:frame:148>, mil100);
 	
+# Old Extreme Reactors Crystals
+	<contenttweaker:anglesite>.displayName = "Anglesite";
+	<contenttweaker:benitoite>.displayName = "Benitoite";
+	
+	addDescription(<contenttweaker:anglesite>, craftable);
+	addDescription(<contenttweaker:benitoite>, craftable);
+
 # Uncraftable ingots
 	addDescription(<enderio:item_alloy_endergy_ingot:2>,"Melodic Alloy Block is craftable.");
 	addDescription(<enderio:item_alloy_endergy_ingot:3>,"Stellar Alloy Block is craftable.");
@@ -329,184 +340,184 @@ for item in thaumcraftHintItems {
 # Solar Panels
 	addDescription(<environmentaltech:solar_cont_1>,
 		["Required Blocks:",
-		"4 Null or Piezo Modifier in any combination",
-		"16 Structure Frame tier 1 or above",
-		"9 Solar Cell of any type"]);
+		"- 4 Null or Piezo Modifier in any combination",
+		"- 16 Structure Frame tier 1 or above",
+		"- 9 Solar Cell of any type"]);
 	addDescription(<environmentaltech:solar_cont_2>,
 		["Required Blocks:",
-		"4 Null or Piezo Modifier in any combination",
-		"24 Structure Frame tier 2 or above",
-		"25 Solar Cell of any type"]);
+		"- 4 Null or Piezo Modifier in any combination",
+		"- 24 Structure Frame tier 2 or above",
+		"- 25 Solar Cell of any type"]);
 	addDescription(<environmentaltech:solar_cont_3>,
 		["Required Blocks:",
-		"8 Null or Piezo Modifier in any combination",
-		"32 Structure Frame tier 3 or above",
-		"49 Solar Cell of any type"]);
+		"- 8 Null or Piezo Modifier in any combination",
+		"- 32 Structure Frame tier 3 or above",
+		"- 49 Solar Cell of any type"]);
 	addDescription(<environmentaltech:solar_cont_4>,
 		["Required Blocks:",
-		"8 Null or Piezo Modifier in any combination",
-		"40 Structure Frame tier 4 or above",
-		"81 Solar Cell of any type"]);
+		"- 8 Null or Piezo Modifier in any combination",
+		"- 40 Structure Frame tier 4 or above",
+		"- 81 Solar Cell of any type"]);
 	addDescription(<environmentaltech:solar_cont_5>,
 		["Required Blocks:",
-		"12 Null or Piezo Modifier in any combination",
-		"48 Structure Frame tier 5 or above",
-		"121 Solar Cell of any type"]);
+		"- 12 Null or Piezo Modifier in any combination",
+		"- 48 Structure Frame tier 5 or above",
+		"- 121 Solar Cell of any type"]);
 	addDescription(<environmentaltech:solar_cont_6>,
 		["Required Blocks:",
-		"12 Null or Piezo Modifier in any combination",
-		"56 Structure Frame tier 6",
-		"169 Solar Cell of any type"]);
-	
+		"- 12 Null or Piezo Modifier in any combination",
+		"- 56 Structure Frame tier 6",
+		"- 169 Solar Cell of any type"]);
+
 # Void Ore Miner
 	addDescription(<environmentaltech:void_ore_miner_cont_1>,
 		["Required Blocks:",
-		"24 Structure Frame tier 1 or above",
-		"20 Structure Panel",
-		"2 Laser Core",
-		"1 Laser Lens of any type"]);
+		"- 24 Structure Frame tier 1 or above",
+		"- 20 Structure Panel",
+		"- 2 Laser Core",
+		"- 1 Laser Lens of any type"]);
 	addDescription(<environmentaltech:void_ore_miner_cont_2>,
 		["Required Blocks:",
-		"4 Null, Speed or Accuracy Modifier in any combination",
-		"32 Structure Frame tier 2 or above",
-		"16 Structure Panel",
-		"3 Laser Core",
-		"1 Laser Lens of any type"]);
+		"- 4 Null, Speed or Accuracy Modifier in any combination",
+		"- 32 Structure Frame tier 2 or above",
+		"- 16 Structure Panel",
+		"- 3 Laser Core",
+		"- 1 Laser Lens of any type"]);
 	addDescription(<environmentaltech:void_ore_miner_cont_3>,
 		["Required Blocks:",
-		"8 Null, Speed or Accuracy Modifier in any combination",
-		"56 Structure Frame tier 3 or above",
-		"52 Structure Panel",
-		"4 Laser Core",
-		"1 Laser Lens of any type"]);
+		"- 8 Null, Speed or Accuracy Modifier in any combination",
+		"- 56 Structure Frame tier 3 or above",
+		"- 52 Structure Panel",
+		"- 4 Laser Core",
+		"- 1 Laser Lens of any type"]);
 	addDescription(<environmentaltech:void_ore_miner_cont_4>,
 		["Required Blocks:",
-		"12 Null, Speed or Accuracy Modifier in any combination",
-		"56 Structure Frame tier 4 or above",
-		"56 Structure Panel",
-		"5 Laser Core",
-		"1 Laser Lens of any type"]);
+		"- 12 Null, Speed or Accuracy Modifier in any combination",
+		"- 56 Structure Frame tier 4 or above",
+		"- 56 Structure Panel",
+		"- 5 Laser Core",
+		"- 1 Laser Lens of any type"]);
 	addDescription(<environmentaltech:void_ore_miner_cont_5>,
 		["Required Blocks:",
-		"16 Null, Speed or Accuracy Modifier in any combination",
-		"72 Structure Frame tier 5 or above",
-		"36 Structure Panel",
-		"6 Laser Core",
-		"1 Laser Lens of any type"]);
+		"- 16 Null, Speed or Accuracy Modifier in any combination",
+		"- 72 Structure Frame tier 5 or above",
+		"- 36 Structure Panel",
+		"- 6 Laser Core",
+		"- 1 Laser Lens of any type"]);
 	addDescription(<environmentaltech:void_ore_miner_cont_6>,
 		["Required Blocks:",
-		"20 Null, Speed or Accuracy Modifier in any combination",
-		"92 Structure Frame tier 6",
-		"56 Structure Panel",
-		"6 Laser Core",
-		"1 Laser Lens of any type"]);
+		"- 20 Null, Speed or Accuracy Modifier in any combination",
+		"- 92 Structure Frame tier 6",
+		"- 56 Structure Panel",
+		"- 6 Laser Core",
+		"- 1 Laser Lens of any type"]);
 		
 # Void Resource Miner
 	addDescription(<environmentaltech:void_res_miner_cont_1>,
 		["Required Blocks:",
-		"24 Structure Frame tier 1 or above",
-		"20 Structure Panel",
-		"2 Laser Core",
-		"1 Laser Lens of any type"]);
+		"- 24 Structure Frame tier 1 or above",
+		"- 20 Structure Panel",
+		"- 2 Laser Core",
+		"- 1 Laser Lens of any type"]);
 	addDescription(<environmentaltech:void_res_miner_cont_2>,
 		["Required Blocks:",
-		"4 Null, Speed or Accuracy Modifier in any combination",
-		"32 Structure Frame tier 2 or above",
-		"16 Structure Panel",
-		"3 Laser Core",
-		"1 Laser Lens of any type"]);
+		"- 4 Null, Speed or Accuracy Modifier in any combination",
+		"- 32 Structure Frame tier 2 or above",
+		"- 16 Structure Panel",
+		"- 3 Laser Core",
+		"- 1 Laser Lens of any type"]);
 	addDescription(<environmentaltech:void_res_miner_cont_3>,
 		["Required Blocks:",
-		"8 Null, Speed or Accuracy Modifier in any combination",
-		"56 Structure Frame tier 3 or above",
-		"52 Structure Panel",
-		"4 Laser Core",
-		"1 Laser Lens of any type"]);
+		"- 8 Null, Speed or Accuracy Modifier in any combination",
+		"- 56 Structure Frame tier 3 or above",
+		"- 52 Structure Panel",
+		"- 4 Laser Core",
+		"- 1 Laser Lens of any type"]);
 	addDescription(<environmentaltech:void_res_miner_cont_4>,
 		["Required Blocks:",
-		"12 Null, Speed or Accuracy Modifier in any combination",
-		"56 Structure Frame tier 4 or above",
-		"56 Structure Panel",
-		"5 Laser Core",
-		"1 Laser Lens of any type"]);
+		"- 12 Null, Speed or Accuracy Modifier in any combination",
+		"- 56 Structure Frame tier 4 or above",
+		"- 56 Structure Panel",
+		"- 5 Laser Core",
+		"- 1 Laser Lens of any type"]);
 	addDescription(<environmentaltech:void_res_miner_cont_5>,
 		["Required Blocks:",
-		"16 Null, Speed or Accuracy Modifier in any combination",
-		"72 Structure Frame tier 5 or above",
-		"36 Structure Panel",
-		"6 Laser Core",
-		"1 Laser Lens of any type"]);
+		"- 16 Null, Speed or Accuracy Modifier in any combination",
+		"- 72 Structure Frame tier 5 or above",
+		"- 36 Structure Panel",
+		"- 6 Laser Core",
+		"- 1 Laser Lens of any type"]);
 	addDescription(<environmentaltech:void_res_miner_cont_6>,
 		["Required Blocks:",
-		"20 Null, Speed or Accuracy Modifier in any combination",
-		"92 Structure Frame tier 6",
-		"56 Structure Panel",
-		"6 Laser Core",
-		"1 Laser Lens of any type"]);
+		"- 20 Null, Speed or Accuracy Modifier in any combination",
+		"- 92 Structure Frame tier 6",
+		"- 56 Structure Panel",
+		"- 6 Laser Core",
+		"- 1 Laser Lens of any type"]);
 		
 # Nanobot Beacon
 	addDescription(<environmentaltech:nano_cont_personal_1>,
 		["Required Blocks:",
-		"4 Null or Potion Effect Modifier in any combination",
-		"20 Structure Frame tier 1 or above",
-		"12 Structure Panel"]);
+		"- 4 Null or Potion Effect Modifier in any combination",
+		"- 20 Structure Frame tier 1 or above",
+		"- 12 Structure Panel"]);
 	addDescription(<environmentaltech:nano_cont_personal_2>,
 		["Required Blocks:",
-		"8 Null or Potion Effect Modifier in any combination",
-		"36 Structure Frame tier 2 or above",
-		"24 Structure Panel"]);
+		"- 8 Null or Potion Effect Modifier in any combination",
+		"- 36 Structure Frame tier 2 or above",
+		"- 24 Structure Panel"]);
 	addDescription(<environmentaltech:nano_cont_personal_3>,
 		["Required Blocks:",
-		"12 Null or Potion Effect Modifier in any combination",
-		"56 Structure Frame tier 3 or above",
-		"40 Structure Panel"]);
+		"- 12 Null or Potion Effect Modifier in any combination",
+		"- 56 Structure Frame tier 3 or above",
+		"- 40 Structure Panel"]);
 	addDescription(<environmentaltech:nano_cont_personal_4>,
 		["Required Blocks:",
-		"16 Null or Potion Effect Modifier in any combination",
-		"80 Structure Frame tier 4 or above",
-		"60 Structure Panel"]);
+		"- 16 Null or Potion Effect Modifier in any combination",
+		"- 80 Structure Frame tier 4 or above",
+		"- 60 Structure Panel"]);
 	addDescription(<environmentaltech:nano_cont_personal_5>,
 		["Required Blocks:",
-		"20 Null or Potion Effect Modifier in any combination",
-		"108 Structure Frame tier 5 or above",
-		"84 Structure Panel"]);
+		"- 20 Null or Potion Effect Modifier in any combination",
+		"- 108 Structure Frame tier 5 or above",
+		"- 84 Structure Panel"]);
 	addDescription(<environmentaltech:nano_cont_personal_6>,
 		["Required Blocks:",
-		"24 Null or Potion Effect Modifier in any combination",
-		"140 Structure Frame tier 6",
-		"112 Structure Panel"]);
+		"- 24 Null or Potion Effect Modifier in any combination",
+		"- 140 Structure Frame tier 6",
+		"- 112 Structure Panel"]);
 		
 # Lightning Rod
 	addDescription(<environmentaltech:lightning_cont_1>,
 		["Required Blocks:",
-		"4 Structure Frame tier 1 or above",
-		"3 Lightning Rod",
-		"3 Insulated Lightning Rod"]);
+		"- 4 Structure Frame tier 1 or above",
+		"- 3 Lightning Rod",
+		"- 3 Insulated Lightning Rod"]);
 	addDescription(<environmentaltech:lightning_cont_2>,
 		["Required Blocks:",
-		"4 Structure Frame tier 2 or above",
-		"4 Lightning Rod",
-		"4 Insulated Lightning Rod"]);
+		"- 4 Structure Frame tier 2 or above",
+		"- 4 Lightning Rod",
+		"- 4 Insulated Lightning Rod"]);
 	addDescription(<environmentaltech:lightning_cont_3>,
 		["Required Blocks:",
-		"4 Structure Frame tier 3 or above",
-		"5 Lightning Rod",
-		"5 Insulated Lightning Rod"]);
+		"- 4 Structure Frame tier 3 or above",
+		"- 5 Lightning Rod",
+		"- 5 Insulated Lightning Rod"]);
 	addDescription(<environmentaltech:lightning_cont_4>,
 		["Required Blocks:",
-		"13 Structure Frame tier 4 or above",
-		"4 Lightning Rod",
-		"16 Insulated Lightning Rod"]);
+		"- 13 Structure Frame tier 4 or above",
+		"- 4 Lightning Rod",
+		"- 16 Insulated Lightning Rod"]);
 	addDescription(<environmentaltech:lightning_cont_5>,
 		["Required Blocks:",
-		"13 Structure Frame tier 5 or above",
-		"6 Lightning Rod",
-		"22 Insulated Lightning Rod"]);
+		"- 13 Structure Frame tier 5 or above",
+		"- 6 Lightning Rod",
+		"- 22 Insulated Lightning Rod"]);
 	addDescription(<environmentaltech:lightning_cont_6>,
 		["Required Blocks:",
-		"13 Structure Frame tier 6",
-		"8 Lightning Rod",
-		"28 Insulated Lightning Rod"]);
+		"- 13 Structure Frame tier 6",
+		"- 8 Lightning Rod",
+		"- 28 Insulated Lightning Rod"]);
 			
 # Tooltips for IC2 matter fabricator
 	var uumatterTooltips = [
@@ -576,7 +587,7 @@ for item in thaumcraftHintItems {
 	format.darkAqua("Refined Fuel")       ~ format.gray(" 105 MJ/mB\n") ~
 	format.darkAqua("Rocket Fuel (AR)")   ~ format.gray(" 110 MJ/mB\n") ~
 	format.darkAqua("Empowered Oil")      ~ format.gray(" 120 MJ/mB")
-,format.darkAqua("<<Hold shift to see fuel list>>"));
+,format.darkAqua("<Hold shift to see fuel list>"));
 
 # Antimatter
 <forge:bucketfilled>.withTag({FluidName: "blockfluidantimatter", Amount: 1000}).addTooltip(format.aqua("To obtain strike Life Essense with lightning"));
@@ -594,3 +605,69 @@ for item in thaumcraftHintItems {
 
 
 
+
+# Unbreakable Graphite Electrode
+	addDescription(<immersiveengineering:graphite_electrode>.withTag({Unbreakable: 1, display: {Lore: ["Reinforced with Titanium Iridium Alloy"], Name: "Unbreakable Graphite Electrode"}}),"Reinforced Graphite Eletrode. Repaired Graphite Electrodes are insufficient for this process");
+
+# Marble can be chiseled into..
+	<astralsorcery:blockmarble>.addTooltip(format.aqua("Chisel Variations: Astral Sorcery & Unlimited Chisel Works"));
+	<chisel:marble2:7>.addTooltip(format.aqua("Chisel Variations: Chisel & Quark"));
+	<quark:marble>.addTooltip(format.aqua("Chisel Variations: Chisel & Quark"));
+
+# Cryo/Auero/Pyro etc can be gotten via dolls
+var elementalItems as IItemStack[] = [
+	<thermalfoundation:material:2048>,
+  <thermalfoundation:material:2049>,
+  <thermalfoundation:material:1025>,
+  <thermalfoundation:material:2050>,
+  <thermalfoundation:material:2051>,
+  <thermalfoundation:material:1026>,
+  <thermalfoundation:material:2052>,
+  <thermalfoundation:material:2053>,
+  <thermalfoundation:material:1027>
+];
+
+for item in elementalItems {
+	addDescription(item,
+  ["Thermal elemental mobs such as blizz spawn in specific biomes such as cold, mountain, or desert biomes.",
+   "They can also be spawned via ex nihilo creatio dolls.",
+    "Example: Freezing Doll - spawns a blizz",
+    "Search \"doll\" to see all dolls, or search the rod prefix in jei to find the right doll, such as \"blizz\", \"blitz\", \"blaze\", or \"basalz\"",
+    "Recommended to have a way to spawn/farm these mob types"]);
+}
+
+# Combustion Generator
+  addDescription(<enderio:block_combustion_generator>,
+  ["The combustion generator is effectively an upgrade/alternative to the Compression Dyanamo.", "",
+    "While the compression dynamo has a constant output and variable burn duration to each fuel, the combustion generator has a constant burn rate but variable output for each fuel.",
+    "This means fuels that burn slowly in the dynamo may burn faster in the combustion generator, but for more rf/t. And fuels that burn fast in the dynamo may burn slower in the combustion generator, but for less rf/t.",
+    "Fuel efficiency is buffed over compression dynamo and scales with capacitor level." ]);
+
+# Bioreactor
+  addDescription(<industrialforegoing:bioreactor>,
+  "Biofuel production is more efficient with more types of seeds in the bioreactor at once, up to double efficiency with 9 different seeds");
+
+# Biofuel Generator
+  addDescription(<industrialforegoing:biofuel_generator>,
+  ["The IF biofuel generator is more efficient than the compression dynamo (~6x power per bucket of biofuel), but generates less rf/t", "",
+    "Generates 4800 rf/t",
+    "Biofuel production is more efficient with more types of seeds in the bioreactor at once" ]);
+  addDescription(<liquid:biofuel>,
+  ["The IF biofuel generator is more efficient than the compression dynamo (~6x power per bucket of biofuel), but generates less rf/t", "",
+    "Generates 4800 rf/t",
+    "Biofuel production is more efficient with more types of seeds in the bioreactor at once" ]);
+
+
+# Protein Reactor
+  addDescription(<industrialforegoing:protein_reactor>,
+  "Protein production is more efficient with more types of meat in the reactor at once, up to double efficiency with 9 different meats");
+
+# Protein Generator
+  addDescription(<industrialforegoing:protein_generator>,
+  ["The IF protein generator is more efficient than the compression dynamo (~6x power per bucket of protein), but generates less rf/t", "",
+    "Generates 6400 rf/t",
+    "Protein production is more efficient with more types of meat in the protein reactor at once" ]);
+  addDescription(<liquid:if.protein>,
+  ["The IF protein generator is more efficient than the compression dynamo (~6x power per bucket of protein), but generates less rf/t", "",
+    "Generates 6400 rf/t",
+    "Protein production is more efficient with more types of meat in the protein reactor at once" ]);

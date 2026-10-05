@@ -49,25 +49,25 @@ for slime, dirts in slimeDirts {
 # Cobalt Block Unification
 	mods.tconstruct.Casting.removeBasinRecipe(<chisel:blockcobalt>);
 	mods.tconstruct.Casting.addBasinRecipe(<tconstruct:metal>, null, <liquid:cobalt>, 1296);
-	
+
 # Item Rack
 	rh(<tconstruct:rack>);
-	
+
 # Blank Cast Resmelting
 	mods.tconstruct.Melting.addRecipe(<liquid:alubrass> * 144, <tconstruct:cast>);
 
 # Firewood
 	recipes.remove(<tconstruct:firewood:1>);
-	recipes.addShapedMirrored("Firewood", 
-	<tconstruct:firewood:1>, 
+	recipes.addShapedMirrored("Firewood",
+	<tconstruct:firewood:1>,
 	[[<tconstruct:firewood>, <bloodmagic:component:1>, <tconstruct:firewood>],
-	[<bloodmagic:lava_crystal>, <tconstruct:firewood>, <bloodmagic:lava_crystal>], 
+	[<bloodmagic:lava_crystal>, <tconstruct:firewood>, <bloodmagic:lava_crystal>],
 	[<tconstruct:firewood>, <bloodmagic:component:1>, <tconstruct:firewood>]]);
 
 # Reinforcement Modifier
 	recipes.remove(<tconstruct:materials:14>);
 	recipes.addShapedMirrored("Reinforcement Modifier",
-	<tconstruct:materials:14> * 2, 
+	<tconstruct:materials:14> * 2,
 	[[<ore:blockSheetmetalGold>, <ore:plateDenseObsidian>, <ore:blockSheetmetalGold>],
 	[<ore:blockSheetmetalGold>, <ic2:casing:2>, <ore:blockSheetmetalGold>],
 	[<ore:blockSheetmetalGold>, <ore:plateDenseObsidian>, <ore:blockSheetmetalGold>]]);
@@ -94,11 +94,11 @@ for slime, dirts in slimeDirts {
 
 # Tinkers' Complement Melter
 	recipes.remove(<tcomplement:melter>);
-	recipes.addShaped("TiC Complement", 
-	<tcomplement:melter>, 
+	recipes.addShaped("TiC Complement",
+	<tcomplement:melter>,
 	[[<ore:blockSeared>, <tconstruct:seared_tank>, <ore:blockSeared>],
-	[<ore:blockSeared>, <tconstruct:smeltery_controller>, <ore:blockSeared>], 
-	[<ore:blockSeared>, <ore:blockSeared>, <ore:blockSeared>]]);	
+	[<ore:blockSeared>, <tconstruct:smeltery_controller>, <ore:blockSeared>],
+	[<ore:blockSeared>, <ore:blockSeared>, <ore:blockSeared>]]);
 
 # Large Plates in Immersive Engineering Metal Press
 	#OutputStack, InputStack, MoldStack, Energy, SizeValue
@@ -107,15 +107,15 @@ for slime, dirts in slimeDirts {
 	mods.immersiveengineering.MetalPress.addRecipe(<tconstruct:large_plate>.withTag({Material: "iron"}), <minecraft:iron_block>, <immersiveengineering:mold>, 16000, 1);
 	mods.immersiveengineering.MetalPress.addRecipe(<tconstruct:large_plate>.withTag({Material: "electrum"}), <thermalfoundation:storage_alloy:1>, <immersiveengineering:mold>, 16000, 1);
 	mods.immersiveengineering.MetalPress.addRecipe(<tconstruct:large_plate>.withTag({Material: "flint"}), <excompressum:compressed_block:5>, <immersiveengineering:mold>, 16000, 1);
-	
+
 	mods.immersiveengineering.MetalPress.addRecipe(<tconstruct:tool_rod>.withTag({Material: "ardite"}), <tconstruct:ingots:1>, <immersiveengineering:mold:2>, 4000, 1);
 
 # EFLN
 	recipes.remove(<tconstruct:throwball:1>);
-	recipes.addShapedMirrored("EFLN", 
-	<tconstruct:throwball:1> * 3, 
+	recipes.addShapedMirrored("EFLN",
+	<tconstruct:throwball:1> * 3,
 	[[<ore:dustSulfur>, <ore:gunpowder>, <ore:dustSulfur>],
-	[<ore:gunpowder>, <excompressum:compressed_block:5>, <ore:gunpowder>], 
+	[<ore:gunpowder>, <excompressum:compressed_block:5>, <ore:gunpowder>],
 	[<ore:dustSulfur>, <ore:gunpowder>, <ore:dustSulfur>]]);
 
 # Removing the ability to smelt dusts into ingots, for Signalum, Lumium, Enderium and Refined Obsidian
@@ -128,6 +128,11 @@ for slime, dirts in slimeDirts {
 	for item in <ore:blockRedstone>.items { mods.tconstruct.Melting.removeRecipe(<liquid:redstone>, item); }
 	for item in <ore:dustGlowstone>.items { mods.tconstruct.Melting.removeRecipe(<liquid:glowstone>, item); }
 	for item in <ore:blockGlowstone>.items { mods.tconstruct.Melting.removeRecipe(<liquid:glowstone>, item); }
+	for item in <ore:dustRedstone>.items { mods.tcomplement.Blacklist.addRecipe(<liquid:redstone>, item); }
+	for item in <ore:blockRedstone>.items { mods.tcomplement.Blacklist.addRecipe(<liquid:redstone>, item); }
+	for item in <ore:dustGlowstone>.items { mods.tcomplement.Blacklist.addRecipe(<liquid:glowstone>, item); }
+	for item in <ore:blockGlowstone>.items { mods.tcomplement.Blacklist.addRecipe(<liquid:glowstone>, item); }
+	mods.tcomplement.Overrides.removeRecipe(<liquid:redstone>, <netherendingores:ore_nether_vanilla:6>);
 
 # Removing the ability to melt coal
 val coals as IItemStack[] = [
@@ -137,7 +142,7 @@ val coals as IItemStack[] = [
 	<nuclearcraft:ingot_block:8>,
 	<nuclearcraft:ingot:8>,
 	<nuclearcraft:dust:8>
-	
+
 ];
 
 for item in coals {
@@ -149,7 +154,7 @@ for item in coals {
 
 # Missed melt recipe for Block Of Ender Pearls
 	scripts.process.melt(<actuallyadditions:block_misc:6>, <liquid:ender> * 1000, "Except: Smeltery");
-	
+
 # Gear Cast
 	mods.tconstruct.Casting.addTableRecipe(<tconstruct:cast_custom:4>, <exnihilocreatio:item_material:7>, <liquid:gold>, 288, true);
 	mods.tconstruct.Casting.addTableRecipe(<tconstruct:cast_custom:4>, <exnihilocreatio:item_material:7>, <liquid:alubrass>, 144, true);
@@ -163,37 +168,37 @@ for item in coals {
 
 # Slime Slings
 	recipes.remove(<tconstruct:slimesling:*>);
-	recipes.addShaped("Slime Sling Green", 
-	<tconstruct:slimesling>, 
+	recipes.addShaped("Slime Sling Green",
+	<tconstruct:slimesling>,
 	[[<minecraft:lead>, <tconstruct:slime_congealed>, <minecraft:lead>],
-	[<ore:slimeballGreen>, <minecraft:bow>.anyDamage(), <ore:slimeballGreen>], 
+	[<ore:slimeballGreen>, <minecraft:bow>.anyDamage(), <ore:slimeballGreen>],
 	[null, <ore:slimeballGreen>, null]]);
-	
-	recipes.addShaped("Slime Sling Blue", 
-	<tconstruct:slimesling:1>, 
+
+	recipes.addShaped("Slime Sling Blue",
+	<tconstruct:slimesling:1>,
 	[[<minecraft:lead>, <tconstruct:slime_congealed:1>, <minecraft:lead>],
-	[<ore:slimeballBlue>, <minecraft:bow>.anyDamage(), <ore:slimeballBlue>], 
+	[<ore:slimeballBlue>, <minecraft:bow>.anyDamage(), <ore:slimeballBlue>],
 	[null, <ore:slimeballBlue>, null]]);
-	
-	recipes.addShaped("Slime Sling Purple", 
-	<tconstruct:slimesling:2>, 
+
+	recipes.addShaped("Slime Sling Purple",
+	<tconstruct:slimesling:2>,
 	[[<minecraft:lead>, <tconstruct:slime_congealed:2>, <minecraft:lead>],
-	[<ore:slimeballPurple>, <minecraft:bow>.anyDamage(), <ore:slimeballPurple>], 
+	[<ore:slimeballPurple>, <minecraft:bow>.anyDamage(), <ore:slimeballPurple>],
 	[null, <ore:slimeballPurple>, null]]);
-	
-	recipes.addShaped("Slime Sling blood", 
-	<tconstruct:slimesling:3>, 
+
+	recipes.addShaped("Slime Sling blood",
+	<tconstruct:slimesling:3>,
 	[[<minecraft:lead>, <tconstruct:slime_congealed:3>, <minecraft:lead>],
-	[<ore:slimeballBlood>, <minecraft:bow>.anyDamage(), <ore:slimeballBlood>], 
+	[<ore:slimeballBlood>, <minecraft:bow>.anyDamage(), <ore:slimeballBlood>],
 	[null, <ore:slimeballBlood>, null]]);
-	
-	recipes.addShaped("Slime Sling Magma", 
-	<tconstruct:slimesling:4>, 
+
+	recipes.addShaped("Slime Sling Magma",
+	<tconstruct:slimesling:4>,
 	[[<minecraft:lead>, <tconstruct:slime_congealed:4>, <minecraft:lead>],
-	[<ore:slimeballMagma>, <minecraft:bow>.anyDamage(), <ore:slimeballMagma>], 
+	[<ore:slimeballMagma>, <minecraft:bow>.anyDamage(), <ore:slimeballMagma>],
 	[null, <ore:slimeballMagma>, null]]);
 
-# Recipes to remove 
+# Recipes to remove
 	var recipesToRemove = [
 	<tinker_io:fuel_input_machine>,
 	<tinker_io:what_a_beautiful_block>,
@@ -205,11 +210,11 @@ for item in coals {
 	<tinker_io:cd_lonesome_avenue>,
 	<tinker_io:crushed_ore>
 	] as IItemStack[];
-	
+
 	for items in recipesToRemove {
 		rh(items);
 	}
-	
+
 # *======= Fuels =======*
 
 	<liquid:pyrotheum>.definition.temperature = 5300;
@@ -221,12 +226,12 @@ for item in coals {
 	<liquid:gasoline>.definition.temperature = 3900;
 	<liquid:diesel>.definition.temperature = 3900;
 	<liquid:astralsorcery.liquidstarlight>.definition.temperature = 3900;
-	
+
 	#NuclearCraft Specific
 	<liquid:neutron>.definition.temperature = 10300;
 	<liquid:boric_acid>.definition.temperature = 4000;
 	<liquid:hydrofluoric_acid>.definition.temperature = 4000;
-				
+
 	mods.tconstruct.Fuel.registerFuel(<liquid:pyrotheum> * 25, 400);
 	mods.tconstruct.Fuel.registerFuel(<liquid:xu_demonic_metal> * 25, 400);
 	mods.tconstruct.Fuel.registerFuel(<liquid:sulfuricacid> * 25, 400);
@@ -236,12 +241,12 @@ for item in coals {
 	mods.tconstruct.Fuel.registerFuel(<liquid:gasoline> * 25, 400);
 	mods.tconstruct.Fuel.registerFuel(<liquid:diesel> * 25, 400);
 	mods.tconstruct.Fuel.registerFuel(<liquid:astralsorcery.liquidstarlight> * 25, 600);
-	
+
 	#NuclearCraft Specific
 	mods.tconstruct.Fuel.registerFuel(<liquid:neutron> * 25, 1200);
 	mods.tconstruct.Fuel.registerFuel(<liquid:boric_acid> * 25, 400);
 	mods.tconstruct.Fuel.registerFuel(<liquid:hydrofluoric_acid> * 25, 400);
-	
+
 # Liquid blue slimy items
 scripts.process.squeeze([<tconstruct:slime_dirt:1>],        <liquid:blueslime>*2000, null,  <biomesoplenty:mudball>);
 scripts.process.squeeze([<tconstruct:slime_leaves>],        <liquid:blueslime>*500,  null, null);
@@ -281,6 +286,18 @@ mods.tconstruct.Casting.addBasinRecipe(<tconstruct:slime_congealed:1>, null, <li
 mods.tconstruct.Casting.addBasinRecipe(<minecraft:quartz_block>, null, <liquid:quartz>, 2664);
 mods.tconstruct.Casting.addBasinRecipe(<minecraft:lapis_block> , null, <liquid:lapis> , 5994);
 
+# Slime Dirt
+mods.tconstruct.Casting.addBasinRecipe(<tconstruct:slime_dirt:1>, <minecraft:dirt>, <liquid:blueslime>,   2000);
+mods.tconstruct.Casting.addBasinRecipe(<tconstruct:slime_dirt:2>, <minecraft:dirt>, <liquid:purpleslime>, 2000);
+scripts.process.fill(<minecraft:dirt>,  <liquid:blueslime>*2000,  <tconstruct:slime_dirt:1>,  "except: DryingBasin");
+scripts.process.fill(<minecraft:dirt>,  <liquid:purpleslime>*2000,  <tconstruct:slime_dirt:2>,  "except: DryingBasin");
+
+recipes.addShapeless("Green Slime Dirt",
+<tconstruct:slime_dirt:0>,
+[<minecraft:dirt>, <minecraft:slime_ball>]);
+recipes.addShapeless("Magma Slime Dirt",
+<tconstruct:slime_dirt:3>,
+[<minecraft:dirt>, <tconstruct:edible:4>]);
 
 # Clearing
 utils.clearFluid(<tconstruct:seared_tank:0>);
@@ -302,7 +319,7 @@ for item in loadedMods["tconstruct"].items {
 		Count: 1 as byte,
 		Damage: 0 as short,
 		tag: item.tag
-	}] as IData; 
+	}] as IData;
 	k += 1;
 }
 

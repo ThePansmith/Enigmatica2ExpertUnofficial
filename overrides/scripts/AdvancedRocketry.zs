@@ -127,3 +127,7 @@ recipes.addShapeless("Clearing AdvRock Tank", <advancedrocketry:liquidtank>, [<a
 # Mushrooms as energy providers
 mods.thermalexpansion.EnervationDynamo.addFuel(<advancedrocketry:electricmushroom>, 90000000);
 
+# Localization bug fixes
+<libvulpes:ore0>.displayName = "Dilithium Ore"; # Was 'material.Dilithium.name Ore'
+<libvulpes:battery:0>.displayName = "Battery"; # Used to have no name
+<libvulpes:battery:1>.displayName = "Battery Pack"; # Used to have no name

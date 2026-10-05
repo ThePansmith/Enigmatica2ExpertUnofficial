@@ -291,7 +291,7 @@ for i, it in mekTankIngrs {
 		craft.remake(<mekanism:gastank>.withTag({tier: i}) , grid, { 
 			"#": it, 
 			"-": <ore:ingotOsmium>, 
-			"o": i==0 ? null : <mekanism:gastank>.withTag({tier: i - 1}, false)
+			"o": i==0 ? null : <mekanism:gastank>.withTag({tier: i - 1}, true)
 		});
 	}
 
@@ -299,7 +299,7 @@ for i, it in mekTankIngrs {
 	craft.remake(<mekanism:machineblock2:11>.withTag({tier: i - 1}) , grid, { 
 		"#": it, 
 		"-": <ore:ingotIron>, 
-		"o": i==1 ? null : <mekanism:machineblock2:11>.withTag({tier: i - 2}, false)
+		"o": i==1 ? null : <mekanism:machineblock2:11>.withTag({tier: i - 2}, true)
 	});
 }
 
